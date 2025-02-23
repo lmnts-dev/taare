@@ -20,8 +20,10 @@
 {% comment %} Commence Addition {% endcomment %}
 {% assign bundle_variant = undefined %}
 
+<script>console.log("Commence Debug:", {{item.properties['_smartrr_info']}})</script>
+
 {% if item.properties['_smartrr_info'] != undefined %}
-  {% assign items = item.properties['_smartrr_info'] | split: 'id' %}
+  {% assign items = item.properties['_smartrr_info'] | split: '"id"' %}
   {% for item in items %}
     {% if forloop.index0 != 0 %}
       {% assign string = item | split: "quantity" %}
@@ -39,50 +41,54 @@
         {% endfor %}
       {% endpaginate %}
 
-      <div class="cart-item variant-{{ id }}" {% if animate %}{%- render 'animation-attrs', attrs: 'data-cc-animate', always: true -%}{% endif %}>
-        <div class="cart-item__column cart-item__image">
-          {% if bundle_variant.image %}
-            <a href="{{ bundle_variant.url }}">
-              {%- render 'image', image: bundle_variant.image, sizes: '100px', widths: '100, 200', loading: image_loading -%}
-            </a>
-          {% else %}
-            <a href="{{ bundle_variant.url }}">
-              {%- render 'image', image: bundle_variant.product.featured_image, sizes: '100px', widths: '100, 200', loading: image_loading -%}
-            </a>
-          {% endif %}
-        </div>
+      {% if bundle_variant != undefined and id != "" and id != undefined and quantity != "" and quantity != undefined %}
 
-        <div class="cart-item__not-image">
-          <div class="cart-item__column cart-item__description">
-            <div class="lightly-spaced-row">
-              <div class="cart-item__title">
-                <a class="text-current" href="{{ bundle_variant.url }}">{{ bundle_variant.product.title}}</a>
-              </div>
-              <div class="small-text">
-                  {% for option in bundle_variant.options -%}
-                    <div class="line-item-property">
-                      {{ bundle_variant.product.options[forloop.index0] }}: {{ option }}
-                    </div>
-                  {%- endfor %}
-                <div class="line-item-property">
-                  Quantity: {{quantity}}
+        <div class="cart-item variant-{{ id }}" {% if animate %}{%- render 'animation-attrs', attrs: 'data-cc-animate', always: true -%}{% endif %}>
+          <div class="cart-item__column cart-item__image">
+            {% if bundle_variant.image %}
+              <a href="{{ bundle_variant.url }}">
+                {%- render 'image', image: bundle_variant.image, sizes: '100px', widths: '100, 200', loading: image_loading -%}
+              </a>
+            {% else %}
+              <a href="{{ bundle_variant.url }}">
+                {%- render 'image', image: bundle_variant.product.featured_image, sizes: '100px', widths: '100, 200', loading: image_loading -%}
+              </a>
+            {% endif %}
+          </div>
+
+          <div class="cart-item__not-image">
+            <div class="cart-item__column cart-item__description">
+              <div class="lightly-spaced-row">
+                <div class="cart-item__title">
+                  <a class="text-current" href="{{ bundle_variant.url }}">{{ bundle_variant.product.title}}</a>
+                </div>
+                <div class="small-text">
+                    {% for option in bundle_variant.options -%}
+                      <div class="line-item-property">
+                        {{ bundle_variant.product.options[forloop.index0] }}: {{ option }}
+                      </div>
+                    {%- endfor %}
+                  <div class="line-item-property">
+                    Quantity: {{quantity}}
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
 
-          <div class="cart-item__column cart-item__price">
-            <span class="theme-money cart-item__selling-price">
-             {{ 0 | money }}
-            </span>
-          </div>
+            <div class="cart-item__column cart-item__price">
+              <span class="theme-money cart-item__selling-price">
+              {{ 0 | money }}
+              </span>
+            </div>
 
+          </div>
         </div>
-      </div>
+      {% endif %}
 
       {% comment %} To do if variant image exists, use it, if not product image {% endcomment %}
-      
     {% endif %}
+
+    {% assign bundle_variant = undefined %}
   {% endfor %}
 {% endif %}
 {% comment %} End Commence Addition {% endcomment %}
