@@ -31,7 +31,7 @@
               {% assign found_group = product.selling_plan_groups[0] %}
               {% for group in collection_product.selling_plan_groups %}
                 {% assign group_name = group.options[0].name | base64_encode %}
-                {% if group_name == smartrr_group_name %}                  
+                {% if group_name | strip == smartrr_group_name | strip %}                  
                   {% assign product_allowed = true %}
                   {% assign found_group = group %}
                 {% endif %}
