@@ -308,6 +308,7 @@ function GenerateSmartrrBundle(externalBundleInformation, $externalBundleLocatio
         // Reset the cart state so the new pack selection restarts
         handler.cart.currentNum = 0;
         handler.cart.lineItems = {};
+        reInitializeBundle();
       });
     }
     const $packlist = sh.qsad($packContainer, qt.PACKSELECTION.PACKTAG);
@@ -358,6 +359,7 @@ function GenerateSmartrrBundle(externalBundleInformation, $externalBundleLocatio
     $plans.forEach($plan => {
       sh.click($plan, function () {
         const newSellingPlan = sh.getAttribute($plan, qt.CARTINFO.PLANSELECTION.PLANLIST.PLANTAG);
+        console.log("Frequency option clicked (Selling Plan ID):", newSellingPlan);
         // update active class on plans
         sh.removeThenAddClass($plans, $plan, ct.ACTIVE);
         
