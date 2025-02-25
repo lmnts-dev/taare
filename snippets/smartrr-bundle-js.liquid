@@ -692,7 +692,13 @@ function GenerateSmartrrBundle(externalBundleInformation, $externalBundleLocatio
     sh.addHTML(handler.$loc, confirmationString);
     const $confirmation = sh.qsd(handler.$loc, qt.CARTINFO.CONFIRMATIONTAG);
     const $cta = sh.qsd($confirmation, qt.CARTINFO.CONFIRMATION.CTATAG);
-    sh.click($cta, function () { addBundleToCartAndRedirect(handler); });
+    sh.click($cta, function () { 
+      if (!CanConfirm(handler)) {
+        console.log("Cart not complete - please select all the required options");
+        return;
+      }
+      addBundleToCartAndRedirect(handler); 
+    });
     CanConfirm(handler);
   }
   function addBundleToCartAndRedirect(handler) {
