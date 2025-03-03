@@ -23,13 +23,14 @@
 <script>console.log("Commence Debug:", {{item.properties['_smartrr_info']}})</script>
 
 {% if item.properties['_smartrr_info'] != undefined %}
-  {% assign items = item.properties['_smartrr_info'] | split: '"id"' %}
+  {% assign items = item.properties['_smartrr_info'] | handle | split: '-quot-id-quot-' %}
+
   {% for item in items %}
     {% if forloop.index0 != 0 %}
       {% assign string = item | split: "quantity" %}
-      {% assign id = string[0] | handle | remove: 'quot' | remove: '-' | plus: 0 %}
+      {% assign id = string[0] | remove: 'quot' | remove: '-' | plus: 0 %}
       {% assign string = string[1] | split: "selling_plan" %}
-      {% assign quantity = string[0] | handle | remove: 'quot' | remove: '-' %}
+      {% assign quantity = string[0] | remove: 'quot' | remove: '-' %}
 
       {% paginate collections.all.products by 1000 %}
         {% for product in collections.all.products %}
