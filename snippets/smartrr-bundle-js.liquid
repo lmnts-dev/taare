@@ -70,7 +70,7 @@ function GenerateSmartrrBundle(externalBundleInformation, $externalBundleLocatio
         bundleHeader: "Build your subscription box",
         packSelectionHeader: "Step 1 of 4: How many pairs in each box?",
         packSelectedHeader: "Step 1 of 4: How many pairs in each box?",
-        packSelectionSizeChange: "Select different size",
+        packSelectionSizeChange: "Change pairs quantity",
         productSelectionFilterLabel: n => `Step 4 of 4: Select ${n} Shoe Styles`,
         productAddToCart: "Add",
         productSearchPlaceholder: "Search",
@@ -529,12 +529,11 @@ function GenerateSmartrrBundle(externalBundleInformation, $externalBundleLocatio
     if (variant && variant.title !== "Default Title") titleString = variant ? `${product.title} - ${variant.title}` : "";
     else titleString = variant ? `${product.title}` : "";
     const variantString = `
-      <div data-smartrr-psl-card="${variantIDString}" data-smartrr-psl-card-product="${productIDString}" class="${classesString}">
+      <div data-smartrr-psl-card="${variantIDString}" data-smartrr-psl-card-product="${productIDString}" class="${classesString}" style="position: relative;">
         <div data-smartrr-psl-card-image>
-          <a href="${variant ? variant.url : ""}" target="_blank">
             <img data-smartrr-image-default="${imageDefault}" src="${imageString}" loading="lazy"/>
-          </a>
         </div>
+        <div data-smartrr-psl-card-name><span>${titleString}</span></div>
         <div data-smartrr-psl-card-cta>
           <div data-smartrr-plsc-cta-minus><span>-</span></div>
           <div data-smartrr-plsc-cta-value="?1?">?1?</div>
@@ -543,7 +542,6 @@ function GenerateSmartrrBundle(externalBundleInformation, $externalBundleLocatio
             <span>${intl().productAddToCart}</span>
           </div>
         </div>
-        <div data-smartrr-psl-card-name><span>${titleString}</span></div>
       </div>
     `;
     sh.addHTML($productList, variantString);

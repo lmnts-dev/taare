@@ -353,6 +353,7 @@
     gap: var(--smartrr-padding-main);
     margin-top: var(--smartrr-padding-main);
     justify-content: flex-start;
+    align-items: flex-start;
     overflow-x: auto;
     padding-bottom: var(--smartrr-padding-small);
   }
@@ -373,7 +374,6 @@
 
   [data-smartrr-psl-card-cta] {
     width: 100%;
-    position: relative;
     line-height: var(--smartrr-text-general-lineheight);
     font-size: var(--smartrr-text-general-fontsize);
     padding: var(--smartrr-padding-tiny);
@@ -390,9 +390,9 @@
     cursor: pointer;
     position: absolute;
     left: var(--smartrr-padding-main);
-    top: 50%;
-    transform: translate(-50%, -50%);
-    padding: var(--smartrr-padding-small);
+    bottom: 0;
+    transform: translate(-50%, 0);
+    padding: var(--smartrr-padding-tiny);
     z-index: calc(var(--smartrr-bundle-z-index) + 1);
   }
 
@@ -400,9 +400,9 @@
     cursor: pointer;
     position: absolute;
     right: var(--smartrr-padding-main);
-    top: 50%;
-    transform: translate(50%, -50%);
-    padding: var(--smartrr-padding-small);
+    bottom: 0;
+    transform: translate(50%, 0);
+    padding: var(--smartrr-padding-tiny);
     z-index: calc(var(--smartrr-bundle-z-index) + 1);
   }
 
@@ -412,7 +412,7 @@
 
   [data-smartrr-plsc-cta-atc] {
     display: none;
-
+    justify-content: flex-end;
     cursor: pointer;
     position: absolute;
     top: 0px;
@@ -420,15 +420,17 @@
     width: 100%;
     height: 100%;
     z-index: calc(var(--smartrr-bundle-z-index) + 2);
-    background-color: white;
-
-    box-shadow: 0 0 0 1px var(--smartrr-border-color-main) inset;
 
     border-radius: var(--smartrr-padding-main);
 
     flex-direction: column;
     align-items: center;
-    justify-content: space-around;
+  }
+
+  [data-smartrr-plsc-cta-atc] span {
+    background: white;
+    padding: calc(var(--smartrr-padding-tiny) - 1px);
+    margin-bottom: 2px;
   }
 
   [data-smartrr-plsc-cta-atc].smartrr-active {
@@ -439,6 +441,7 @@
     line-height: var(--smartrr-text-general-lineheight);
     font-size: var(--smartrr-text-general-fontsize);
     margin-top: var(--smartrr-padding-tiny);
+    margin-bottom: var(--smartrr-padding-tiny);
     word-break: break-word;
   }
 
