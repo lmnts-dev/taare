@@ -8,7 +8,7 @@
   var SmartrrBundleInformation = {
     name: "Sneaker Box Commence",
     slug: "sneaker-box-commence/cc3e93ef-5135-4177-990f-1fec8d134cc2",
-    
+
     searchFilters: [
 	{
 		"name": "default",
@@ -31,7 +31,7 @@
               {% assign found_group = product.selling_plan_groups[0] %}
               {% for group in collection_product.selling_plan_groups %}
                 {% assign group_name = group.options[0].name | base64_encode %}
-                {% if group_name | strip == smartrr_group_name | strip %}                  
+                {% if group_name | strip == smartrr_group_name | strip %}
                   {% assign product_allowed = true %}
                   {% assign found_group = group %}
                 {% endif %}
@@ -105,7 +105,7 @@
 	{
 		"name": "1 Pair",
 		"alert": "",
-		"description": "$99/pair",
+		"description": "$90",
 		"maxProducts": 1,
 		"minProducts": 1,
 		"buyWithVariant": "49680295428398",
@@ -116,7 +116,7 @@
 	{
 		"name": "2 Pairs",
 		"alert": "Most Popular",
-		"description": "$94.50/pair",
+		"description": "$170 ($85/pair)",
 		"maxProducts": 2,
 		"minProducts": 2,
 		"buyWithVariant": "49680295461166",
@@ -127,7 +127,7 @@
 	{
 		"name": "3 Pairs",
 		"alert": "Trending",
-		"description": "$93/pair",
+		"description": "$240 ($80/pair)",
 		"maxProducts": 3,
 		"minProducts": 3,
 		"buyWithVariant": "49680295493934",
