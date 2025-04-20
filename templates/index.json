@@ -1,1 +1,954 @@
-{"sections":{"compact_messages_FLahDm":{"type":"compact-messages","blocks":{"message_k6JMdm":{"type":"message","settings":{"heading":"Spread Happiness","subheading":"For every purchased pair, we donate a new pair to a child in need","link_url":""}}},"block_order":["message_k6JMdm"],"settings":{"head_not_col_bg":"#f4f6f8","head_not_col_txt1":"#171717","head_not_col_txt2":"#4c4c4b","head_not_mob_show":true,"head_not_mob_text":"Spread Happiness: When you buy a pair, we donate a pair.","head_not_mob_url":""}},"image_with_text_overlay_N8cTLr":{"type":"image-with-text-overlay","blocks":{"subheading_E6cPTJ":{"type":"subheading","settings":{"subheading":""}},"heading_UPAtHe":{"type":"heading","settings":{"title":"All-day shoes for growing kids","heading_max_width":29,"title_size":64,"title_size_mobile":32,"use_h1":true}},"text_CpKChi":{"type":"text","settings":{"text":"<p>Shop our extremely comfortable collection for little kids (ages 4-8 years). <\/p>","enlarge_text":true}},"button_HN3gPM":{"type":"button","settings":{"button_label":"Explore our collection","button_link":"shopify:\/\/collections\/sneakers","button_style":"secondary"}},"button_YywMjL":{"type":"button","settings":{"button_label":"See subscription plans","button_link":"shopify:\/\/pages\/subscription","button_style":"secondary"}}},"block_order":["subheading_E6cPTJ","heading_UPAtHe","text_CpKChi","button_HN3gPM","button_YywMjL"],"settings":{"image":"shopify:\/\/shop_images\/and-i-was-a-boy-from-school.jpg","height":"fixed","height_desktop":600,"height_mobile":460,"image_link":"","full_width":true,"text_alignment":"top left","mobile_overlay_under":false,"overlay_style":"shadow"}},"multi_column_Cme7hY":{"type":"multi-column","blocks":{"text_block_Rq4hAq":{"type":"text_block","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/taare-aquilla-sneakers-for-kids-side-profile-2.jpg","title":"Aquila","text":"<p>A striking monochrome sneaker that combines sleek design and bold accents with the ultimate comfort.<\/p>","button_label":"","link":"shopify:\/\/products\/aquila-altair"}},"text_block_PxmTey":{"type":"text_block","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/taare-cygnus-sneakers-for-kids-side-profile-2.jpg","title":"Cygnus","text":"<p>Crafted with premium materials.  Blends comfort and classic design to create a timeless feel.<\/p>","button_label":"","link":"shopify:\/\/products\/cygnus-deneb"}},"text_block_pNq3cz":{"type":"text_block","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/IBS06065.jpg","title":"Pavo","text":"<p>A captivating blend of bold designs and vibrant hues brings a playful and unforgettable style.<\/p>","button_label":"","link":"shopify:\/\/products\/pavo-alpha"}}},"block_order":["text_block_Rq4hAq","text_block_PxmTey","text_block_pNq3cz"],"settings":{"title":"Shoes designed for Comfort","media_aspect_ratio":"s","media_width":700,"text_alignment":"center","button_style":"primary","color_scheme":"default"}},"hotspots_drjTFg":{"type":"hotspots","blocks":{"hotspot_TPAftp":{"type":"hotspot","settings":{"hotspot_x":47,"hotspot_y":44,"hotspot_x_mobile":50,"hotspot_y_mobile":50,"heading":"Easy Closures","text":"<p>Easy closure with a hook-and-loop strap to create a wide opening for easy-on and easy-off. A no-tie lacing system to keep them active and on the go.<\/p>","icon":"","icon_width":32}},"hotspot_LRpj9y":{"type":"hotspot","settings":{"hotspot_x":35,"hotspot_y":64,"hotspot_x_mobile":50,"hotspot_y_mobile":50,"heading":"Super Cushion","text":"<p>Super cushioned mid-sole with a grippy rubber outsole to ensure that the spring in those feet stay consistent all day long.<\/p>","icon":"","icon_width":32}},"hotspot_KJLB7T":{"type":"hotspot","settings":{"hotspot_x":26,"hotspot_y":31,"hotspot_x_mobile":50,"hotspot_y_mobile":50,"heading":"Heel Tab","text":"<p>Heel tab to help little ones with easy sliding their feet into the shoes.<\/p>","icon":"","icon_width":32}},"hotspot_BDU4tr":{"type":"hotspot","settings":{"hotspot_x":73,"hotspot_y":54,"hotspot_x_mobile":73,"hotspot_y_mobile":54,"heading":"Protecting the Play","text":"<p>Added reinforcements to help with wear and tear and protect those precious toes.<\/p>","icon":"","icon_width":32}}},"block_order":["hotspot_TPAftp","hotspot_LRpj9y","hotspot_KJLB7T","hotspot_BDU4tr"],"settings":{"image":"shopify:\/\/shop_images\/12_562749af-0e94-49b5-a513-d76b9de81977.png","hotspot_color":"#070707","button_content":"plus","outer_circle":"pulse","full_width":true,"text_alignment":"top left","overlay_style":"shadow","subheading":"Discover what makes our shoes special","title":"Explore the Tech","use_h1":false,"heading_max_width":10,"text":"","button_1_label":"","button_1_link":"","button_1_style":"secondary","button_2_label":"","button_2_link":"","button_2_style":"primary"}},"1635927863703110df":{"type":"rich-text","blocks":{"1635927863703110df-2":{"type":"text","settings":{"text":"","enlarge_text":true}}},"block_order":["1635927863703110df-2"],"disabled":true,"settings":{"height":"small","text_alignment":"center","full_width":true,"color_scheme":"default"}},"hotspots_gU9M47":{"type":"hotspots","blocks":{"hotspot_fp4kH3":{"type":"hotspot","settings":{"hotspot_x":48,"hotspot_y":34,"hotspot_x_mobile":50,"hotspot_y_mobile":50,"heading":"Premium Insole and Lining","text":"<p>A 100% textile lining and cushioned insole.<\/p>","icon":"","icon_width":32}},"hotspot_aiAyLz":{"type":"hotspot","settings":{"hotspot_x":47,"hotspot_y":81,"hotspot_x_mobile":50,"hotspot_y_mobile":50,"heading":"Premium Uppers","text":"<p>Soft premium uppers to help those feet stay comfortable and fresh all day long.<\/p>","icon":"","icon_width":32}}},"block_order":["hotspot_fp4kH3","hotspot_aiAyLz"],"settings":{"image":"shopify:\/\/shop_images\/13.png","hotspot_color":"#070707","button_content":"plus","outer_circle":"pulse","full_width":true,"text_alignment":"top left","overlay_style":"shadow","subheading":"","title":"","use_h1":false,"heading_max_width":10,"text":"","button_1_label":"","button_1_link":"","button_1_style":"secondary","button_2_label":"","button_2_link":"","button_2_style":"primary"}},"key_features_qp3AeF":{"type":"key-features","blocks":{"feature_ym8XAQ":{"type":"feature","settings":{"image":"shopify:\/\/shop_images\/IBS06260_1521a939-6618-4c94-a3e8-012c88fd6b28.jpg","bg_color":"#e3e3e3","bg_gradient":"","text_color":"#505050","heading":"Super plush","text":"<p>All our shoes feature a super cushioned midsole with a rubber outsole to ensure that the spring in those feet stay consistent all day long. Our 100% textile lining and a cushioned insole adds to that walking on cloud feeling all-day for those all-day adventures.<\/p>","show_segments":true,"segments":4,"active_segment":"1","fill_segments":true,"show_labels":true,"label_left":"","label_middle":"","label_right":"","show_icon":false,"icon":"star"}},"feature_FLJcQF":{"type":"feature","settings":{"image":"shopify:\/\/shop_images\/IBS06142new.jpg","bg_color":"#e3e3e3","bg_gradient":"","text_color":"#505050","heading":"Protect the play","text":"<p>For our kids range, we have paid special attention to protection. Our shoes feature a toe cap and added reinforcements to help with wear and tear and protect those precious toes.<\/p>","show_segments":true,"segments":4,"active_segment":"2","fill_segments":true,"show_labels":true,"label_left":"","label_middle":"","label_right":"","show_icon":false,"icon":"star"}},"feature_nkgmLn":{"type":"feature","settings":{"image":"shopify:\/\/shop_images\/IBS06265_871a68a2-7bf1-447e-a7bc-d8668ce6839c.jpg","bg_color":"#c3c3c3","bg_gradient":"","text_color":"#505050","heading":"Easy closure","text":"<p>Our Aquila and Pavo styles come with a no-tie lacing system to keep the kids active and on the go. The hook-and-loop strap created a wide opening for easy-on and easy-off and the heel tab allows easy sliding of feet into the shoes<\/p>","show_segments":true,"segments":4,"active_segment":"3","fill_segments":true,"show_labels":true,"label_left":"","label_middle":"","label_right":"","show_icon":false,"icon":"star"}},"feature_MPiXyY":{"type":"feature","settings":{"image":"shopify:\/\/shop_images\/IBS06069_57aba164-93fb-45cd-baf4-319a0a1ac6c8.jpg","bg_color":"#e3e3e3","bg_gradient":"","text_color":"#505050","heading":"A striking design","text":"<p>If you prefer classics and laces, check out Cygnus. Designed with both functionality and style in mind, the Cygnus series provide a secure fit and extra support. Perfect for active little ones on the go.<\/p>","show_segments":true,"segments":5,"active_segment":"4","fill_segments":true,"show_labels":true,"label_left":"","label_middle":"","label_right":"","show_icon":false,"icon":"star"}}},"block_order":["feature_ym8XAQ","feature_FLJcQF","feature_nkgmLn","feature_MPiXyY"],"disabled":true,"settings":{"heading":"Key features","image_max_width":700,"media_aspect_ratio":"1","image_position":"left","segment_position":"over-text"}},"rich_text_7kL8xy":{"type":"rich-text","blocks":{"text_rz9Epm":{"type":"text","settings":{"text":"","enlarge_text":true}}},"block_order":["text_rz9Epm"],"settings":{"height":"medium","text_alignment":"center","full_width":true,"color_scheme":"default"}},"rich_text_yPDt9n":{"type":"rich-text","blocks":{"text_7YKgG4":{"type":"text","settings":{"text":"<p><strong>Try our Subscription Box. <\/strong><\/p><p><strong>Receive a box every few months. Swap styles & sizes across boxes.<\/strong><\/p>","enlarge_text":true}}},"block_order":["text_7YKgG4"],"settings":{"height":"small","text_alignment":"center","full_width":true,"color_scheme":"default"}},"163592857728b8bdc2":{"type":"multi-column","blocks":{"163592857728b8bdc2-1":{"type":"text_block","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/Taare_Collection_Widescreen.png","title":"Easy sizing up","text":"<p>Kids aged 4-8 years typically need a new pair every few months. Our subscription ensures a perfect fit, always. <\/p>","button_label":"","link":""}},"163592857728b8bdc2-0":{"type":"text_block","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/3.png","title":"Less stress","text":"<p>Don't scramble on a Sunday evening when you discover your kids have outgrown or wrecked their shoes.<\/p>","button_label":"","link":""}},"text_block_jWER7Y":{"type":"text_block","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/Taare_Control_Subscription.png","title":"Save $","text":"<p>Save $21 or more on each pair when you subscribe. No hidden fees. Pause or cancel anytime.<\/p>","button_label":"","link":""}},"163592857728b8bdc2-2":{"type":"text_block","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/Taare_Referral.png","title":"More perks","text":"<p>Earn more reward points when you subscribe. Unlock exclusive styles and a longer return period.<\/p>","button_label":"","link":""}}},"block_order":["163592857728b8bdc2-1","163592857728b8bdc2-0","text_block_jWER7Y","163592857728b8bdc2-2"],"settings":{"title":"WHY SUBSCRIPTION BOX?","media_aspect_ratio":"s","media_width":700,"text_alignment":"center","button_style":"primary","color_scheme":"1"}},"image_with_text_qiC4Dd":{"type":"image-with-text","blocks":{"heading_HjnF3U":{"type":"heading","settings":{"title":"More Reasons to Subscribe","use_h1":false}},"text_a3dTWa":{"type":"text","settings":{"text":"<ul><li><strong>Fresh styles added frequently:<\/strong> Choose from our growing collection of shoes. We are launching with three designs that cover your child's needs and will keep adding more.<\/li><\/ul><p><\/p><ul><li><strong>Plans for every family:<\/strong> Select how many pairs your child needs and set the delivery frequency. Change preferences as needed.<\/li><\/ul>","enlarge_text":false}},"button_NLKpeg":{"type":"button","settings":{"button_label":"See Subscription Plans","button_link":"shopify:\/\/pages\/subscription","button_style":"primary"}}},"block_order":["heading_HjnF3U","text_a3dTWa","button_NLKpeg"],"settings":{"image":"shopify:\/\/shop_images\/Taare_Fresh_Styles_800_x_800_px_2.png","image_2":"shopify:\/\/shop_images\/family-holding-hands.jpg","image_width":700,"image_link":"","image_position":"right","text_alignment":"left","color_scheme":"1"}},"image_with_text_34cKQa":{"type":"image-with-text","blocks":{"heading_tQfrjn":{"type":"heading","settings":{"title":"Your Purchase Spreads Happiness!","use_h1":false}},"text_xGyAmR":{"type":"text","settings":{"text":"<p>We have partnered with Soles4Souls, a top US non-profit organization, to donate a new pair for every pair you purchase!<\/p>","enlarge_text":false}},"button_eAbWRx":{"type":"button","settings":{"button_label":"Learn more","button_link":"shopify:\/\/pages\/about-us","button_style":"secondary"}},"button_aekmER":{"type":"button","disabled":true,"settings":{"button_label":"Preorder","button_link":"shopify:\/\/pages\/subscription","button_style":"primary"}}},"block_order":["heading_tQfrjn","text_xGyAmR","button_eAbWRx","button_aekmER"],"settings":{"image":"shopify:\/\/shop_images\/Taare-Soles4Souls-Partnership-Buy1Give1-1.jpg","image_2":"shopify:\/\/shop_images\/Taare-Soles4Souls-Partnership-Buy1Give1-2.jpg","image_width":700,"image_link":"","image_position":"left","text_alignment":"left","color_scheme":"default"}},"image_with_text_YtdKMm":{"type":"image-with-text","blocks":{"heading_94Feqf":{"type":"heading","settings":{"title":"Let's Complete the Cycle","use_h1":false}},"text_WCAgnr":{"type":"text","settings":{"text":"<p>Your child's gently used shoes can find new life around the world, creating economic opportunities and protecting the planet.<\/p><p>With our prepaid shipping labels, donating is effortless. Help bring change.<\/p>","enlarge_text":false}},"button_baiJ6L":{"type":"button","settings":{"button_label":"Learn More","button_link":"shopify:\/\/pages\/about-us","button_style":"secondary"}},"button_tK6N7D":{"type":"button","disabled":true,"settings":{"button_label":"Preorder","button_link":"shopify:\/\/pages\/subscription","button_style":"primary"}}},"block_order":["heading_94Feqf","text_WCAgnr","button_baiJ6L","button_tK6N7D"],"settings":{"image":"shopify:\/\/shop_images\/Taare-Soles4Souls-Partnership-4ThePlanet-1.jpg","image_2":"shopify:\/\/shop_images\/Taare-Soles4Souls-Partnership-4Opportunity-1.jpg","image_width":700,"image_link":"","image_position":"right","text_alignment":"left","color_scheme":"default"}},"image_with_text_jHwMYV":{"type":"image-with-text","blocks":{"heading_4dyN6N":{"type":"heading","settings":{"title":"Fresh Styles for All-Day Play","use_h1":false}},"text_nHCA9h":{"type":"text","settings":{"text":"<p>Choose from our growing collection of shoes. We are starting with three designs that cover your child's needs. New designs added every month.<\/p>","enlarge_text":false}},"button_YGNcrG":{"type":"button","settings":{"button_label":"PreOrder Now","button_link":"shopify:\/\/pages\/subscription","button_style":"primary"}}},"block_order":["heading_4dyN6N","text_nHCA9h","button_YGNcrG"],"disabled":true,"settings":{"image":"shopify:\/\/shop_images\/IBS06338_bedd8837-f938-4c93-9115-34acf0500dc5.jpg","image_2":"shopify:\/\/shop_images\/IBS06339_new.jpg","image_width":700,"image_link":"","image_position":"left","text_alignment":"left","color_scheme":"default"}},"multi_column_HEYfgT":{"type":"multi-column","blocks":{"text_block_98QcMy":{"type":"text_block","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/Aquila_1.png","title":"","text":"<p>A striking monochrome sneaker  that combines sleek design and bold accents with the ultimate comfort.<\/p>","button_label":"Explore","link":"shopify:\/\/products\/aquila-altair"}},"text_block_BtrN9k":{"type":"text_block","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/Pavo_6.png","title":"","text":"<p>The Pavo sneaker line creates a striking display of vibrant hues and playful patterns to bring bold designs to our comfortable shoes.<\/p>","button_label":"Explore","link":"shopify:\/\/products\/pavo-alpha"}},"text_block_RdPzDi":{"type":"text_block","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/Cygnus.png","title":"","text":"<p>Cygnus is crafted with premium materials, and blends comfort and style to create a timeless collection of classic shoes for kids. <\/p>","button_label":"Explore","link":"shopify:\/\/products\/cygnus-deneb"}}},"block_order":["text_block_98QcMy","text_block_BtrN9k","text_block_RdPzDi"],"disabled":true,"settings":{"title":"Our Launch Collection","media_aspect_ratio":"s","media_width":700,"text_alignment":"center","button_style":"secondary","color_scheme":"2"}},"key_features_b6BHqm":{"type":"key-features","blocks":{"feature_HyJMEj":{"type":"feature","settings":{"image":"shopify:\/\/shop_images\/children-lined-up.jpg","bg_color":"#e3e3e3","bg_gradient":"","text_color":"#505050","heading":"Our Mission","text":"<p>To help children everywhere truly shine.<\/p><p>That's why when you purchase a pair, we donate a new pair to a child who needs it. <\/p><p>But selling great kids footwear is only the first step. <a href=\"https:\/\/www.instagram.com\/taareofficial\" target=\"_blank\" title=\"Follow us on IG\">Follow us<\/a> on Instagram to see the change we hope to bring in this world.<\/p>","show_segments":true,"segments":4,"active_segment":"1","fill_segments":true,"show_labels":true,"label_left":"","label_middle":"","label_right":"","show_icon":false,"icon":"star"}},"feature_UDGEgd":{"type":"feature","settings":{"image":"shopify:\/\/shop_images\/children-create-for-their-mom.jpg","bg_color":"#e3e3e3","bg_gradient":"","text_color":"#505050","heading":"We believe","text":"<h6>That life’s greatest privilege and joy is to serve our children, helping them grow into responsible and caring human beings.<\/h6><h6><a href=\"https:\/\/www.instagram.com\/taareofficial\" target=\"_blank\" title=\"Follow us on IG\">Follow us<\/a> on Instagram for city guides for children's activities.<\/h6>","show_segments":true,"segments":4,"active_segment":"2","fill_segments":true,"show_labels":true,"label_left":"","label_middle":"","label_right":"","show_icon":false,"icon":"star"}},"feature_KHMJid":{"type":"feature","settings":{"image":"shopify:\/\/shop_images\/mom-and-children-laughing-mothers-day.jpg","bg_color":"#c3c3c3","bg_gradient":"","text_color":"#505050","heading":"We help","text":"<p>Parents become their best selves for their children. <\/p><p><a href=\"https:\/\/www.instagram.com\/taareofficial\" target=\"_blank\" title=\"Follow us on IG\">Follow us<\/a> on Instagram for parenting tips that you can use.<\/p>","show_segments":true,"segments":4,"active_segment":"3","fill_segments":true,"show_labels":true,"label_left":"","label_middle":"","label_right":"","show_icon":false,"icon":"star"}},"feature_KckPyi":{"type":"feature","settings":{"image":"shopify:\/\/shop_images\/small-socks-with-the-words-mom-and-dad.jpg","bg_color":"#e3e3e3","bg_gradient":"","text_color":"#505050","heading":"Parent powered!","text":"<p>Started by parents who wanted to do better for their kids. We quit our corporate jobs to build a socially responsible business. <\/p><p>We are small, but full of heart.<\/p>","show_segments":true,"segments":4,"active_segment":"4","fill_segments":true,"show_labels":true,"label_left":"","label_middle":"","label_right":"","show_icon":false,"icon":"star"}}},"block_order":["feature_HyJMEj","feature_UDGEgd","feature_KHMJid","feature_KckPyi"],"disabled":true,"settings":{"heading":"Who we are","image_max_width":700,"media_aspect_ratio":"1","image_position":"left","segment_position":"over-text"}},"faq_header_3pTzCm":{"type":"faq-header","settings":{"title":"FAQs","use_h1":false,"text":"","show_search":false,"show_index":false,"index_heading":"How can we help?"}},"collapsible_tabs_BxURwW":{"type":"collapsible-tabs","blocks":{"question_JFn7wm":{"type":"question","settings":{"title":"What age group of kids do you serve?","answer":"<p>We currently have shoes for little kids aged 4-8 years, with sizes from 10.5 to 3. We plan to add new sizes in near future.<\/p>"}},"question_UL3m4k":{"type":"question","settings":{"title":"How does the subscription work?","answer":"<p>Our subscription ships fresh pairs of kids' shoes to your doorstep every few months. <\/p><p>When starting the subscription, decide how many pairs your child needs and how often. When your next subscription is a few weeks out, we will alert you to confirm the next pair's pair style and size.<\/p>"}},"question_ThVkPJ":{"type":"question","settings":{"title":"Is this a mystery box subscription?","answer":"<p>No. You can choose the shoes your child needs.  <\/p>"}},"question_MiMLRz":{"type":"question","settings":{"title":"Do you plan to add more styles?","answer":"<p>Yes, we will soon add more styles as we scale up. Our launch collection has 3 styles that cover your child's every day needs - from activewear to fashionwear.<\/p>"}},"question_KKUna3":{"type":"question","disabled":true,"settings":{"title":"How good are your shoes?","answer":"<p>We spent over a year carefully researching, finalizing, and testing multiple manufacturers to finalize a factory that can produce very high quality shoes. <\/p><p>But don't take our word for it. Have your child try out our shoes.   <\/p>"}},"question_NzXgdY":{"type":"question","disabled":true,"settings":{"title":"How do you pronounce Taare?","answer":"<p>Taare is pronounced 'Taa-Ray'. It means stars in the Hindi language.<\/p>"}}},"block_order":["question_JFn7wm","question_UL3m4k","question_ThVkPJ","question_MiMLRz","question_KKUna3","question_NzXgdY"],"settings":{"title":""}}},"order":["compact_messages_FLahDm","image_with_text_overlay_N8cTLr","multi_column_Cme7hY","hotspots_drjTFg","1635927863703110df","hotspots_gU9M47","key_features_qp3AeF","rich_text_7kL8xy","rich_text_yPDt9n","163592857728b8bdc2","image_with_text_qiC4Dd","image_with_text_34cKQa","image_with_text_YtdKMm","image_with_text_jHwMYV","multi_column_HEYfgT","key_features_b6BHqm","faq_header_3pTzCm","collapsible_tabs_BxURwW"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "compact_messages_FLahDm": {
+      "type": "compact-messages",
+      "blocks": {
+        "message_k6JMdm": {
+          "type": "message",
+          "settings": {
+            "heading": "Be Limitless",
+            "subheading": "Shoes made for big dreams",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "message_k6JMdm"
+      ],
+      "disabled": true,
+      "settings": {
+        "head_not_col_bg": "#f4f6f8",
+        "head_not_col_txt1": "#171717",
+        "head_not_col_txt2": "#4c4c4b",
+        "head_not_mob_show": false,
+        "head_not_mob_text": "Be limitless!",
+        "head_not_mob_url": ""
+      }
+    },
+    "image_with_text_overlay_N8cTLr": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_E6cPTJ": {
+          "type": "subheading",
+          "settings": {
+            "subheading": ""
+          }
+        },
+        "heading_UPAtHe": {
+          "type": "heading",
+          "settings": {
+            "title": "All-day shoes for growing kids",
+            "heading_max_width": 29,
+            "title_size": 64,
+            "title_size_mobile": 32,
+            "use_h1": true
+          }
+        },
+        "text_CpKChi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Shop our extremely comfortable collection for little kids (ages 4-8 years). </p>",
+            "enlarge_text": true
+          }
+        },
+        "button_HN3gPM": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explore our collection",
+            "button_link": "shopify://collections/sneakers",
+            "button_style": "secondary"
+          }
+        },
+        "button_YywMjL": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "See subscription plans",
+            "button_link": "shopify://pages/subscription",
+            "button_style": "secondary"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_E6cPTJ",
+        "heading_UPAtHe",
+        "text_CpKChi",
+        "button_HN3gPM",
+        "button_YywMjL"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/and-i-was-a-boy-from-school.jpg",
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "full_width": true,
+        "text_alignment": "top left",
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "multi_column_Cme7hY": {
+      "type": "multi-column",
+      "blocks": {
+        "text_block_Rq4hAq": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/taare-aquilla-sneakers-for-kids-side-profile-2.jpg",
+            "title": "Aquila",
+            "text": "<p>A striking monochrome sneaker that combines sleek design and bold accents with the ultimate comfort.</p>",
+            "button_label": "",
+            "link": "shopify://products/aquila-altair"
+          }
+        },
+        "text_block_PxmTey": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/taare-cygnus-sneakers-for-kids-side-profile-2.jpg",
+            "title": "Cygnus",
+            "text": "<p>Crafted with premium materials.  Blends comfort and classic design to create a timeless feel.</p>",
+            "button_label": "",
+            "link": "shopify://products/cygnus-deneb"
+          }
+        },
+        "text_block_pNq3cz": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/IBS06065.jpg",
+            "title": "Pavo",
+            "text": "<p>A captivating blend of bold designs and vibrant hues brings a playful and unforgettable style.</p>",
+            "button_label": "",
+            "link": "shopify://products/pavo-alpha"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_Rq4hAq",
+        "text_block_PxmTey",
+        "text_block_pNq3cz"
+      ],
+      "settings": {
+        "title": "Shoes designed for Comfort",
+        "media_aspect_ratio": "s",
+        "media_width": 700,
+        "text_alignment": "center",
+        "button_style": "primary",
+        "color_scheme": "default"
+      }
+    },
+    "hotspots_drjTFg": {
+      "type": "hotspots",
+      "blocks": {
+        "hotspot_TPAftp": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 47,
+            "hotspot_y": 44,
+            "hotspot_x_mobile": 50,
+            "hotspot_y_mobile": 50,
+            "heading": "Easy Closures",
+            "text": "<p>Easy closure with a hook-and-loop strap to create a wide opening for easy-on and easy-off. A no-tie lacing system to keep them active and on the go.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        },
+        "hotspot_LRpj9y": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 35,
+            "hotspot_y": 64,
+            "hotspot_x_mobile": 50,
+            "hotspot_y_mobile": 50,
+            "heading": "Super Cushion",
+            "text": "<p>Super cushioned mid-sole with a grippy rubber outsole to ensure that the spring in those feet stay consistent all day long.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        },
+        "hotspot_KJLB7T": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 26,
+            "hotspot_y": 31,
+            "hotspot_x_mobile": 50,
+            "hotspot_y_mobile": 50,
+            "heading": "Heel Tab",
+            "text": "<p>Heel tab to help little ones with easy sliding their feet into the shoes.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        },
+        "hotspot_BDU4tr": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 73,
+            "hotspot_y": 54,
+            "hotspot_x_mobile": 73,
+            "hotspot_y_mobile": 54,
+            "heading": "Protecting the Play",
+            "text": "<p>Added reinforcements to help with wear and tear and protect those precious toes.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "hotspot_TPAftp",
+        "hotspot_LRpj9y",
+        "hotspot_KJLB7T",
+        "hotspot_BDU4tr"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/12_562749af-0e94-49b5-a513-d76b9de81977.png",
+        "hotspot_color": "#070707",
+        "button_content": "plus",
+        "outer_circle": "pulse",
+        "full_width": true,
+        "text_alignment": "top left",
+        "overlay_style": "shadow",
+        "subheading": "Discover what makes our shoes special",
+        "title": "Explore the Tech",
+        "use_h1": false,
+        "heading_max_width": 10,
+        "text": "",
+        "button_1_label": "",
+        "button_1_link": "",
+        "button_1_style": "secondary",
+        "button_2_label": "",
+        "button_2_link": "",
+        "button_2_style": "primary"
+      }
+    },
+    "1635927863703110df": {
+      "type": "rich-text",
+      "blocks": {
+        "1635927863703110df-2": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "1635927863703110df-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": true,
+        "color_scheme": "default"
+      }
+    },
+    "hotspots_gU9M47": {
+      "type": "hotspots",
+      "blocks": {
+        "hotspot_fp4kH3": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 48,
+            "hotspot_y": 34,
+            "hotspot_x_mobile": 50,
+            "hotspot_y_mobile": 50,
+            "heading": "Premium Insole and Lining",
+            "text": "<p>A 100% textile lining and cushioned insole.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        },
+        "hotspot_aiAyLz": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 47,
+            "hotspot_y": 81,
+            "hotspot_x_mobile": 50,
+            "hotspot_y_mobile": 50,
+            "heading": "Premium Uppers",
+            "text": "<p>Soft premium uppers to help those feet stay comfortable and fresh all day long.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "hotspot_fp4kH3",
+        "hotspot_aiAyLz"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/13.png",
+        "hotspot_color": "#070707",
+        "button_content": "plus",
+        "outer_circle": "pulse",
+        "full_width": true,
+        "text_alignment": "top left",
+        "overlay_style": "shadow",
+        "subheading": "",
+        "title": "",
+        "use_h1": false,
+        "heading_max_width": 10,
+        "text": "",
+        "button_1_label": "",
+        "button_1_link": "",
+        "button_1_style": "secondary",
+        "button_2_label": "",
+        "button_2_link": "",
+        "button_2_style": "primary"
+      }
+    },
+    "key_features_qp3AeF": {
+      "type": "key-features",
+      "blocks": {
+        "feature_ym8XAQ": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/IBS06260_1521a939-6618-4c94-a3e8-012c88fd6b28.jpg",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Super plush",
+            "text": "<p>All our shoes feature a super cushioned midsole with a rubber outsole to ensure that the spring in those feet stay consistent all day long. Our 100% textile lining and a cushioned insole adds to that walking on cloud feeling all-day for those all-day adventures.</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "1",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_FLJcQF": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/IBS06142new.jpg",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Protect the play",
+            "text": "<p>For our kids range, we have paid special attention to protection. Our shoes feature a toe cap and added reinforcements to help with wear and tear and protect those precious toes.</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "2",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_nkgmLn": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/IBS06265_871a68a2-7bf1-447e-a7bc-d8668ce6839c.jpg",
+            "bg_color": "#c3c3c3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Easy closure",
+            "text": "<p>Our Aquila and Pavo styles come with a no-tie lacing system to keep the kids active and on the go. The hook-and-loop strap created a wide opening for easy-on and easy-off and the heel tab allows easy sliding of feet into the shoes</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "3",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_MPiXyY": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/IBS06069_57aba164-93fb-45cd-baf4-319a0a1ac6c8.jpg",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "A striking design",
+            "text": "<p>If you prefer classics and laces, check out Cygnus. Designed with both functionality and style in mind, the Cygnus series provide a secure fit and extra support. Perfect for active little ones on the go.</p>",
+            "show_segments": true,
+            "segments": 5,
+            "active_segment": "4",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        }
+      },
+      "block_order": [
+        "feature_ym8XAQ",
+        "feature_FLJcQF",
+        "feature_nkgmLn",
+        "feature_MPiXyY"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Key features",
+        "image_max_width": 700,
+        "media_aspect_ratio": "1",
+        "image_position": "left",
+        "segment_position": "over-text"
+      }
+    },
+    "rich_text_7kL8xy": {
+      "type": "rich-text",
+      "blocks": {
+        "text_rz9Epm": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "text_rz9Epm"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": true,
+        "color_scheme": "default"
+      }
+    },
+    "rich_text_yPDt9n": {
+      "type": "rich-text",
+      "blocks": {
+        "text_7YKgG4": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Next-Size-up Savings! </strong></p><p><strong>Save 15% every time your child needs the next size-up. No plans to manage - just flexible, on-demand savings that grow with them.</strong></p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "text_7YKgG4"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": true,
+        "color_scheme": "default"
+      }
+    },
+    "163592857728b8bdc2": {
+      "type": "multi-column",
+      "blocks": {
+        "163592857728b8bdc2-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Taare_Collection_Widescreen.png",
+            "title": "Size-up Guarantee",
+            "text": "<p>Never pay full price as they sprout – grab the next size with 15% off.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "163592857728b8bdc2-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/3.png",
+            "title": "Your Timing, Your Call",
+            "text": "<p>Order the next pair only when their toes say it’s time.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_jWER7Y": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Taare_Control_Subscription.png",
+            "title": "Built‑In Savings",
+            "text": "<p>Keep more in your wallet while they keep chasing adventures.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "163592857728b8bdc2-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Taare_Referral.png",
+            "title": "Perks you'll love",
+            "text": "<p>Earn more reward points. Unlock exclusive styles and a longer return period.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163592857728b8bdc2-1",
+        "163592857728b8bdc2-0",
+        "text_block_jWER7Y",
+        "163592857728b8bdc2-2"
+      ],
+      "settings": {
+        "title": "How Next-Size-up works?",
+        "media_aspect_ratio": "s",
+        "media_width": 700,
+        "text_alignment": "center",
+        "button_style": "primary",
+        "color_scheme": "1"
+      }
+    },
+    "image_with_text_qiC4Dd": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_HjnF3U": {
+          "type": "heading",
+          "settings": {
+            "title": "Why families love Next-Size-up!",
+            "use_h1": false
+          }
+        },
+        "text_a3dTWa": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><strong>No plans to manage:</strong> You are not locked into a subscription. Instead, you are assured of the next size-up.</li></ul><p></p><ul><li><strong>Timely size-up reminders:</strong> Kids aged 4–8 years often outgrow shoes every few months. If you've opted in, we'll send a reminder via email or text to check their fit and size up if needed.</li></ul>",
+            "enlarge_text": false
+          }
+        },
+        "button_NLKpeg": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "See Subscription Plans",
+            "button_link": "shopify://pages/subscription",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HjnF3U",
+        "text_a3dTWa",
+        "button_NLKpeg"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Taare_Fresh_Styles_800_x_800_px_2.png",
+        "image_2": "shopify://shop_images/family-holding-hands.jpg",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "right",
+        "text_alignment": "left",
+        "color_scheme": "1"
+      }
+    },
+    "image_with_text_34cKQa": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_tQfrjn": {
+          "type": "heading",
+          "settings": {
+            "title": "Every pair fuels a bigger purpose!",
+            "use_h1": false
+          }
+        },
+        "text_xGyAmR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We reinvest a share of every sale into our Kids First Fund - donating shoes to organizations such as Soles4Souls, supporting school programs, health kits and community events that help children thrive. Together, let's raise stars.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_eAbWRx": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn more",
+            "button_link": "shopify://pages/about-us",
+            "button_style": "secondary"
+          }
+        },
+        "button_aekmER": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Preorder",
+            "button_link": "shopify://pages/subscription",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_tQfrjn",
+        "text_xGyAmR",
+        "button_eAbWRx",
+        "button_aekmER"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Taare-Soles4Souls-Partnership-Buy1Give1-1.jpg",
+        "image_2": "shopify://shop_images/Taare-Soles4Souls-Partnership-Buy1Give1-2.jpg",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "left",
+        "text_alignment": "left",
+        "color_scheme": "default"
+      }
+    },
+    "image_with_text_YtdKMm": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_94Feqf": {
+          "type": "heading",
+          "settings": {
+            "title": "Let's Complete the Cycle",
+            "use_h1": false
+          }
+        },
+        "text_WCAgnr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your child's gently used shoes can find new life around the world, creating economic opportunities and protecting the planet.</p><p>With our prepaid shipping labels, donating is effortless. Help bring change.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_baiJ6L": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn More",
+            "button_link": "shopify://pages/about-us",
+            "button_style": "secondary"
+          }
+        },
+        "button_tK6N7D": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Preorder",
+            "button_link": "shopify://pages/subscription",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_94Feqf",
+        "text_WCAgnr",
+        "button_baiJ6L",
+        "button_tK6N7D"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Taare-Soles4Souls-Partnership-4ThePlanet-1.jpg",
+        "image_2": "shopify://shop_images/Taare-Soles4Souls-Partnership-4Opportunity-1.jpg",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "right",
+        "text_alignment": "left",
+        "color_scheme": "default"
+      }
+    },
+    "image_with_text_jHwMYV": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_4dyN6N": {
+          "type": "heading",
+          "settings": {
+            "title": "Fresh Styles for All-Day Play",
+            "use_h1": false
+          }
+        },
+        "text_nHCA9h": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Choose from our growing collection of shoes. We are starting with three designs that cover your child's needs. New designs added every month.</p>",
+            "enlarge_text": false
+          }
+        },
+        "button_YGNcrG": {
+          "type": "button",
+          "settings": {
+            "button_label": "PreOrder Now",
+            "button_link": "shopify://pages/subscription",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4dyN6N",
+        "text_nHCA9h",
+        "button_YGNcrG"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/IBS06338_bedd8837-f938-4c93-9115-34acf0500dc5.jpg",
+        "image_2": "shopify://shop_images/IBS06339_new.jpg",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "left",
+        "text_alignment": "left",
+        "color_scheme": "default"
+      }
+    },
+    "multi_column_HEYfgT": {
+      "type": "multi-column",
+      "blocks": {
+        "text_block_98QcMy": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Aquila_1.png",
+            "title": "",
+            "text": "<p>A striking monochrome sneaker  that combines sleek design and bold accents with the ultimate comfort.</p>",
+            "button_label": "Explore",
+            "link": "shopify://products/aquila-altair"
+          }
+        },
+        "text_block_BtrN9k": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Pavo_6.png",
+            "title": "",
+            "text": "<p>The Pavo sneaker line creates a striking display of vibrant hues and playful patterns to bring bold designs to our comfortable shoes.</p>",
+            "button_label": "Explore",
+            "link": "shopify://products/pavo-alpha"
+          }
+        },
+        "text_block_RdPzDi": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Cygnus.png",
+            "title": "",
+            "text": "<p>Cygnus is crafted with premium materials, and blends comfort and style to create a timeless collection of classic shoes for kids. </p>",
+            "button_label": "Explore",
+            "link": "shopify://products/cygnus-deneb"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_98QcMy",
+        "text_block_BtrN9k",
+        "text_block_RdPzDi"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Our Launch Collection",
+        "media_aspect_ratio": "s",
+        "media_width": 700,
+        "text_alignment": "center",
+        "button_style": "secondary",
+        "color_scheme": "2"
+      }
+    },
+    "key_features_b6BHqm": {
+      "type": "key-features",
+      "blocks": {
+        "feature_HyJMEj": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/children-lined-up.jpg",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Our Mission",
+            "text": "<p>To help children everywhere truly shine.</p><p>That's why when you purchase a pair, we donate a new pair to a child who needs it. </p><p>But selling great kids footwear is only the first step. <a href=\"https://www.instagram.com/taareofficial\" target=\"_blank\" title=\"Follow us on IG\">Follow us</a> on Instagram to see the change we hope to bring in this world.</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "1",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_UDGEgd": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/children-create-for-their-mom.jpg",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "We believe",
+            "text": "<h6>That life’s greatest privilege and joy is to serve our children, helping them grow into responsible and caring human beings.</h6><h6><a href=\"https://www.instagram.com/taareofficial\" target=\"_blank\" title=\"Follow us on IG\">Follow us</a> on Instagram for city guides for children's activities.</h6>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "2",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_KHMJid": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/mom-and-children-laughing-mothers-day.jpg",
+            "bg_color": "#c3c3c3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "We help",
+            "text": "<p>Parents become their best selves for their children. </p><p><a href=\"https://www.instagram.com/taareofficial\" target=\"_blank\" title=\"Follow us on IG\">Follow us</a> on Instagram for parenting tips that you can use.</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "3",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_KckPyi": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/small-socks-with-the-words-mom-and-dad.jpg",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Parent powered!",
+            "text": "<p>Started by parents who wanted to do better for their kids. We quit our corporate jobs to build a socially responsible business. </p><p>We are small, but full of heart.</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "4",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        }
+      },
+      "block_order": [
+        "feature_HyJMEj",
+        "feature_UDGEgd",
+        "feature_KHMJid",
+        "feature_KckPyi"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Who we are",
+        "image_max_width": 700,
+        "media_aspect_ratio": "1",
+        "image_position": "left",
+        "segment_position": "over-text"
+      }
+    },
+    "faq_header_3pTzCm": {
+      "type": "faq-header",
+      "disabled": true,
+      "settings": {
+        "title": "FAQs",
+        "use_h1": false,
+        "text": "",
+        "show_search": false,
+        "show_index": false,
+        "index_heading": "How can we help?"
+      }
+    },
+    "collapsible_tabs_BxURwW": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question_JFn7wm": {
+          "type": "question",
+          "settings": {
+            "title": "What age group of kids do you serve?",
+            "answer": "<p>We currently have shoes for little kids aged 4-8 years, with sizes from 10.5 to 3. We plan to add new sizes in near future.</p>"
+          }
+        },
+        "question_UL3m4k": {
+          "type": "question",
+          "settings": {
+            "title": "How does the subscription work?",
+            "answer": "<p>Our subscription ships fresh pairs of kids' shoes to your doorstep every few months. </p><p>When starting the subscription, decide how many pairs your child needs and how often. When your next subscription is a few weeks out, we will alert you to confirm the next pair's pair style and size.</p>"
+          }
+        },
+        "question_ThVkPJ": {
+          "type": "question",
+          "settings": {
+            "title": "Is this a mystery box subscription?",
+            "answer": "<p>No. You can choose the shoes your child needs.  </p>"
+          }
+        },
+        "question_MiMLRz": {
+          "type": "question",
+          "settings": {
+            "title": "Do you plan to add more styles?",
+            "answer": "<p>Yes, we will soon add more styles as we scale up. Our launch collection has 3 styles that cover your child's every day needs - from activewear to fashionwear.</p>"
+          }
+        },
+        "question_KKUna3": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "How good are your shoes?",
+            "answer": "<p>We spent over a year carefully researching, finalizing, and testing multiple manufacturers to finalize a factory that can produce very high quality shoes. </p><p>But don't take our word for it. Have your child try out our shoes.   </p>"
+          }
+        },
+        "question_NzXgdY": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "How do you pronounce Taare?",
+            "answer": "<p>Taare is pronounced 'Taa-Ray'. It means stars in the Hindi language.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_JFn7wm",
+        "question_UL3m4k",
+        "question_ThVkPJ",
+        "question_MiMLRz",
+        "question_KKUna3",
+        "question_NzXgdY"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": ""
+      }
+    }
+  },
+  "order": [
+    "compact_messages_FLahDm",
+    "image_with_text_overlay_N8cTLr",
+    "multi_column_Cme7hY",
+    "hotspots_drjTFg",
+    "1635927863703110df",
+    "hotspots_gU9M47",
+    "key_features_qp3AeF",
+    "rich_text_7kL8xy",
+    "rich_text_yPDt9n",
+    "163592857728b8bdc2",
+    "image_with_text_qiC4Dd",
+    "image_with_text_34cKQa",
+    "image_with_text_YtdKMm",
+    "image_with_text_jHwMYV",
+    "multi_column_HEYfgT",
+    "key_features_b6BHqm",
+    "faq_header_3pTzCm",
+    "collapsible_tabs_BxURwW"
+  ]
+}

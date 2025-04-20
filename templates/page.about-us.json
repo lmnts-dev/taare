@@ -1,1 +1,490 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"show_page_title":true,"full_width":false}},"background_video_wxM8zJ":{"type":"background-video","blocks":{"subheading_xRMhGg":{"type":"subheading","disabled":true,"settings":{"subheading":"Tell your story"}},"heading_xnG4rn":{"type":"heading","settings":{"title":"Be The Change.","heading_max_width":15,"title_size":84,"title_size_mobile":32,"use_h1":false}},"text_abAWT4":{"type":"text","settings":{"text":"<p>The Taare Mission: To help children everywhere truly shine.<\/p>","enlarge_text":true}}},"block_order":["subheading_xRMhGg","heading_xnG4rn","text_abAWT4"],"disabled":true,"settings":{"video_shopify":"shopify:\/\/files\/videos\/Kids are the world.mp4","video_external":"","video_description":"","text_alignment":"center center","height_desktop":600,"height_mobile":500,"full_width":true,"overlay_style":"shadow"}},"key_features_m8eKbX":{"type":"key-features","blocks":{"feature_cpM9bG":{"type":"feature","settings":{"image":"shopify:\/\/shop_images\/children-lined-up.jpg","bg_color":"#e3e3e3","bg_gradient":"","text_color":"#505050","heading":"Our Mission","text":"<p>To help children everywhere truly shine. <\/p><p>That's why when you purchase a pair, we donate a new pair to a child who needs it. But this is only the first step. <\/p><p><a href=\"https:\/\/www.instagram.com\/taareofficial\" target=\"_blank\" title=\"Taare Instagram Official Account\">Follow us on Instagram<\/a> to see the change we hope to bring in this world.<\/p>","show_segments":true,"segments":4,"active_segment":"1","fill_segments":true,"show_labels":true,"label_left":"","label_middle":"","label_right":"","show_icon":false,"icon":"star"}},"feature_eDLRKi":{"type":"feature","settings":{"image":"shopify:\/\/shop_images\/children-create-for-their-mom.jpg","bg_color":"#c3c3c3","bg_gradient":"","text_color":"#505050","heading":"We Believe","text":"<p>That life’s greatest privilege and joy is to serve our children, helping them grow into responsible and caring human beings. <\/p><p><a href=\"https:\/\/www.instagram.com\/taareofficial\" target=\"_blank\" title=\"Taare Instagram Official Account\">Follow us on Instagram<\/a> for city guides for children's activities.<\/p>","show_segments":true,"segments":4,"active_segment":"2","fill_segments":true,"show_labels":true,"label_left":"","label_middle":"","label_right":"","show_icon":false,"icon":"star"}},"feature_yWXXYc":{"type":"feature","settings":{"image":"shopify:\/\/shop_images\/kids-push-mom-on-swing.jpg","bg_color":"#e3e3e3","bg_gradient":"","text_color":"#505050","heading":"We Help","text":"<p>Parents become their best selves for their children.<\/p><p><a href=\"https:\/\/www.instagram.com\/taareofficial\" target=\"_blank\" title=\"Taare Instagram Official Account\">Follow us on Instagram<\/a> for practical parenting tips.<\/p>","show_segments":true,"segments":4,"active_segment":"3","fill_segments":true,"show_labels":true,"label_left":"","label_middle":"","label_right":"","show_icon":false,"icon":"star"}},"feature_9zpagd":{"type":"feature","settings":{"image":"shopify:\/\/shop_images\/small-socks-with-the-words-mom-and-dad.jpg","bg_color":"#e3e3e3","bg_gradient":"","text_color":"#505050","heading":"Parent Powered","text":"<p>Started by parents who wanted to do better for their kids. We quit our corporate jobs to build a socially responsible business. <\/p><p>We are small, but full of heart.<\/p>","show_segments":true,"segments":4,"active_segment":"4","fill_segments":true,"show_labels":true,"label_left":"","label_middle":"","label_right":"","show_icon":false,"icon":"star"}}},"block_order":["feature_cpM9bG","feature_eDLRKi","feature_yWXXYc","feature_9zpagd"],"settings":{"heading":"Key features","image_max_width":700,"media_aspect_ratio":"1","image_position":"left","segment_position":"over-text"}},"ffca7f3f-a70e-4737-9485-80d1f269e72b":{"type":"rich-text","blocks":{"941bc462-0551-4914-bb50-fb1d366d7cf6":{"type":"subheading","disabled":true,"settings":{"subheading":"Subheading"}},"template--15213462618185__ffca7f3f-a70e-4737-9485-80d1f269e72b-heading-1":{"type":"heading","settings":{"title":"We believe","use_h1":false}},"template--15213462618185__ffca7f3f-a70e-4737-9485-80d1f269e72b-text-1":{"type":"text","settings":{"text":"<p>At Taare, we believe that life’s greatest privilege and joy is to serve our children, helping them grow into responsible and caring human beings.<\/p>","enlarge_text":true}}},"block_order":["941bc462-0551-4914-bb50-fb1d366d7cf6","template--15213462618185__ffca7f3f-a70e-4737-9485-80d1f269e72b-heading-1","template--15213462618185__ffca7f3f-a70e-4737-9485-80d1f269e72b-text-1"],"disabled":true,"settings":{"height":"medium","text_alignment":"center","full_width":false,"color_scheme":"1"}},"image_with_text_QQdFzY":{"type":"image-with-text","blocks":{"heading_c3d6AB":{"type":"heading","settings":{"title":"Why did we start Taare?","use_h1":false}},"text_damB94":{"type":"text","settings":{"text":"<p>We wanted to do better.<\/p><p>For our own kids. And for children whose families lacked the resources to help them easily get through life. <\/p><p>We wanted parents to have one less thing to worry about. And we wanted them to have more time for their children. <\/p><p>So, we quit our corporate jobs to make life a little easier for families.<\/p>","enlarge_text":false}}},"block_order":["heading_c3d6AB","text_damB94"],"settings":{"image":"shopify:\/\/shop_images\/About_Us_trio.png","image_width":700,"image_link":"","image_position":"left","text_alignment":"left","color_scheme":"1"}},"e349fe82-4ed8-48b7-b15a-84eb3a247d25":{"type":"image-with-text","blocks":{"aa8f8936-073f-42af-b9ae-2458a23ee7b9":{"type":"subheading","disabled":true,"settings":{"subheading":"Subheading"}},"template--15213462618185__e349fe82-4ed8-48b7-b15a-84eb3a247d25-heading-1":{"type":"heading","settings":{"title":"We make shoes that Give Back","use_h1":false}},"template--15213462618185__e349fe82-4ed8-48b7-b15a-84eb3a247d25-text-1":{"type":"text","settings":{"text":"<p>Sure, we make great shoes. But that's not all. <\/p><p>We have also partnered with Soles4Souls to donate a new pair of Taare shoes when you buy from us. <\/p><p>Soles4Souls then distributes these new shoes across the U.S. to children who are experiencing homelessness, eliminating a barrier to educational and extracurricular opportunities.<\/p><p>Learn more about Soles4Souls and their 4EveryKid program <a href=\"https:\/\/soles4souls.org\/\" target=\"_blank\" title=\"https:\/\/soles4souls.org\/\">here<\/a>.<\/p>","enlarge_text":true}}},"block_order":["aa8f8936-073f-42af-b9ae-2458a23ee7b9","template--15213462618185__e349fe82-4ed8-48b7-b15a-84eb3a247d25-heading-1","template--15213462618185__e349fe82-4ed8-48b7-b15a-84eb3a247d25-text-1"],"disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Taare_Gift.png","image_width":700,"image_link":"","image_position":"right","text_alignment":"left","color_scheme":"2"}},"5d80e24d-359e-4497-b5e7-90275162de31":{"type":"image-with-text","blocks":{"88949fd5-8250-4a34-9a66-e89dc0c91026":{"type":"subheading","disabled":true,"settings":{"subheading":"Subheading"}},"template--15213462618185__5d80e24d-359e-4497-b5e7-90275162de31-heading-1":{"type":"heading","settings":{"title":"We help extend the life of shoes","use_h1":false}},"template--15213462618185__5d80e24d-359e-4497-b5e7-90275162de31-text-1":{"type":"text","settings":{"text":"<p>By 15 months, on average. <\/p><p>With our free shipping labels and the support of our friends at Soles4Souls, gently used Taare shoes find new life around the world.<\/p><p>In the process, families that resell these shoes for a living are able to generate income and strengthen their community through sustainable entrepreneurship.<\/p><p>And when shoes are diverted away from landfills, the planet heals.<\/p><p>You can learn more about Soles4Souls and their 4Opportunity and 4Planet programs <a href=\"https:\/\/soles4souls.org\/\" target=\"_blank\" title=\"https:\/\/soles4souls.org\/\">here<\/a>.<\/p>","enlarge_text":true}}},"block_order":["88949fd5-8250-4a34-9a66-e89dc0c91026","template--15213462618185__5d80e24d-359e-4497-b5e7-90275162de31-heading-1","template--15213462618185__5d80e24d-359e-4497-b5e7-90275162de31-text-1"],"disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Shoe_donation.png","image_width":700,"image_link":"","image_position":"left","text_alignment":"left","color_scheme":"2"}},"a7b3f3bc-057e-48f7-92fe-881a3993337e":{"type":"rich-text","blocks":{"template--15439594029129__a7b3f3bc-057e-48f7-92fe-881a3993337e-heading-1":{"type":"heading","settings":{"title":"Stories that Inspire Us.","use_h1":false}},"template--15439594029129__a7b3f3bc-057e-48f7-92fe-881a3993337e-text-1":{"type":"text","settings":{"text":"<p>Everyday, we are motivated to keep doing what we do by these inspiring stories!<\/p>","enlarge_text":true}}},"block_order":["template--15439594029129__a7b3f3bc-057e-48f7-92fe-881a3993337e-heading-1","template--15439594029129__a7b3f3bc-057e-48f7-92fe-881a3993337e-text-1"],"disabled":true,"settings":{"height":"medium","text_alignment":"center","full_width":false,"color_scheme":"default"}},"789f0e57-893a-46b3-a1d6-bcabe394135b":{"type":"featured-blog","disabled":true,"settings":{"title":"","blog":"","post_limit":3,"show_author":false,"show_date":false,"show_excerpts":false,"crop_ratio":"1.78","color_scheme":"1"}},"image_with_text_YTdh8L":{"type":"image-with-text","blocks":{"heading_m3hXJB":{"type":"heading","settings":{"title":"No Adults Allowed","use_h1":false}},"text_piPDdc":{"type":"text","settings":{"text":"<p>Sorry parents, no shoes for your size. We make shoes only for children.  <\/p><p>That focus helps us create some of the most comfortable shoes you can find for your child. <\/p>","enlarge_text":false}}},"block_order":["heading_m3hXJB","text_piPDdc"],"settings":{"image":"shopify:\/\/shop_images\/Kid_star_heads.png","image_width":700,"image_link":"","image_position":"right","text_alignment":"left","color_scheme":"default"}},"image_with_text_b6Gwrf":{"type":"image-with-text","blocks":{"heading_iczEaB":{"type":"heading","settings":{"title":"Some fun facts about us","use_h1":false}},"text_gpKgQa":{"type":"text","settings":{"text":"<p>\"Taare\" (pronounced: Taa-ray) means stars in the Hindi language. We chose this name as it represents the limitless potential we see in every child.<\/p><p>We are based out of Washington state. The region's natural beauty inspired our brand's commitment to sustainability by extending the life of worn shoes.<\/p>","enlarge_text":false}}},"block_order":["heading_iczEaB","text_gpKgQa"],"settings":{"image":"shopify:\/\/shop_images\/Kids_star_fingers.png","image_2":"shopify:\/\/shop_images\/28.png","image_width":700,"image_link":"","image_position":"left","text_alignment":"left","color_scheme":"1"}},"multi_column_nprF6B":{"type":"multi-column","blocks":{"text_block_hfEMDj":{"type":"text_block","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/Taare_Connect.png","title":"Social connect?","text":"<p>We are active on <a href=\"https:\/\/www.instagram.com\/taareofficial\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/taareofficial\">Instagram<\/a> and <a href=\"https:\/\/www.facebook.com\/taareofficial\" target=\"_blank\" title=\"https:\/\/www.facebook.com\/taareofficial\">Facebook<\/a>. Follow us for some practical parenting tips and our latest news.<\/p>","button_label":"","link":""}},"text_block_iwCzgx":{"type":"text_block","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/Taare_Monthly_Updates.png","title":"A monthly update?","text":"<p>If you dislike social media, perhaps email is better? Every month, we summarize our parenting tips and updates in a short email.<\/p>","button_label":"","link":""}},"text_block_Ca4y3f":{"type":"text_block","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/Taare_Subscribe_2.png","title":"Try subscribing?","text":"<p>If you aren't already a customer, try our footwear subscription. It's a better way to shop. We think you'll love it.<\/p>","button_label":"","link":""}}},"block_order":["text_block_hfEMDj","text_block_iwCzgx","text_block_Ca4y3f"],"custom_css":[],"settings":{"title":"Know us better","media_aspect_ratio":"s","media_width":120,"text_alignment":"center","button_style":"primary","color_scheme":"default"}}},"order":["main","background_video_wxM8zJ","key_features_m8eKbX","ffca7f3f-a70e-4737-9485-80d1f269e72b","image_with_text_QQdFzY","e349fe82-4ed8-48b7-b15a-84eb3a247d25","5d80e24d-359e-4497-b5e7-90275162de31","a7b3f3bc-057e-48f7-92fe-881a3993337e","789f0e57-893a-46b3-a1d6-bcabe394135b","image_with_text_YTdh8L","image_with_text_b6Gwrf","multi_column_nprF6B"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "full_width": false
+      }
+    },
+    "background_video_wxM8zJ": {
+      "type": "background-video",
+      "blocks": {
+        "subheading_xRMhGg": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Tell your story"
+          }
+        },
+        "heading_xnG4rn": {
+          "type": "heading",
+          "settings": {
+            "title": "Be The Change.",
+            "heading_max_width": 15,
+            "title_size": 84,
+            "title_size_mobile": 32,
+            "use_h1": false
+          }
+        },
+        "text_abAWT4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Taare Mission: To help children everywhere truly shine.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "subheading_xRMhGg",
+        "heading_xnG4rn",
+        "text_abAWT4"
+      ],
+      "disabled": true,
+      "settings": {
+        "video_shopify": "shopify://files/videos/Kids are the world.mp4",
+        "video_external": "",
+        "video_description": "",
+        "text_alignment": "center center",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "full_width": true,
+        "overlay_style": "shadow"
+      }
+    },
+    "key_features_m8eKbX": {
+      "type": "key-features",
+      "blocks": {
+        "feature_cpM9bG": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/children-lined-up.jpg",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Our Mission",
+            "text": "<p>To help children everywhere truly shine. </p><p>That's why when you purchase a pair, we donate a new pair to a child who needs it. But this is only the first step. </p><p><a href=\"https://www.instagram.com/taareofficial\" target=\"_blank\" title=\"Taare Instagram Official Account\">Follow us on Instagram</a> to see the change we hope to bring in this world.</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "1",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_eDLRKi": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/children-create-for-their-mom.jpg",
+            "bg_color": "#c3c3c3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "We Believe",
+            "text": "<p>That life’s greatest privilege and joy is to serve our children, helping them grow into responsible and caring human beings. </p><p><a href=\"https://www.instagram.com/taareofficial\" target=\"_blank\" title=\"Taare Instagram Official Account\">Follow us on Instagram</a> for city guides for children's activities.</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "2",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_yWXXYc": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/kids-push-mom-on-swing.jpg",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "We Help",
+            "text": "<p>Parents become their best selves for their children.</p><p><a href=\"https://www.instagram.com/taareofficial\" target=\"_blank\" title=\"Taare Instagram Official Account\">Follow us on Instagram</a> for practical parenting tips.</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "3",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_9zpagd": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/small-socks-with-the-words-mom-and-dad.jpg",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Parent Powered",
+            "text": "<p>Started by parents who wanted to do better for their kids. We quit our corporate jobs to build a socially responsible business. </p><p>We are small, but full of heart.</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "4",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        }
+      },
+      "block_order": [
+        "feature_cpM9bG",
+        "feature_eDLRKi",
+        "feature_yWXXYc",
+        "feature_9zpagd"
+      ],
+      "settings": {
+        "heading": "Key features",
+        "image_max_width": 700,
+        "media_aspect_ratio": "1",
+        "image_position": "left",
+        "segment_position": "over-text"
+      }
+    },
+    "ffca7f3f-a70e-4737-9485-80d1f269e72b": {
+      "type": "rich-text",
+      "blocks": {
+        "941bc462-0551-4914-bb50-fb1d366d7cf6": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Subheading"
+          }
+        },
+        "template--15213462618185__ffca7f3f-a70e-4737-9485-80d1f269e72b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "We believe",
+            "use_h1": false
+          }
+        },
+        "template--15213462618185__ffca7f3f-a70e-4737-9485-80d1f269e72b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Taare, we believe that life’s greatest privilege and joy is to serve our children, helping them grow into responsible and caring human beings.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "941bc462-0551-4914-bb50-fb1d366d7cf6",
+        "template--15213462618185__ffca7f3f-a70e-4737-9485-80d1f269e72b-heading-1",
+        "template--15213462618185__ffca7f3f-a70e-4737-9485-80d1f269e72b-text-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "1"
+      }
+    },
+    "image_with_text_QQdFzY": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_c3d6AB": {
+          "type": "heading",
+          "settings": {
+            "title": "Why did we start Taare?",
+            "use_h1": false
+          }
+        },
+        "text_damB94": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We wanted to do better.</p><p>For our own kids. And for children whose families lacked the resources to help them easily get through life. </p><p>We wanted parents to have one less thing to worry about. And we wanted them to have more time for their children. </p><p>So, we quit our corporate jobs to make life a little easier for families.</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_c3d6AB",
+        "text_damB94"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/About_Us_trio.png",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "left",
+        "text_alignment": "left",
+        "color_scheme": "1"
+      }
+    },
+    "e349fe82-4ed8-48b7-b15a-84eb3a247d25": {
+      "type": "image-with-text",
+      "blocks": {
+        "aa8f8936-073f-42af-b9ae-2458a23ee7b9": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Subheading"
+          }
+        },
+        "template--15213462618185__e349fe82-4ed8-48b7-b15a-84eb3a247d25-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "We make shoes that Give Back",
+            "use_h1": false
+          }
+        },
+        "template--15213462618185__e349fe82-4ed8-48b7-b15a-84eb3a247d25-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sure, we make great shoes. But that's not all. </p><p>We have also partnered with Soles4Souls to donate a new pair of Taare shoes when you buy from us. </p><p>Soles4Souls then distributes these new shoes across the U.S. to children who are experiencing homelessness, eliminating a barrier to educational and extracurricular opportunities.</p><p>Learn more about Soles4Souls and their 4EveryKid program <a href=\"https://soles4souls.org/\" target=\"_blank\" title=\"https://soles4souls.org/\">here</a>.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "aa8f8936-073f-42af-b9ae-2458a23ee7b9",
+        "template--15213462618185__e349fe82-4ed8-48b7-b15a-84eb3a247d25-heading-1",
+        "template--15213462618185__e349fe82-4ed8-48b7-b15a-84eb3a247d25-text-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Taare_Gift.png",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "right",
+        "text_alignment": "left",
+        "color_scheme": "2"
+      }
+    },
+    "5d80e24d-359e-4497-b5e7-90275162de31": {
+      "type": "image-with-text",
+      "blocks": {
+        "88949fd5-8250-4a34-9a66-e89dc0c91026": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Subheading"
+          }
+        },
+        "template--15213462618185__5d80e24d-359e-4497-b5e7-90275162de31-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "We help extend the life of shoes",
+            "use_h1": false
+          }
+        },
+        "template--15213462618185__5d80e24d-359e-4497-b5e7-90275162de31-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>By 15 months, on average. </p><p>With our free shipping labels and the support of our friends at Soles4Souls, gently used Taare shoes find new life around the world.</p><p>In the process, families that resell these shoes for a living are able to generate income and strengthen their community through sustainable entrepreneurship.</p><p>And when shoes are diverted away from landfills, the planet heals.</p><p>You can learn more about Soles4Souls and their 4Opportunity and 4Planet programs <a href=\"https://soles4souls.org/\" target=\"_blank\" title=\"https://soles4souls.org/\">here</a>.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "88949fd5-8250-4a34-9a66-e89dc0c91026",
+        "template--15213462618185__5d80e24d-359e-4497-b5e7-90275162de31-heading-1",
+        "template--15213462618185__5d80e24d-359e-4497-b5e7-90275162de31-text-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Shoe_donation.png",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "left",
+        "text_alignment": "left",
+        "color_scheme": "2"
+      }
+    },
+    "a7b3f3bc-057e-48f7-92fe-881a3993337e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15439594029129__a7b3f3bc-057e-48f7-92fe-881a3993337e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Stories that Inspire Us.",
+            "use_h1": false
+          }
+        },
+        "template--15439594029129__a7b3f3bc-057e-48f7-92fe-881a3993337e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Everyday, we are motivated to keep doing what we do by these inspiring stories!</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "template--15439594029129__a7b3f3bc-057e-48f7-92fe-881a3993337e-heading-1",
+        "template--15439594029129__a7b3f3bc-057e-48f7-92fe-881a3993337e-text-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "default"
+      }
+    },
+    "789f0e57-893a-46b3-a1d6-bcabe394135b": {
+      "type": "featured-blog",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "blog": "",
+        "post_limit": 3,
+        "show_author": false,
+        "show_date": false,
+        "show_excerpts": false,
+        "crop_ratio": "1.78",
+        "color_scheme": "1"
+      }
+    },
+    "image_with_text_YTdh8L": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_m3hXJB": {
+          "type": "heading",
+          "settings": {
+            "title": "No Adults Allowed",
+            "use_h1": false
+          }
+        },
+        "text_piPDdc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Sorry parents, no shoes for your size. We make shoes only for children.  </p><p>That focus helps us create some of the most comfortable shoes you can find for your child. </p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_m3hXJB",
+        "text_piPDdc"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Kid_star_heads.png",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "right",
+        "text_alignment": "left",
+        "color_scheme": "default"
+      }
+    },
+    "image_with_text_b6Gwrf": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_iczEaB": {
+          "type": "heading",
+          "settings": {
+            "title": "Some fun facts about us",
+            "use_h1": false
+          }
+        },
+        "text_gpKgQa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Taare\" (pronounced: Taa-ray) means stars in the Hindi language. We chose this name as it represents the limitless potential we see in every child.</p><p>We are based out of Washington state. The region's natural beauty inspired our brand's commitment to sustainability by extending the life of worn shoes.</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_iczEaB",
+        "text_gpKgQa"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Kids_star_fingers.png",
+        "image_2": "shopify://shop_images/28.png",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "left",
+        "text_alignment": "left",
+        "color_scheme": "1"
+      }
+    },
+    "multi_column_nprF6B": {
+      "type": "multi-column",
+      "blocks": {
+        "text_block_hfEMDj": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Taare_Connect.png",
+            "title": "Social connect?",
+            "text": "<p>We are active on <a href=\"https://www.instagram.com/taareofficial\" target=\"_blank\" title=\"https://www.instagram.com/taareofficial\">Instagram</a> and <a href=\"https://www.facebook.com/taareofficial\" target=\"_blank\" title=\"https://www.facebook.com/taareofficial\">Facebook</a>. Follow us for some practical parenting tips and our latest news.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_iwCzgx": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Taare_Monthly_Updates.png",
+            "title": "A monthly update?",
+            "text": "<p>If you dislike social media, perhaps email is better? Every month, we summarize our parenting tips and updates in a short email.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_Ca4y3f": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/Taare_Subscribe_2.png",
+            "title": "Try subscribing?",
+            "text": "<p>If you aren't already a customer, try our footwear subscription. It's a better way to shop. We think you'll love it.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_hfEMDj",
+        "text_block_iwCzgx",
+        "text_block_Ca4y3f"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "Know us better",
+        "media_aspect_ratio": "s",
+        "media_width": 120,
+        "text_alignment": "center",
+        "button_style": "primary",
+        "color_scheme": "default"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "background_video_wxM8zJ",
+    "key_features_m8eKbX",
+    "ffca7f3f-a70e-4737-9485-80d1f269e72b",
+    "image_with_text_QQdFzY",
+    "e349fe82-4ed8-48b7-b15a-84eb3a247d25",
+    "5d80e24d-359e-4497-b5e7-90275162de31",
+    "a7b3f3bc-057e-48f7-92fe-881a3993337e",
+    "789f0e57-893a-46b3-a1d6-bcabe394135b",
+    "image_with_text_YTdh8L",
+    "image_with_text_b6Gwrf",
+    "multi_column_nprF6B"
+  ]
+}

@@ -1,1 +1,515 @@
-{"sections":{"rich_text_4abRkG":{"type":"rich-text","blocks":{"heading_8mAwVa":{"type":"heading","settings":{"title":"Help Center","use_h1":false}},"text_yDmpH7":{"type":"text","settings":{"text":"<p><strong>Need to track an order, or return\/exchange?<\/strong><\/p><p>Log in to view your recent orders, track delivery status, or to return\/exchange an item.<\/p>","enlarge_text":true}}},"block_order":["heading_8mAwVa","text_yDmpH7"],"disabled":true,"settings":{"height":"medium","text_alignment":"center","full_width":false,"color_scheme":"default"}},"main":{"type":"faq-header","settings":{"title":"Find answers to your most commonly asked questions","use_h1":false,"text":"","show_search":true,"show_index":true,"index_heading":"Quick assists"}},"collapsible_tabs_WbCa4j":{"type":"collapsible-tabs","blocks":{"question_Btn8Fz":{"type":"question","settings":{"title":"What is special about Taare shoes?","answer":"<p>Our shoes are all-day, every-day shoes and probably some of the most comfortable shoes that your kids can find.<\/p><p>They provide superior support and protection, ensuring your child's feet stay safe and happy throughout the day. Our range offers versatile and trendy designs that can seamlessly transition from playground adventures to everyday wear. <\/p>"}},"question_d9tiXV":{"type":"question","settings":{"title":"Do your shoes run true to size, or should I size up or down?","answer":"<p>Our shoes generally run true to size and align with standard industry sizing. <\/p><p>If you’re not quite sure which size is right for you, refer to our size guides.  <\/p><p>And don't worry. We offer free returns and exchanges if the shoes didn't fit quite right.<\/p>"}},"question_aVmDFV":{"type":"question","disabled":true,"settings":{"title":"What is the warranty on Taare shoes?","answer":"<p>We've got those little feet covered! <\/p><p>If your Taare shoes develop a material or workmanship fault within 6 months from the date of purchase, we will provide a replacement product free of charge. <\/p>"}}},"block_order":["question_Btn8Fz","question_d9tiXV","question_aVmDFV"],"settings":{"title":"Product and Fit"}},"collapsible_tabs_cARNCt":{"type":"collapsible-tabs","blocks":{"question_BN6XGz":{"type":"question","settings":{"title":"Is there a minimum order amount for free shipping?","answer":"<p>No, there is no minimum. All our shoes qualify for free shipping, returns, and exchanges. We want to keep it simple for you!<\/p>"}},"question_JbUMDG":{"type":"question","disabled":true,"settings":{"title":"Can I pre-order items for delivery?","answer":"<p>Yes. However, pre-order items will be specifically indicated as such; this generally applies to new releases. We will only accept orders on items that we have in stock at the time.<\/p>"}},"question_4yCqgF":{"type":"question","settings":{"title":"Can I change or cancel my order?","answer":"<p>Yes, absolutely. <\/p><p>We will soon update our website to let you cancel or change your active order through the order history page.  <\/p><p>Until then, please reach out to us at info@taare.com with your  order number and we will cancel the order. <\/p><p>By the way, we offer free returns: 30 days for non-subscription members and 60 days for subscription members<\/p>"}},"question_XdzWXi":{"type":"question","disabled":true,"settings":{"title":"What do I do if my product breaks down during the guarantee period?","answer":"<p>If products are under guarantee, your order confirmation email\/delivery note is your proof of purchase\/receipt and you should follow the manufacturer’s instructions for notifying the manufacturer of any problems within the guarantee period.<\/p>"}},"question_YMNHCz":{"type":"question","disabled":true,"settings":{"title":"Do you offer gift wrapping options?","answer":"<p>Yes. Your gifts can be delivered in our beautifully presented gift boxes for just $4.99 per item. Each box carries the Commerce Cloud logo and comes with a gift card for your personal message. Enter your personal message into the fields provided (up to a maximum of 4 lines and 80 characters). If you would like to change your gift wrap options, simply select from the dropdown box. Once you are happy with your selections, click \"Continue\" to proceed with your purchase. Please note: Gift wrap is not available on all items, extra large items such as rocking horses and sit-and-ride vehicles are excluded.<\/p>"}},"question_VJbBcF":{"type":"question","disabled":true,"settings":{"title":"Do you offer discounts on corporate or bulk orders?","answer":"<p>We completely get it, we change our minds too! While we wish could, once an order is placed, we are unable to alter or cancel it at this time. We hope to have a cancellation window one day in the future.<\/p><p>Should the item(s) not work out, make sure to exchange for a preferred style or return for a refund. As a reminder, domestic return shipping is free.<\/p>"}},"question_83LXGD":{"type":"question","disabled":true,"settings":{"title":"The size I want is out of stock. When will it be back in stock?","answer":"<p>We’re sorry if the size you want size is unavailable. We refill our inventory as soon as stock is available, and offer back in stock email alerts.<\/p><p>To set an alert, look for the “Set a back in stock alert” option on the product page above the “Add to cart” button. Select the colorway and size you want, and we will send you an email alert when your item is back in stock. <\/p>"}}},"block_order":["question_BN6XGz","question_JbUMDG","question_4yCqgF","question_XdzWXi","question_YMNHCz","question_VJbBcF","question_83LXGD"],"settings":{"title":"Ordering"}},"collapsible_tabs_JHQiCU":{"type":"collapsible-tabs","blocks":{"question_RmVryf":{"type":"question","disabled":true,"settings":{"title":"What is the cancellation policy?","answer":"<p>We understand that your needs can change, and we have made it easy to cancel your subscription at any time.<\/p><p><strong>Key Points:<\/strong><\/p><ul><li>You can cancel your subscription anytime.<\/li><li>No hidden fees or penalties for cancellation.<\/li><li>Cancellation takes effect immediately.<\/li><\/ul><p><strong>How to Cancel: <\/strong>To cancel your subscription, follow these steps:<\/p><ol><li>Log in to your account dashboard.<\/li><li>Go to the \"Subscriptions\" section.<\/li><li>Click on \"Cancel Subscription.\"<\/li><\/ol><p>If you have any questions or concerns about cancelling your subscription, contact our support team at info@taare.com. We're here to help.<\/p>"}},"question_mUyQDw":{"type":"question","settings":{"title":"Can I advance my subscription?","answer":"<p>Yes. We will soon launch our subscription management page to let you manage your subscription details, including frequency. <\/p>"}},"question_pm4WBX":{"type":"question","settings":{"title":"Can I pause my subscription?","answer":"<p>Yes. You can pause and resume the subscription as per your wish within the subscription period. <\/p><p>Our subscription management page will go live around mid January, 2025.<\/p>"}},"question_K3h6b4":{"type":"question","settings":{"title":"I have subscribed. When will I be charged?","answer":"<p>You are charged when the subscription box ships out. <\/p><p>For example, if you opted for the 'every 4 months' delivery frequency, you will be charged every 4 months when the box ships out.<\/p><p>For subscription preorders, you are immediately charged for the first box. All future boxes will be charged later when they ship out.<\/p><p>We will soon launch an annual payment option to help you save money by pre-paying boxes on an annual basis.<\/p>"}},"question_QCENDb":{"type":"question","settings":{"title":"Can I skip a subscription?","answer":"<p>Yes. If you wish to skip a subscription, we will ship the pair that was due on the next shipment date together. <\/p>"}},"question_frPFKe":{"type":"question","settings":{"title":"Can I update my shipping or billing address or card details?","answer":"<p>Yes, you can always make the changes you want in your account subscription page.<\/p>"}},"question_dqmept":{"type":"question","settings":{"title":"Do I need to send the old pair back in order to receive the next pair?","answer":"<p>No. They are your shoes, and you can retain them if you wish to do so.<\/p><p>However, we do encourage donating the gently worn shoes via our donation program to help create a better world for kids all around. <\/p>"}},"question_UPKEKj":{"type":"question","settings":{"title":"Can I swap an item before it shipped?","answer":"<p>Yes, you can swap an item before it ships out.<\/p><p>We will email you before the next pair ships out, and you will be able to login and decide if you want to continue in the same style with the next size or swap for another style. <\/p>"}}},"block_order":["question_RmVryf","question_mUyQDw","question_pm4WBX","question_K3h6b4","question_QCENDb","question_frPFKe","question_dqmept","question_UPKEKj"],"settings":{"title":"Subscription Management"}},"faq-content-2":{"type":"collapsible-tabs","blocks":{"para-1":{"type":"content","settings":{"content":""}},"question-1":{"type":"question","settings":{"title":"What is the shipping policy?","answer":"<p>Once your order is placed, you will receive a confirmation email letting you know that our fulfillment team has received your order. <\/p><p>Once your order is fulfilled, you will receive an email notification with your tracking information. <\/p>"}},"question-2":{"type":"question","settings":{"title":"Do you ship overseas?","answer":"<p>No. We currently only ship in the United States.<\/p>"}},"question_39NmD3":{"type":"question","settings":{"title":"When do I get my refund once I have returned an item?","answer":"<p>We typically process your refund to the original payment card within two weeks of receiving the item at our warehouse.<\/p>"}},"question_48D7Rg":{"type":"question","disabled":true,"settings":{"title":"If I return all the items in my order, will I still be charged for delivery?","answer":"<p>If any of the items we deliver are damaged or incorrect, we will refund the delivery charge. If you change your mind about wanting to keep them, you may return them free of charge but we will not refund the original delivery charge.<\/p>"}},"question_FbD99x":{"type":"question","disabled":true,"settings":{"title":"Do I get charged for delivery of each item I order?","answer":"<p>Postage and packaging for each gift basket are charged separately but all other items will have one delivery charge, no matter how many you buy.<\/p>"}},"question_7EnnMz":{"type":"question","settings":{"title":"I have a complaint, who should I speak to?","answer":"<p>For any concern, please contact our support team at info@taare.com.<\/p>"}},"question_mcUAHp":{"type":"question","settings":{"title":"What is Taare's return policy?","answer":"<p>We offer a 30-day no-risk trial period on our shoes.<\/p><p>You can return or exchange the shoes even if your little ones have worn them outside. We encourage kids to be active and want to ensure that they are happy with their shoes at all times.  <\/p>"}},"question_jmUHzy":{"type":"question","disabled":true,"settings":{"title":"How do I return my Taare order?","answer":"<p>You can return your order via our Returns Page or by logging in to your account.<\/p>"}},"question_ktApeC":{"type":"question","disabled":true,"settings":{"title":"Where is my refund?","answer":""}},"question_bir9w9":{"type":"question","disabled":true,"settings":{"title":"What are Taare's delivery options?","answer":""}}},"block_order":["para-1","question-1","question-2","question_39NmD3","question_48D7Rg","question_FbD99x","question_7EnnMz","question_mcUAHp","question_jmUHzy","question_ktApeC","question_bir9w9"],"settings":{"title":"Shipping, Returns & Exchanges"}},"faq-content-1":{"type":"collapsible-tabs","blocks":{"question-1":{"type":"question","settings":{"title":"How should I clean my kid's shoes?","answer":"<p>To keep your kids' shoes looking their best, follow these simple steps:<\/p><p><strong>Precaution:<\/strong> Before cleaning, test a small amount of mild, dye-free detergent (suitable for dishwashing or laundry) on an inconspicuous area to ensure it won't damage the material.<\/p><p><strong>Cleaning Steps:<\/strong><\/p><ol><li>Use a soft-bristled brush (like a toothbrush) and mild detergent to gently scrub away dirt.<\/li><li>Wipe clean with a damp cloth.<\/li><li>Allow shoes to air dry for 24 hours before wearing.<\/li><\/ol><p><strong>Special Care:<\/strong><\/p><ul><li>For suede or leather shoes, use a specialized leather or suede cleaner.<\/li><li>Avoid machine washing or drying, as many materials can't withstand water submersion or heat.<\/li><\/ul><p>By following these steps, you'll keep your kid's shoes clean, fresh, and ready for their next adventure!<\/p>"}},"question-2":{"type":"question","settings":{"title":"When should I replace my kid's shoes?","answer":"<p>Here are some guidelines to determine when a kid's shoe should be replaced:<\/p><p><strong>General Guidelines:<\/strong><\/p><ol><li>Every 3-4 months: Average lifespan of kids' shoes due to rapid growth and wear.<\/li><li>When outgrown: Replace shoes when toes reach the end of the shoe or the heel no longer fits snugly.<\/li><\/ol><p><strong>Visual Inspection:<\/strong><\/p><ol><li>Sole wear: Replace if sole is worn down to 1\/8 inch or less.<\/li><li>Heel wear: Replace if heel is unevenly worn or cracked.<\/li><li>Upper material: Replace if torn, stained, or showing significant signs of wear.<\/li><li>Insole wear: Replace if insole is flat or no longer provides support.<\/li><\/ol><p><strong>Other Signs:<\/strong><\/p><ol><li>Discomfort: If child complains of foot pain or discomfort.<\/li><li>Odor: Persistent odor despite cleaning.<\/li><li>Performance: If shoes no longer provide adequate support or stability.<\/li><\/ol><p><strong>Additional Tips:<\/strong><\/p><ol><li>Check shoes regularly, as growth rates vary.<\/li><li>Consider replacing shoes more frequently for high-activity kids.<\/li><li>Ensure proper fit to prevent blisters, discomfort, and potential long-term issues.<\/li><\/ol><p>Remember, every child's needs are different. Consult a shoe fitter or pediatrician for personalized advice.<\/p>"}},"question_9MYQmp":{"type":"question","settings":{"title":"How can I make my kid's shoes last longer?","answer":"<p>To ensure optimal performance and longevity, consider the following tips:<\/p><p><strong>Break Them In Soon<\/strong><\/p><p>Get your kids to wear your new shoes within a reasonable time after purchasing. Leaving shoes unworn for extended periods can lead to:<\/p><ul><li>Drying out of glue and cushioning materials<\/li><li>Reduced performance<\/li><li>Shortened lifespan<\/li><\/ul><p><strong>Rotate Shoes for Longer Life<\/strong><\/p><p>Alternate between two or more pairs of shoes for your kids. This allows each pair to:<\/p><ul><li>Air out and dry completely<\/li><li>Rebound and recover between wears, extending cushioning life<\/li><li>Last longer, with reduced wear and tear<\/li><\/ul><p>By following these simple tips, your kids will get the most out of the shoes and enjoy better performance, comfort, and durability.<\/p>"}}},"block_order":["question-1","question-2","question_9MYQmp"],"settings":{"title":"Care and Maintenance"}},"collapsible_tabs_zcnJEb":{"type":"collapsible-tabs","blocks":{"question_NTVtJ7":{"type":"question","settings":{"title":"What is Taare's impact mission?","answer":"<p>At Taare, we're dedicated to creating a better world for our kids and crafting a fair and inclusive future.<\/p><p>Our mission weaves together social responsibility, environmental stewardship and community welfare, ensuring every decision of ours considers the well-being of our kids and the planet we will leave them with.<\/p>"}},"question_rirr8H":{"type":"question","settings":{"title":"How is Taare making a difference?","answer":"<p>Our 'Step Forward' initiative embodies our commitment to a better future for our kids, featuring:<\/p><ul><li>A 'Buy One, Give One' program, where every purchase helps provide a new pair of shoes to a child in need.<\/li><li>A shoe recycling program, collecting gently used shoes to distribute to kids worldwide, promoting mobility and equality.<\/li><\/ul>"}},"question_dRCRjr":{"type":"question","settings":{"title":"Which organizations do you collaborate with?","answer":"<p>We're proud to be working with the following organizations that align with our ambitions to ensure a better world for our kids:<\/p><p><strong>Soles4Souls: <\/strong>Soles4Souls turns unwanted shoes and clothing into opportunity, by keeping them from going to waste and putting them to good use – providing relief, creating jobs and empowering people to break the cycle of poverty.<\/p>"}},"question_h9PDth":{"type":"question","settings":{"title":"What shoes can I donate using your prepaid labels?","answer":"<p>You can donate any new or gently used Taare shoes. Gently used means no obvious or significant wear and tear, no holes, no mud or excessive staining, or items with broken\/missing parts. <\/p><p>Taare sponsors the prepaid label and we have partnered with our friends at Soles4Souls to help distribute your donated around the world. To learn more about Soles4Souls, please visit their website: <a href=\"https:\/\/www.soles4souls.org\" target=\"_blank\" title=\"https:\/\/www.soles4souls.org\">www.soles4souls.org<\/a> <\/p>"}}},"block_order":["question_NTVtJ7","question_rirr8H","question_dRCRjr","question_h9PDth"],"settings":{"title":"Impact and Sustainability"}},"collapsible_tabs_UA8zWa":{"type":"collapsible-tabs","blocks":{"question_fmdQgL":{"type":"question","settings":{"title":"My question isn't listed here. How do I get in touch?","answer":"<p>If your question is not covered within our FAQs, please feel free to reach out with our contact us form below.<\/p>"}}},"block_order":["question_fmdQgL"],"settings":{"title":"Company Information"}},"contact":{"type":"rich-text","blocks":{"icon":{"type":"icon","settings":{"icon":"chat_bubble"}},"heading":{"type":"heading","settings":{"title":"Get in touch","use_h1":false}},"text":{"type":"text","settings":{"text":"<p>Have questions about your order, or a general enquiry?<\/p>","enlarge_text":true}},"button":{"type":"button","disabled":true,"settings":{"button_label":"Contact us","button_link":"shopify:\/\/pages\/contact","button_style":"primary"}}},"block_order":["icon","heading","text","button"],"custom_css":[],"settings":{"height":"medium","text_alignment":"center","full_width":false,"color_scheme":"default"}},"custom_content_F4jcCg":{"type":"custom-content","blocks":{"text_JygbBC":{"type":"text","settings":{"width":"half","subheading":"","title":"","text":"","button_label":"Contact us","button_link":"","button_style":"primary","text_alignment":"center"}}},"block_order":["text_JygbBC"],"settings":{"alignment":"middle"}}},"order":["rich_text_4abRkG","main","collapsible_tabs_WbCa4j","collapsible_tabs_cARNCt","collapsible_tabs_JHQiCU","faq-content-2","faq-content-1","collapsible_tabs_zcnJEb","collapsible_tabs_UA8zWa","contact","custom_content_F4jcCg"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rich_text_4abRkG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8mAwVa": {
+          "type": "heading",
+          "settings": {
+            "title": "Help Center",
+            "use_h1": false
+          }
+        },
+        "text_yDmpH7": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Need to track an order, or return/exchange?</strong></p><p>Log in to view your recent orders, track delivery status, or to return/exchange an item.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_8mAwVa",
+        "text_yDmpH7"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "default"
+      }
+    },
+    "main": {
+      "type": "faq-header",
+      "settings": {
+        "title": "Find answers to your most commonly asked questions",
+        "use_h1": false,
+        "text": "",
+        "show_search": true,
+        "show_index": true,
+        "index_heading": "Quick assists"
+      }
+    },
+    "collapsible_tabs_WbCa4j": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question_Btn8Fz": {
+          "type": "question",
+          "settings": {
+            "title": "What is special about Taare shoes?",
+            "answer": "<p>Our shoes are all-day, every-day shoes and probably some of the most comfortable shoes that your kids can find.</p><p>They provide superior support and protection, ensuring your child's feet stay safe and happy throughout the day. Our range offers versatile and trendy designs that can seamlessly transition from playground adventures to everyday wear. </p>"
+          }
+        },
+        "question_d9tiXV": {
+          "type": "question",
+          "settings": {
+            "title": "Do your shoes run true to size, or should I size up or down?",
+            "answer": "<p>Our shoes generally run true to size and align with standard industry sizing. </p><p>If you’re not quite sure which size is right for you, refer to our size guides.  </p><p>And don't worry. We offer free returns and exchanges if the shoes didn't fit quite right.</p>"
+          }
+        },
+        "question_aVmDFV": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "What is the warranty on Taare shoes?",
+            "answer": "<p>We've got those little feet covered! </p><p>If your Taare shoes develop a material or workmanship fault within 6 months from the date of purchase, we will provide a replacement product free of charge. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_Btn8Fz",
+        "question_d9tiXV",
+        "question_aVmDFV"
+      ],
+      "settings": {
+        "title": "Product and Fit"
+      }
+    },
+    "collapsible_tabs_cARNCt": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question_BN6XGz": {
+          "type": "question",
+          "settings": {
+            "title": "Is there a minimum order amount for free shipping?",
+            "answer": "<p>No, there is no minimum. All our shoes qualify for free shipping, returns, and exchanges. We want to keep it simple for you!</p>"
+          }
+        },
+        "question_JbUMDG": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Can I pre-order items for delivery?",
+            "answer": "<p>Yes. However, pre-order items will be specifically indicated as such; this generally applies to new releases. We will only accept orders on items that we have in stock at the time.</p>"
+          }
+        },
+        "question_4yCqgF": {
+          "type": "question",
+          "settings": {
+            "title": "Can I change or cancel my order?",
+            "answer": "<p>Yes, absolutely. </p><p>We will soon update our website to let you cancel or change your active order through the order history page.  </p><p>Until then, please reach out to us at info@taare.com with your  order number and we will cancel the order. </p><p>By the way, we offer free returns: 30 days for non-subscription members and 60 days for subscription members</p>"
+          }
+        },
+        "question_XdzWXi": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "What do I do if my product breaks down during the guarantee period?",
+            "answer": "<p>If products are under guarantee, your order confirmation email/delivery note is your proof of purchase/receipt and you should follow the manufacturer’s instructions for notifying the manufacturer of any problems within the guarantee period.</p>"
+          }
+        },
+        "question_YMNHCz": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Do you offer gift wrapping options?",
+            "answer": "<p>Yes. Your gifts can be delivered in our beautifully presented gift boxes for just $4.99 per item. Each box carries the Commerce Cloud logo and comes with a gift card for your personal message. Enter your personal message into the fields provided (up to a maximum of 4 lines and 80 characters). If you would like to change your gift wrap options, simply select from the dropdown box. Once you are happy with your selections, click \"Continue\" to proceed with your purchase. Please note: Gift wrap is not available on all items, extra large items such as rocking horses and sit-and-ride vehicles are excluded.</p>"
+          }
+        },
+        "question_VJbBcF": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Do you offer discounts on corporate or bulk orders?",
+            "answer": "<p>We completely get it, we change our minds too! While we wish could, once an order is placed, we are unable to alter or cancel it at this time. We hope to have a cancellation window one day in the future.</p><p>Should the item(s) not work out, make sure to exchange for a preferred style or return for a refund. As a reminder, domestic return shipping is free.</p>"
+          }
+        },
+        "question_83LXGD": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "The size I want is out of stock. When will it be back in stock?",
+            "answer": "<p>We’re sorry if the size you want size is unavailable. We refill our inventory as soon as stock is available, and offer back in stock email alerts.</p><p>To set an alert, look for the “Set a back in stock alert” option on the product page above the “Add to cart” button. Select the colorway and size you want, and we will send you an email alert when your item is back in stock. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_BN6XGz",
+        "question_JbUMDG",
+        "question_4yCqgF",
+        "question_XdzWXi",
+        "question_YMNHCz",
+        "question_VJbBcF",
+        "question_83LXGD"
+      ],
+      "settings": {
+        "title": "Ordering"
+      }
+    },
+    "collapsible_tabs_JHQiCU": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question_RmVryf": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "What is the cancellation policy?",
+            "answer": "<p>We understand that your needs can change, and we have made it easy to cancel your subscription at any time.</p><p><strong>Key Points:</strong></p><ul><li>You can cancel your subscription anytime.</li><li>No hidden fees or penalties for cancellation.</li><li>Cancellation takes effect immediately.</li></ul><p><strong>How to Cancel: </strong>To cancel your subscription, follow these steps:</p><ol><li>Log in to your account dashboard.</li><li>Go to the \"Subscriptions\" section.</li><li>Click on \"Cancel Subscription.\"</li></ol><p>If you have any questions or concerns about cancelling your subscription, contact our support team at info@taare.com. We're here to help.</p>"
+          }
+        },
+        "question_mUyQDw": {
+          "type": "question",
+          "settings": {
+            "title": "Can I advance my subscription?",
+            "answer": "<p>Yes. We will soon launch our subscription management page to let you manage your subscription details, including frequency. </p>"
+          }
+        },
+        "question_pm4WBX": {
+          "type": "question",
+          "settings": {
+            "title": "Can I pause my subscription?",
+            "answer": "<p>Yes. You can pause and resume the subscription as per your wish within the subscription period. </p><p>Our subscription management page will go live around mid January, 2025.</p>"
+          }
+        },
+        "question_K3h6b4": {
+          "type": "question",
+          "settings": {
+            "title": "I have subscribed. When will I be charged?",
+            "answer": "<p>You are charged when the subscription box ships out. </p><p>For example, if you opted for the 'every 4 months' delivery frequency, you will be charged every 4 months when the box ships out.</p><p>For subscription preorders, you are immediately charged for the first box. All future boxes will be charged later when they ship out.</p><p>We will soon launch an annual payment option to help you save money by pre-paying boxes on an annual basis.</p>"
+          }
+        },
+        "question_QCENDb": {
+          "type": "question",
+          "settings": {
+            "title": "Can I skip a subscription?",
+            "answer": "<p>Yes. If you wish to skip a subscription, we will ship the pair that was due on the next shipment date together. </p>"
+          }
+        },
+        "question_frPFKe": {
+          "type": "question",
+          "settings": {
+            "title": "Can I update my shipping or billing address or card details?",
+            "answer": "<p>Yes, you can always make the changes you want in your account subscription page.</p>"
+          }
+        },
+        "question_dqmept": {
+          "type": "question",
+          "settings": {
+            "title": "Do I need to send the old pair back in order to receive the next pair?",
+            "answer": "<p>No. They are your shoes, and you can retain them if you wish to do so.</p><p>However, we do encourage donating the gently worn shoes via our donation program to help create a better world for kids all around. </p>"
+          }
+        },
+        "question_UPKEKj": {
+          "type": "question",
+          "settings": {
+            "title": "Can I swap an item before it shipped?",
+            "answer": "<p>Yes, you can swap an item before it ships out.</p><p>We will email you before the next pair ships out, and you will be able to login and decide if you want to continue in the same style with the next size or swap for another style. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_RmVryf",
+        "question_mUyQDw",
+        "question_pm4WBX",
+        "question_K3h6b4",
+        "question_QCENDb",
+        "question_frPFKe",
+        "question_dqmept",
+        "question_UPKEKj"
+      ],
+      "settings": {
+        "title": "Subscription Management"
+      }
+    },
+    "faq-content-2": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "para-1": {
+          "type": "content",
+          "settings": {
+            "content": ""
+          }
+        },
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What is the shipping policy?",
+            "answer": "<p>Once your order is placed, you will receive a confirmation email letting you know that our fulfillment team has received your order. </p><p>Once your order is fulfilled, you will receive an email notification with your tracking information. </p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "answer": "<p>No. We currently only ship in the United States.</p>"
+          }
+        },
+        "question_39NmD3": {
+          "type": "question",
+          "settings": {
+            "title": "When do I get my refund once I have returned an item?",
+            "answer": "<p>We typically process your refund to the original payment card within two weeks of receiving the item at our warehouse.</p>"
+          }
+        },
+        "question_48D7Rg": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "If I return all the items in my order, will I still be charged for delivery?",
+            "answer": "<p>If any of the items we deliver are damaged or incorrect, we will refund the delivery charge. If you change your mind about wanting to keep them, you may return them free of charge but we will not refund the original delivery charge.</p>"
+          }
+        },
+        "question_FbD99x": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Do I get charged for delivery of each item I order?",
+            "answer": "<p>Postage and packaging for each gift basket are charged separately but all other items will have one delivery charge, no matter how many you buy.</p>"
+          }
+        },
+        "question_7EnnMz": {
+          "type": "question",
+          "settings": {
+            "title": "I have a complaint, who should I speak to?",
+            "answer": "<p>For any concern, please contact our support team at info@taare.com.</p>"
+          }
+        },
+        "question_mcUAHp": {
+          "type": "question",
+          "settings": {
+            "title": "What is Taare's return policy?",
+            "answer": "<p>We offer a 30-day no-risk trial period on our shoes.</p><p>You can return or exchange the shoes even if your little ones have worn them outside. We encourage kids to be active and want to ensure that they are happy with their shoes at all times.  </p>"
+          }
+        },
+        "question_jmUHzy": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "How do I return my Taare order?",
+            "answer": "<p>You can return your order via our Returns Page or by logging in to your account.</p>"
+          }
+        },
+        "question_ktApeC": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Where is my refund?",
+            "answer": ""
+          }
+        },
+        "question_bir9w9": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "What are Taare's delivery options?",
+            "answer": ""
+          }
+        }
+      },
+      "block_order": [
+        "para-1",
+        "question-1",
+        "question-2",
+        "question_39NmD3",
+        "question_48D7Rg",
+        "question_FbD99x",
+        "question_7EnnMz",
+        "question_mcUAHp",
+        "question_jmUHzy",
+        "question_ktApeC",
+        "question_bir9w9"
+      ],
+      "settings": {
+        "title": "Shipping, Returns & Exchanges"
+      }
+    },
+    "faq-content-1": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "How should I clean my kid's shoes?",
+            "answer": "<p>To keep your kids' shoes looking their best, follow these simple steps:</p><p><strong>Precaution:</strong> Before cleaning, test a small amount of mild, dye-free detergent (suitable for dishwashing or laundry) on an inconspicuous area to ensure it won't damage the material.</p><p><strong>Cleaning Steps:</strong></p><ol><li>Use a soft-bristled brush (like a toothbrush) and mild detergent to gently scrub away dirt.</li><li>Wipe clean with a damp cloth.</li><li>Allow shoes to air dry for 24 hours before wearing.</li></ol><p><strong>Special Care:</strong></p><ul><li>For suede or leather shoes, use a specialized leather or suede cleaner.</li><li>Avoid machine washing or drying, as many materials can't withstand water submersion or heat.</li></ul><p>By following these steps, you'll keep your kid's shoes clean, fresh, and ready for their next adventure!</p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "When should I replace my kid's shoes?",
+            "answer": "<p>Here are some guidelines to determine when a kid's shoe should be replaced:</p><p><strong>General Guidelines:</strong></p><ol><li>Every 3-4 months: Average lifespan of kids' shoes due to rapid growth and wear.</li><li>When outgrown: Replace shoes when toes reach the end of the shoe or the heel no longer fits snugly.</li></ol><p><strong>Visual Inspection:</strong></p><ol><li>Sole wear: Replace if sole is worn down to 1/8 inch or less.</li><li>Heel wear: Replace if heel is unevenly worn or cracked.</li><li>Upper material: Replace if torn, stained, or showing significant signs of wear.</li><li>Insole wear: Replace if insole is flat or no longer provides support.</li></ol><p><strong>Other Signs:</strong></p><ol><li>Discomfort: If child complains of foot pain or discomfort.</li><li>Odor: Persistent odor despite cleaning.</li><li>Performance: If shoes no longer provide adequate support or stability.</li></ol><p><strong>Additional Tips:</strong></p><ol><li>Check shoes regularly, as growth rates vary.</li><li>Consider replacing shoes more frequently for high-activity kids.</li><li>Ensure proper fit to prevent blisters, discomfort, and potential long-term issues.</li></ol><p>Remember, every child's needs are different. Consult a shoe fitter or pediatrician for personalized advice.</p>"
+          }
+        },
+        "question_9MYQmp": {
+          "type": "question",
+          "settings": {
+            "title": "How can I make my kid's shoes last longer?",
+            "answer": "<p>To ensure optimal performance and longevity, consider the following tips:</p><p><strong>Break Them In Soon</strong></p><p>Get your kids to wear your new shoes within a reasonable time after purchasing. Leaving shoes unworn for extended periods can lead to:</p><ul><li>Drying out of glue and cushioning materials</li><li>Reduced performance</li><li>Shortened lifespan</li></ul><p><strong>Rotate Shoes for Longer Life</strong></p><p>Alternate between two or more pairs of shoes for your kids. This allows each pair to:</p><ul><li>Air out and dry completely</li><li>Rebound and recover between wears, extending cushioning life</li><li>Last longer, with reduced wear and tear</li></ul><p>By following these simple tips, your kids will get the most out of the shoes and enjoy better performance, comfort, and durability.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question-1",
+        "question-2",
+        "question_9MYQmp"
+      ],
+      "settings": {
+        "title": "Care and Maintenance"
+      }
+    },
+    "collapsible_tabs_zcnJEb": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question_NTVtJ7": {
+          "type": "question",
+          "settings": {
+            "title": "What is Taare's impact mission?",
+            "answer": "<p>At Taare, we're dedicated to creating a better world for our kids and crafting a fair and inclusive future.</p><p>Our mission weaves together social responsibility, environmental stewardship and community welfare, ensuring every decision of ours considers the well-being of our kids and the planet we will leave them with.</p>"
+          }
+        },
+        "question_rirr8H": {
+          "type": "question",
+          "settings": {
+            "title": "How is Taare making a difference?",
+            "answer": "<p>Our 'Step Forward' initiative embodies our commitment to a better future for our kids, featuring:</p><ul><li>A 'Buy One, Give One' program, where every purchase helps provide a new pair of shoes to a child in need.</li><li>A shoe recycling program, collecting gently used shoes to distribute to kids worldwide, promoting mobility and equality.</li></ul>"
+          }
+        },
+        "question_dRCRjr": {
+          "type": "question",
+          "settings": {
+            "title": "Which organizations do you collaborate with?",
+            "answer": "<p>We're proud to be working with the following organizations that align with our ambitions to ensure a better world for our kids:</p><p><strong>Soles4Souls: </strong>Soles4Souls turns unwanted shoes and clothing into opportunity, by keeping them from going to waste and putting them to good use – providing relief, creating jobs and empowering people to break the cycle of poverty.</p>"
+          }
+        },
+        "question_h9PDth": {
+          "type": "question",
+          "settings": {
+            "title": "What shoes can I donate using your prepaid labels?",
+            "answer": "<p>You can donate any new or gently used Taare shoes. Gently used means no obvious or significant wear and tear, no holes, no mud or excessive staining, or items with broken/missing parts. </p><p>Taare sponsors the prepaid label and we have partnered with our friends at Soles4Souls to help distribute your donated around the world. To learn more about Soles4Souls, please visit their website: <a href=\"https://www.soles4souls.org\" target=\"_blank\" title=\"https://www.soles4souls.org\">www.soles4souls.org</a> </p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_NTVtJ7",
+        "question_rirr8H",
+        "question_dRCRjr",
+        "question_h9PDth"
+      ],
+      "settings": {
+        "title": "Impact and Sustainability"
+      }
+    },
+    "collapsible_tabs_UA8zWa": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question_fmdQgL": {
+          "type": "question",
+          "settings": {
+            "title": "My question isn't listed here. How do I get in touch?",
+            "answer": "<p>If your question is not covered within our FAQs, please feel free to reach out with our contact us form below.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_fmdQgL"
+      ],
+      "settings": {
+        "title": "Company Information"
+      }
+    },
+    "contact": {
+      "type": "rich-text",
+      "blocks": {
+        "icon": {
+          "type": "icon",
+          "settings": {
+            "icon": "chat_bubble"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Get in touch",
+            "use_h1": false
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Have questions about your order, or a general enquiry?</p>",
+            "enlarge_text": true
+          }
+        },
+        "button": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Contact us",
+            "button_link": "shopify://pages/contact",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "icon",
+        "heading",
+        "text",
+        "button"
+      ],
+      "custom_css": [],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "default"
+      }
+    },
+    "custom_content_F4jcCg": {
+      "type": "custom-content",
+      "blocks": {
+        "text_JygbBC": {
+          "type": "text",
+          "settings": {
+            "width": "half",
+            "subheading": "",
+            "title": "",
+            "text": "",
+            "button_label": "Contact us",
+            "button_link": "",
+            "button_style": "primary",
+            "text_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "text_JygbBC"
+      ],
+      "settings": {
+        "alignment": "middle"
+      }
+    }
+  },
+  "order": [
+    "rich_text_4abRkG",
+    "main",
+    "collapsible_tabs_WbCa4j",
+    "collapsible_tabs_cARNCt",
+    "collapsible_tabs_JHQiCU",
+    "faq-content-2",
+    "faq-content-1",
+    "collapsible_tabs_zcnJEb",
+    "collapsible_tabs_UA8zWa",
+    "contact",
+    "custom_content_F4jcCg"
+  ]
+}

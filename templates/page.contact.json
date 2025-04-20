@@ -1,1 +1,96 @@
-{"sections":{"image_with_text_overlay_8F6V6p":{"type":"image-with-text-overlay","blocks":{"subheading_AneTTa":{"type":"subheading","settings":{"subheading":""}},"heading_MDcQTc":{"type":"heading","settings":{"title":"Contact us","heading_max_width":9,"title_size":42,"title_size_mobile":32,"use_h1":false}},"text_N3pUcQ":{"type":"text","settings":{"text":"","enlarge_text":true}}},"block_order":["subheading_AneTTa","heading_MDcQTc","text_N3pUcQ"],"disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Shoe_Heading_1920_x_100_px.png","height":"fixed","height_desktop":600,"height_mobile":160,"image_link":"","full_width":true,"text_alignment":"center center","mobile_overlay_under":false,"overlay_style":"shadow"}},"main":{"type":"main-contact","blocks":{"name":{"type":"name_input","settings":{"half_width":true}},"email":{"type":"email_input","settings":{"half_width":true}},"message":{"type":"message_input","settings":{"half_width":false}}},"block_order":["name","email","message"],"settings":{"show_page_title":false,"use_columns":true,"contact_title":"Contact us","contact_text":"<h6>Have a question about sizing, returns, or anything else? We'd love to hear from you! <\/h6><h6>Simply fill out the form below and send us your inquiry. We'll get back to you as soon as possible.<\/h6>"}}},"order":["image_with_text_overlay_8F6V6p","main"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_overlay_8F6V6p": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_AneTTa": {
+          "type": "subheading",
+          "settings": {
+            "subheading": ""
+          }
+        },
+        "heading_MDcQTc": {
+          "type": "heading",
+          "settings": {
+            "title": "Contact us",
+            "heading_max_width": 9,
+            "title_size": 42,
+            "title_size_mobile": 32,
+            "use_h1": false
+          }
+        },
+        "text_N3pUcQ": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "subheading_AneTTa",
+        "heading_MDcQTc",
+        "text_N3pUcQ"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Shoe_Heading_1920_x_100_px.png",
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 160,
+        "image_link": "",
+        "full_width": true,
+        "text_alignment": "center center",
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "main": {
+      "type": "main-contact",
+      "blocks": {
+        "name": {
+          "type": "name_input",
+          "settings": {
+            "half_width": true
+          }
+        },
+        "email": {
+          "type": "email_input",
+          "settings": {
+            "half_width": true
+          }
+        },
+        "message": {
+          "type": "message_input",
+          "settings": {
+            "half_width": false
+          }
+        }
+      },
+      "block_order": [
+        "name",
+        "email",
+        "message"
+      ],
+      "settings": {
+        "show_page_title": false,
+        "use_columns": true,
+        "contact_title": "Contact us",
+        "contact_text": "<h6>Have a question about sizing, returns, or anything else? We'd love to hear from you! </h6><h6>Simply fill out the form below and send us your inquiry. We'll get back to you as soon as possible.</h6>"
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_8F6V6p",
+    "main"
+  ]
+}

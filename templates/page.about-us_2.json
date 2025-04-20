@@ -1,1 +1,351 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"show_page_title":true,"full_width":false}},"background_video_wxM8zJ":{"type":"background-video","blocks":{"subheading_xRMhGg":{"type":"subheading","disabled":true,"settings":{"subheading":"Tell your story"}},"heading_xnG4rn":{"type":"heading","settings":{"title":"Be The Change.","heading_max_width":15,"title_size":84,"title_size_mobile":32,"use_h1":false}},"text_abAWT4":{"type":"text","settings":{"text":"<p>The Taare Mission: To help children everywhere truly shine.<\/p>","enlarge_text":true}}},"block_order":["subheading_xRMhGg","heading_xnG4rn","text_abAWT4"],"settings":{"video_shopify":"shopify:\/\/files\/videos\/Kids are the world.mp4","video_external":"https:\/\/www.youtube.com\/watch?v=7wP1R0_Fv88","video_description":"","text_alignment":"center center","height_desktop":600,"height_mobile":500,"full_width":true,"overlay_style":"shadow"}},"ffca7f3f-a70e-4737-9485-80d1f269e72b":{"type":"rich-text","blocks":{"941bc462-0551-4914-bb50-fb1d366d7cf6":{"type":"subheading","disabled":true,"settings":{"subheading":"Subheading"}},"template--15213462618185__ffca7f3f-a70e-4737-9485-80d1f269e72b-heading-1":{"type":"heading","settings":{"title":"What drives us?","use_h1":false}},"template--15213462618185__ffca7f3f-a70e-4737-9485-80d1f269e72b-text-1":{"type":"text","settings":{"text":"<p>At Taare, we believe that life’s greatest privilege and joy is to serve our children, helping them grow into responsible and caring human beings.<\/p>","enlarge_text":true}}},"block_order":["941bc462-0551-4914-bb50-fb1d366d7cf6","template--15213462618185__ffca7f3f-a70e-4737-9485-80d1f269e72b-heading-1","template--15213462618185__ffca7f3f-a70e-4737-9485-80d1f269e72b-text-1"],"settings":{"height":"medium","text_alignment":"center","full_width":false,"color_scheme":"1"}},"e349fe82-4ed8-48b7-b15a-84eb3a247d25":{"type":"image-with-text","blocks":{"aa8f8936-073f-42af-b9ae-2458a23ee7b9":{"type":"subheading","disabled":true,"settings":{"subheading":"Subheading"}},"template--15213462618185__e349fe82-4ed8-48b7-b15a-84eb3a247d25-heading-1":{"type":"heading","settings":{"title":"Taare = Stars","use_h1":false}},"template--15213462618185__e349fe82-4ed8-48b7-b15a-84eb3a247d25-text-1":{"type":"text","settings":{"text":"<p>'Taare' means stars in the Hindi language, symbolizing the limitless potential and shine within every child.<\/p>","enlarge_text":true}}},"block_order":["aa8f8936-073f-42af-b9ae-2458a23ee7b9","template--15213462618185__e349fe82-4ed8-48b7-b15a-84eb3a247d25-heading-1","template--15213462618185__e349fe82-4ed8-48b7-b15a-84eb3a247d25-text-1"],"settings":{"image":"shopify:\/\/shop_images\/Kids_star_fingers.png","image_width":700,"image_link":"","image_position":"left","text_alignment":"left","color_scheme":"default"}},"5d80e24d-359e-4497-b5e7-90275162de31":{"type":"image-with-text","blocks":{"88949fd5-8250-4a34-9a66-e89dc0c91026":{"type":"subheading","disabled":true,"settings":{"subheading":"Subheading"}},"template--15213462618185__5d80e24d-359e-4497-b5e7-90275162de31-heading-1":{"type":"heading","settings":{"title":"The inspiration behind Taare","use_h1":false}},"template--15213462618185__5d80e24d-359e-4497-b5e7-90275162de31-text-1":{"type":"text","settings":{"text":"<p>At Taare, we believe that childhood is a journey of discovery and wonder. That's why we're dedicated to crafting shoes specifically for kids that provide all day comfort in every day wear.<\/p>","enlarge_text":false}}},"block_order":["88949fd5-8250-4a34-9a66-e89dc0c91026","template--15213462618185__5d80e24d-359e-4497-b5e7-90275162de31-heading-1","template--15213462618185__5d80e24d-359e-4497-b5e7-90275162de31-text-1"],"settings":{"image":"shopify:\/\/shop_images\/Kid_star_heads.png","image_width":700,"image_link":"","image_position":"right","text_alignment":"left","color_scheme":"default"}},"image_with_text_7gqrwx":{"type":"image-with-text","blocks":{"subheading_EcWFQE":{"type":"subheading","disabled":true,"settings":{"subheading":"Subheading"}},"heading_F9RHHx":{"type":"heading","settings":{"title":"Join the Taare journey and help your little stars shine bright!","use_h1":false}},"text_fFkTTa":{"type":"text","settings":{"text":"<p>Our Mission:<br\/>To provide high-quality, comfortable, and stylish footwear that lets kids be their amazing selves. <\/p><p>From playground explorers to budding athletes, our shoes are designed to keep up with their active lives, while promoting healthy foot development and happiness.<\/p><p><strong>Based in Washington, USA<\/strong><\/p>","enlarge_text":false}}},"block_order":["subheading_EcWFQE","heading_F9RHHx","text_fFkTTa"],"settings":{"image":"shopify:\/\/shop_images\/Kids_Sunset.png","image_width":700,"image_link":"","image_position":"left","text_alignment":"left","color_scheme":"default"}},"image_with_text_Tri79R":{"type":"image-with-text","blocks":{"subheading_yikn7n":{"type":"subheading","disabled":true,"settings":{"subheading":"Subheading"}},"heading_Be3kdp":{"type":"heading","settings":{"title":"Join the Taare journey and help your little stars shine bright!","use_h1":false}},"text_QUWer4":{"type":"text","settings":{"text":"<p>Our Mission:<br\/>To provide high-quality, comfortable, and stylish footwear that lets kids be their amazing selves. <\/p><p>From playground explorers to budding athletes, our shoes are designed to keep up with their active lives, while promoting healthy foot development and happiness.<\/p><p><strong>Based in Washington, USA<\/strong><\/p>","enlarge_text":false}}},"block_order":["subheading_yikn7n","heading_Be3kdp","text_QUWer4"],"settings":{"image":"shopify:\/\/shop_images\/Kids_Sunset.png","image_width":700,"image_link":"","image_position":"right","text_alignment":"left","color_scheme":"default"}},"image_with_text_6hedYX":{"type":"image-with-text","blocks":{"subheading_6MKUjE":{"type":"subheading","disabled":true,"settings":{"subheading":"Subheading"}},"heading_p3DR3n":{"type":"heading","settings":{"title":"Join the Taare journey and help your little stars shine bright!","use_h1":false}},"text_HDJ3Mz":{"type":"text","settings":{"text":"<p>Our Mission:<br\/>To provide high-quality, comfortable, and stylish footwear that lets kids be their amazing selves. <\/p><p>From playground explorers to budding athletes, our shoes are designed to keep up with their active lives, while promoting healthy foot development and happiness.<\/p><p><strong>Based in Washington, USA<\/strong><\/p>","enlarge_text":false}}},"block_order":["subheading_6MKUjE","heading_p3DR3n","text_HDJ3Mz"],"settings":{"image":"shopify:\/\/shop_images\/Kids_Sunset.png","image_width":700,"image_link":"","image_position":"left","text_alignment":"left","color_scheme":"default"}},"a7b3f3bc-057e-48f7-92fe-881a3993337e":{"type":"rich-text","blocks":{"template--15439594029129__a7b3f3bc-057e-48f7-92fe-881a3993337e-heading-1":{"type":"heading","settings":{"title":"Stories that Inspire Us.","use_h1":false}},"template--15439594029129__a7b3f3bc-057e-48f7-92fe-881a3993337e-text-1":{"type":"text","settings":{"text":"<p>Everyday, we are motivated to keep doing what we do by these inspiring stories!<\/p>","enlarge_text":true}}},"block_order":["template--15439594029129__a7b3f3bc-057e-48f7-92fe-881a3993337e-heading-1","template--15439594029129__a7b3f3bc-057e-48f7-92fe-881a3993337e-text-1"],"settings":{"height":"medium","text_alignment":"center","full_width":false,"color_scheme":"default"}},"789f0e57-893a-46b3-a1d6-bcabe394135b":{"type":"featured-blog","settings":{"title":"","blog":"","post_limit":3,"show_author":false,"show_date":false,"show_excerpts":false,"crop_ratio":"1.78","color_scheme":"1"}}},"order":["main","background_video_wxM8zJ","ffca7f3f-a70e-4737-9485-80d1f269e72b","e349fe82-4ed8-48b7-b15a-84eb3a247d25","5d80e24d-359e-4497-b5e7-90275162de31","image_with_text_7gqrwx","image_with_text_Tri79R","image_with_text_6hedYX","a7b3f3bc-057e-48f7-92fe-881a3993337e","789f0e57-893a-46b3-a1d6-bcabe394135b"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_title": true,
+        "full_width": false
+      }
+    },
+    "background_video_wxM8zJ": {
+      "type": "background-video",
+      "blocks": {
+        "subheading_xRMhGg": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Tell your story"
+          }
+        },
+        "heading_xnG4rn": {
+          "type": "heading",
+          "settings": {
+            "title": "Be The Change.",
+            "heading_max_width": 15,
+            "title_size": 84,
+            "title_size_mobile": 32,
+            "use_h1": false
+          }
+        },
+        "text_abAWT4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Taare Mission: To help children everywhere truly shine.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "subheading_xRMhGg",
+        "heading_xnG4rn",
+        "text_abAWT4"
+      ],
+      "settings": {
+        "video_shopify": "shopify://files/videos/Kids are the world.mp4",
+        "video_external": "https://www.youtube.com/watch?v=7wP1R0_Fv88",
+        "video_description": "",
+        "text_alignment": "center center",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "full_width": true,
+        "overlay_style": "shadow"
+      }
+    },
+    "ffca7f3f-a70e-4737-9485-80d1f269e72b": {
+      "type": "rich-text",
+      "blocks": {
+        "941bc462-0551-4914-bb50-fb1d366d7cf6": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Subheading"
+          }
+        },
+        "template--15213462618185__ffca7f3f-a70e-4737-9485-80d1f269e72b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "What drives us?",
+            "use_h1": false
+          }
+        },
+        "template--15213462618185__ffca7f3f-a70e-4737-9485-80d1f269e72b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Taare, we believe that life’s greatest privilege and joy is to serve our children, helping them grow into responsible and caring human beings.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "941bc462-0551-4914-bb50-fb1d366d7cf6",
+        "template--15213462618185__ffca7f3f-a70e-4737-9485-80d1f269e72b-heading-1",
+        "template--15213462618185__ffca7f3f-a70e-4737-9485-80d1f269e72b-text-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "1"
+      }
+    },
+    "e349fe82-4ed8-48b7-b15a-84eb3a247d25": {
+      "type": "image-with-text",
+      "blocks": {
+        "aa8f8936-073f-42af-b9ae-2458a23ee7b9": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Subheading"
+          }
+        },
+        "template--15213462618185__e349fe82-4ed8-48b7-b15a-84eb3a247d25-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Taare = Stars",
+            "use_h1": false
+          }
+        },
+        "template--15213462618185__e349fe82-4ed8-48b7-b15a-84eb3a247d25-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>'Taare' means stars in the Hindi language, symbolizing the limitless potential and shine within every child.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "aa8f8936-073f-42af-b9ae-2458a23ee7b9",
+        "template--15213462618185__e349fe82-4ed8-48b7-b15a-84eb3a247d25-heading-1",
+        "template--15213462618185__e349fe82-4ed8-48b7-b15a-84eb3a247d25-text-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Kids_star_fingers.png",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "left",
+        "text_alignment": "left",
+        "color_scheme": "default"
+      }
+    },
+    "5d80e24d-359e-4497-b5e7-90275162de31": {
+      "type": "image-with-text",
+      "blocks": {
+        "88949fd5-8250-4a34-9a66-e89dc0c91026": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Subheading"
+          }
+        },
+        "template--15213462618185__5d80e24d-359e-4497-b5e7-90275162de31-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "The inspiration behind Taare",
+            "use_h1": false
+          }
+        },
+        "template--15213462618185__5d80e24d-359e-4497-b5e7-90275162de31-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Taare, we believe that childhood is a journey of discovery and wonder. That's why we're dedicated to crafting shoes specifically for kids that provide all day comfort in every day wear.</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "88949fd5-8250-4a34-9a66-e89dc0c91026",
+        "template--15213462618185__5d80e24d-359e-4497-b5e7-90275162de31-heading-1",
+        "template--15213462618185__5d80e24d-359e-4497-b5e7-90275162de31-text-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Kid_star_heads.png",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "right",
+        "text_alignment": "left",
+        "color_scheme": "default"
+      }
+    },
+    "image_with_text_7gqrwx": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_EcWFQE": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Subheading"
+          }
+        },
+        "heading_F9RHHx": {
+          "type": "heading",
+          "settings": {
+            "title": "Join the Taare journey and help your little stars shine bright!",
+            "use_h1": false
+          }
+        },
+        "text_fFkTTa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Mission:<br/>To provide high-quality, comfortable, and stylish footwear that lets kids be their amazing selves. </p><p>From playground explorers to budding athletes, our shoes are designed to keep up with their active lives, while promoting healthy foot development and happiness.</p><p><strong>Based in Washington, USA</strong></p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "subheading_EcWFQE",
+        "heading_F9RHHx",
+        "text_fFkTTa"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Kids_Sunset.png",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "left",
+        "text_alignment": "left",
+        "color_scheme": "default"
+      }
+    },
+    "image_with_text_Tri79R": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_yikn7n": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Subheading"
+          }
+        },
+        "heading_Be3kdp": {
+          "type": "heading",
+          "settings": {
+            "title": "Join the Taare journey and help your little stars shine bright!",
+            "use_h1": false
+          }
+        },
+        "text_QUWer4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Mission:<br/>To provide high-quality, comfortable, and stylish footwear that lets kids be their amazing selves. </p><p>From playground explorers to budding athletes, our shoes are designed to keep up with their active lives, while promoting healthy foot development and happiness.</p><p><strong>Based in Washington, USA</strong></p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "subheading_yikn7n",
+        "heading_Be3kdp",
+        "text_QUWer4"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Kids_Sunset.png",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "right",
+        "text_alignment": "left",
+        "color_scheme": "default"
+      }
+    },
+    "image_with_text_6hedYX": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_6MKUjE": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Subheading"
+          }
+        },
+        "heading_p3DR3n": {
+          "type": "heading",
+          "settings": {
+            "title": "Join the Taare journey and help your little stars shine bright!",
+            "use_h1": false
+          }
+        },
+        "text_HDJ3Mz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Mission:<br/>To provide high-quality, comfortable, and stylish footwear that lets kids be their amazing selves. </p><p>From playground explorers to budding athletes, our shoes are designed to keep up with their active lives, while promoting healthy foot development and happiness.</p><p><strong>Based in Washington, USA</strong></p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "subheading_6MKUjE",
+        "heading_p3DR3n",
+        "text_HDJ3Mz"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Kids_Sunset.png",
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "left",
+        "text_alignment": "left",
+        "color_scheme": "default"
+      }
+    },
+    "a7b3f3bc-057e-48f7-92fe-881a3993337e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15439594029129__a7b3f3bc-057e-48f7-92fe-881a3993337e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Stories that Inspire Us.",
+            "use_h1": false
+          }
+        },
+        "template--15439594029129__a7b3f3bc-057e-48f7-92fe-881a3993337e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Everyday, we are motivated to keep doing what we do by these inspiring stories!</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "template--15439594029129__a7b3f3bc-057e-48f7-92fe-881a3993337e-heading-1",
+        "template--15439594029129__a7b3f3bc-057e-48f7-92fe-881a3993337e-text-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "default"
+      }
+    },
+    "789f0e57-893a-46b3-a1d6-bcabe394135b": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "",
+        "blog": "",
+        "post_limit": 3,
+        "show_author": false,
+        "show_date": false,
+        "show_excerpts": false,
+        "crop_ratio": "1.78",
+        "color_scheme": "1"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "background_video_wxM8zJ",
+    "ffca7f3f-a70e-4737-9485-80d1f269e72b",
+    "e349fe82-4ed8-48b7-b15a-84eb3a247d25",
+    "5d80e24d-359e-4497-b5e7-90275162de31",
+    "image_with_text_7gqrwx",
+    "image_with_text_Tri79R",
+    "image_with_text_6hedYX",
+    "a7b3f3bc-057e-48f7-92fe-881a3993337e",
+    "789f0e57-893a-46b3-a1d6-bcabe394135b"
+  ]
+}

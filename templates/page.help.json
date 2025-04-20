@@ -1,1 +1,254 @@
-{"sections":{"rich_text_LyG9qn":{"type":"rich-text","blocks":{"heading_7zf7Wc":{"type":"heading","settings":{"title":"Need to track an order, or return\/exchange?","use_h1":false}},"text_ceGgKJ":{"type":"text","settings":{"text":"<p>Log in to view your recent orders, track delivery status, or to return\/exchange an item.<\/p>","enlarge_text":false}}},"block_order":["heading_7zf7Wc","text_ceGgKJ"],"settings":{"height":"medium","text_alignment":"center","full_width":false,"color_scheme":"default"}},"main":{"type":"main-page","settings":{"full_width":false}},"collapsible_tabs_ETHMyN":{"type":"collapsible-tabs","blocks":{"question_zqg3EP":{"type":"question","settings":{"title":"What is Taare's return policy?","answer":"<p>Provide a summary. And link to the Returns Policy page.<\/p>"}},"question_qt8N6D":{"type":"question","settings":{"title":"How do I exchange my order?","answer":"<p>Provide a summary. Then link off to a page that has a link to initiate a return.<\/p>"}},"question_9kErfL":{"type":"question","settings":{"title":"Can I return an item without exchanging?","answer":"<p>Answer - TK<\/p>"}},"question_nwfQWG":{"type":"question","settings":{"title":"How do I return a gift I received?","answer":"<p>Answer<\/p>"}},"question_KJRHKV":{"type":"question","settings":{"title":"Where's my Refund?","answer":"<p>Answer<\/p>"}}},"block_order":["question_zqg3EP","question_qt8N6D","question_9kErfL","question_nwfQWG","question_KJRHKV"],"settings":{"title":"Returns & Exchanges"}},"collapsible_tabs_UJEMhy":{"type":"collapsible-tabs","blocks":{"question_nbXHi9":{"type":"question","settings":{"title":"Can I pause my subscription?","answer":"<p>Answer<\/p>"}},"question_BiNUG9":{"type":"question","settings":{"title":"Can I skip a subscription?","answer":"<p>Answer<\/p>"}},"question_wVRYyY":{"type":"question","settings":{"title":"Can I update my shipping or billing address?","answer":"<p>Answer<\/p>"}},"question_wBepQN":{"type":"question","settings":{"title":"Can I update my payment card?","answer":"<p>Answer<\/p>"}},"question_V7nieJ":{"type":"question","settings":{"title":"Can I swap an item before it shipped?","answer":"<p>Answer<\/p>"}}},"block_order":["question_nbXHi9","question_BiNUG9","question_wVRYyY","question_wBepQN","question_V7nieJ"],"settings":{"title":"Subscription Management"}},"faq-content-1":{"type":"collapsible-tabs","blocks":{"question-1":{"type":"question","settings":{"title":"What size should I buy?","answer":"<p>If you’re not quite sure which size is right for you, refer to our size guides. They’re located underneath the available sizes for each of our products.<\/p>"}},"question-2":{"type":"question","settings":{"title":"Can I cancel my order?","answer":"<p>We completely get it, we change our minds too! While we wish could, once an order is placed, we are unable to alter or cancel it at this time. We hope to have a cancellation window one day in the future.<\/p><p>Should the item(s) not work out, make sure to exchange for a preferred style or return for a refund. As a reminder, domestic return shipping is free.<\/p>"}}},"block_order":["question-1","question-2"],"settings":{"title":"Size & Shopping"}},"faq-content-2":{"type":"collapsible-tabs","blocks":{"question-1":{"type":"question","settings":{"title":"What is the shipping policy?","answer":"<p>Once your order is placed, you will receive a confirmation email letting you know that our fulfillment team has received your order. Once your order is fulfilled, you will receive an email notification with your tracking information. Shipping fees are non-refundable in the case of returns.<\/p>"}},"question-2":{"type":"question","settings":{"title":"Do you ship overseas?","answer":"<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout.<\/p>"}}},"block_order":["question-1","question-2"],"settings":{"title":"Shipping & Delivery"}},"contact":{"type":"rich-text","blocks":{"icon":{"type":"icon","settings":{"icon":"chat_bubble"}},"heading":{"type":"heading","settings":{"title":"Get in touch","use_h1":false}},"text":{"type":"text","settings":{"text":"<p>Have questions about your order, or a general enquiry?<\/p>","enlarge_text":true}},"button":{"type":"button","settings":{"button_label":"Contact us","button_link":"","button_style":"primary"}}},"block_order":["icon","heading","text","button"],"settings":{"height":"medium","text_alignment":"center","full_width":false,"color_scheme":"default"}}},"order":["rich_text_LyG9qn","main","collapsible_tabs_ETHMyN","collapsible_tabs_UJEMhy","faq-content-1","faq-content-2","contact"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rich_text_LyG9qn": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_7zf7Wc": {
+          "type": "heading",
+          "settings": {
+            "title": "Need to track an order, or return/exchange?",
+            "use_h1": false
+          }
+        },
+        "text_ceGgKJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Log in to view your recent orders, track delivery status, or to return/exchange an item.</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_7zf7Wc",
+        "text_ceGgKJ"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "default"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "full_width": false
+      }
+    },
+    "collapsible_tabs_ETHMyN": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question_zqg3EP": {
+          "type": "question",
+          "settings": {
+            "title": "What is Taare's return policy?",
+            "answer": "<p>Provide a summary. And link to the Returns Policy page.</p>"
+          }
+        },
+        "question_qt8N6D": {
+          "type": "question",
+          "settings": {
+            "title": "How do I exchange my order?",
+            "answer": "<p>Provide a summary. Then link off to a page that has a link to initiate a return.</p>"
+          }
+        },
+        "question_9kErfL": {
+          "type": "question",
+          "settings": {
+            "title": "Can I return an item without exchanging?",
+            "answer": "<p>Answer - TK</p>"
+          }
+        },
+        "question_nwfQWG": {
+          "type": "question",
+          "settings": {
+            "title": "How do I return a gift I received?",
+            "answer": "<p>Answer</p>"
+          }
+        },
+        "question_KJRHKV": {
+          "type": "question",
+          "settings": {
+            "title": "Where's my Refund?",
+            "answer": "<p>Answer</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_zqg3EP",
+        "question_qt8N6D",
+        "question_9kErfL",
+        "question_nwfQWG",
+        "question_KJRHKV"
+      ],
+      "settings": {
+        "title": "Returns & Exchanges"
+      }
+    },
+    "collapsible_tabs_UJEMhy": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question_nbXHi9": {
+          "type": "question",
+          "settings": {
+            "title": "Can I pause my subscription?",
+            "answer": "<p>Answer</p>"
+          }
+        },
+        "question_BiNUG9": {
+          "type": "question",
+          "settings": {
+            "title": "Can I skip a subscription?",
+            "answer": "<p>Answer</p>"
+          }
+        },
+        "question_wVRYyY": {
+          "type": "question",
+          "settings": {
+            "title": "Can I update my shipping or billing address?",
+            "answer": "<p>Answer</p>"
+          }
+        },
+        "question_wBepQN": {
+          "type": "question",
+          "settings": {
+            "title": "Can I update my payment card?",
+            "answer": "<p>Answer</p>"
+          }
+        },
+        "question_V7nieJ": {
+          "type": "question",
+          "settings": {
+            "title": "Can I swap an item before it shipped?",
+            "answer": "<p>Answer</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_nbXHi9",
+        "question_BiNUG9",
+        "question_wVRYyY",
+        "question_wBepQN",
+        "question_V7nieJ"
+      ],
+      "settings": {
+        "title": "Subscription Management"
+      }
+    },
+    "faq-content-1": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What size should I buy?",
+            "answer": "<p>If you’re not quite sure which size is right for you, refer to our size guides. They’re located underneath the available sizes for each of our products.</p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Can I cancel my order?",
+            "answer": "<p>We completely get it, we change our minds too! While we wish could, once an order is placed, we are unable to alter or cancel it at this time. We hope to have a cancellation window one day in the future.</p><p>Should the item(s) not work out, make sure to exchange for a preferred style or return for a refund. As a reminder, domestic return shipping is free.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question-1",
+        "question-2"
+      ],
+      "settings": {
+        "title": "Size & Shopping"
+      }
+    },
+    "faq-content-2": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "What is the shipping policy?",
+            "answer": "<p>Once your order is placed, you will receive a confirmation email letting you know that our fulfillment team has received your order. Once your order is fulfilled, you will receive an email notification with your tracking information. Shipping fees are non-refundable in the case of returns.</p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question-1",
+        "question-2"
+      ],
+      "settings": {
+        "title": "Shipping & Delivery"
+      }
+    },
+    "contact": {
+      "type": "rich-text",
+      "blocks": {
+        "icon": {
+          "type": "icon",
+          "settings": {
+            "icon": "chat_bubble"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Get in touch",
+            "use_h1": false
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Have questions about your order, or a general enquiry?</p>",
+            "enlarge_text": true
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact us",
+            "button_link": "",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "icon",
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "default"
+      }
+    }
+  },
+  "order": [
+    "rich_text_LyG9qn",
+    "main",
+    "collapsible_tabs_ETHMyN",
+    "collapsible_tabs_UJEMhy",
+    "faq-content-1",
+    "faq-content-2",
+    "contact"
+  ]
+}

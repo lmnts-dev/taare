@@ -1,1 +1,122 @@
-{"type":"footer","name":"Footer Group","sections":{"cross-page-promos":{"type":"cross-page-promos","blocks":{"1478526632862":{"type":"icon","settings":{"icon":"truck","text":"Free delivery!","link_url":""}},"1478526645605":{"type":"icon","settings":{"icon":"return","text":"Free returns","link_url":""}},"1478526647261":{"type":"icon","settings":{"icon":"award","text":"Loyalty rewards","link_url":""}},"1478527611164":{"type":"icon","settings":{"icon":"dollar_sign","text":"Referral discounts","link_url":""}}},"block_order":["1478526632862","1478526645605","1478526647261","1478527611164"],"disabled":true,"settings":{"cross_page_promo_bg":"#ffffff","cross_page_promo_color":"#454564","show_on_home_page":true}},"footer":{"type":"footer","blocks":{"text_AJDiX9":{"type":"text","settings":{"title":"","text":"<p>At Taare, we are all about kids. We are a brand inspired by kids and driven by the hope of creating a better world for them.<\/p>","image":"shopify:\/\/shop_images\/Taare_Logo_White_Small_2ce23bc0-1ef7-4970-b2e0-f4fb14bc6eb0.png","image_width":100,"show_social_icons":true,"soc_icons_large":true,"enable_follow_on_shop":false}},"1601308671932":{"type":"menu","settings":{"title":"SUPPORT","menu":"footer"}},"menu_rEk6Nh":{"type":"menu","settings":{"title":"COMPANY","menu":"footer-company"}},"newsletter_i6kGpg":{"type":"newsletter","settings":{"title":"Let's Connect!","text":"<p>Sign up for exclusive offers, original stories, events and more.<\/p>","button_style":"primary","show_social_icons":false,"soc_icons_large":false}}},"block_order":["text_AJDiX9","1601308671932","menu_rEk6Nh","newsletter_i6kGpg"],"settings":{"lower_menu":"lower-footer","show_powered_by":false,"show_payment_icons":false,"enable_country_selector":false,"enable_language_selector":false}}},"order":["cross-page-promos","footer"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "footer",
+  "name": "Footer Group",
+  "sections": {
+    "cross-page-promos": {
+      "type": "cross-page-promos",
+      "blocks": {
+        "1478526632862": {
+          "type": "icon",
+          "settings": {
+            "icon": "truck",
+            "text": "Free delivery!",
+            "link_url": ""
+          }
+        },
+        "1478526645605": {
+          "type": "icon",
+          "settings": {
+            "icon": "return",
+            "text": "Free returns",
+            "link_url": ""
+          }
+        },
+        "1478526647261": {
+          "type": "icon",
+          "settings": {
+            "icon": "award",
+            "text": "Loyalty rewards",
+            "link_url": ""
+          }
+        },
+        "1478527611164": {
+          "type": "icon",
+          "settings": {
+            "icon": "dollar_sign",
+            "text": "Referral discounts",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "1478526632862",
+        "1478526645605",
+        "1478526647261",
+        "1478527611164"
+      ],
+      "disabled": true,
+      "settings": {
+        "cross_page_promo_bg": "#ffffff",
+        "cross_page_promo_color": "#454564",
+        "show_on_home_page": true
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "text_AJDiX9": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>At Taare, we are all about kids. We are a brand inspired by kids and driven by the hope of creating a better world for them.</p>",
+            "image": "shopify://shop_images/Taare_Logo_White_Small_2ce23bc0-1ef7-4970-b2e0-f4fb14bc6eb0.png",
+            "image_width": 100,
+            "show_social_icons": true,
+            "soc_icons_large": true,
+            "enable_follow_on_shop": false
+          }
+        },
+        "1601308671932": {
+          "type": "menu",
+          "settings": {
+            "title": "SUPPORT",
+            "menu": "footer"
+          }
+        },
+        "menu_rEk6Nh": {
+          "type": "menu",
+          "settings": {
+            "title": "COMPANY",
+            "menu": "footer-company"
+          }
+        },
+        "newsletter_i6kGpg": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Let's Connect!",
+            "text": "<p>Sign up for exclusive offers, original stories, events and more.</p>",
+            "button_style": "primary",
+            "show_social_icons": false,
+            "soc_icons_large": false
+          }
+        }
+      },
+      "block_order": [
+        "text_AJDiX9",
+        "1601308671932",
+        "menu_rEk6Nh",
+        "newsletter_i6kGpg"
+      ],
+      "settings": {
+        "lower_menu": "lower-footer",
+        "show_powered_by": false,
+        "show_payment_icons": false,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
+    }
+  },
+  "order": [
+    "cross-page-promos",
+    "footer"
+  ]
+}
