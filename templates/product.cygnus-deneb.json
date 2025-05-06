@@ -7,471 +7,471 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- {
-    "sections": {
-      "main": {
-        "type": "main-product",
-        "blocks": {
-          "title": {
-            "type": "title",
-            "settings": {}
-          },
-          "price": {
-            "type": "price",
-            "settings": {
-              "show_tax_and_shipping": false,
-              "enable_product_reviews_by_price": true
-            }
-          },
-          "divider_U3EeGQ": {
-            "type": "divider",
-            "settings": {
-              "show_in_quickbuy": false
-            }
-          },
-          "richtext_Ydq9Pd": {
-            "type": "richtext",
-            "disabled": true,
-            "settings": {
-              "richtext": "<p>PREORDER item. Ships Feb 1st, 2025.</p>",
-              "icon": "eye",
-              "icon_size": "small",
-              "enable_box": false,
-              "box_color": "#e0f4d5",
-              "show_in_quickbuy": false
-            }
-          },
-          "vendor": {
-            "type": "vendor",
-            "disabled": true,
-            "settings": {}
-          },
-          "divider": {
-            "type": "divider",
-            "disabled": true,
-            "settings": {
-              "show_in_quickbuy": false
-            }
-          },
-          "description": {
-            "type": "description",
-            "settings": {
-              "show_in_tab": false,
-              "open_tab": false,
-              "icon": "",
-              "show_in_quickbuy": false
-            }
-          },
-          "accordion_JQabEB": {
-            "type": "accordion",
-            "disabled": true,
-            "settings": {
-              "title": "Materials",
-              "icon": "shoe",
-              "content": "<p>Free shipping on all orders.</p>",
-              "page": "",
-              "custom_liquid": "",
-              "open": false,
-              "show_in_quickbuy": false
-            }
-          },
-          "accordion_gNeFic": {
-            "type": "accordion",
-            "settings": {
-              "title": "Shipping & Returns",
-              "icon": "truck",
-              "content": "<p>Free shipping and returns. </p><p>Return period: 30 days for regular orders. 60 days for subscription orders.</p>",
-              "page": "",
-              "custom_liquid": "",
-              "open": false,
-              "show_in_quickbuy": false
-            }
-          },
-          "accordion_9X8wHL": {
-            "type": "accordion",
-            "settings": {
-              "title": "Size Guide",
-              "icon": "ruler",
-              "content": "<p>Regular fit. True to size.</p><p>Need help finding the perfect size? Check our <a href=\"/pages/sizing-guide\" title=\"Sizing Guide\">sizing guide</a>.</p>",
-              "page": "",
-              "custom_liquid": "",
-              "open": false,
-              "show_in_quickbuy": false
-            }
-          },
-          "variant-picker": {
-            "type": "variant-picker",
-            "settings": {
-              "show_single": false,
-              "selector_style": "listed",
-              "dynamic_availability": "show",
-              "enable_size_chart": true,
-              "size_chart_label": "Size guide",
-              "size_chart_variant": "Size Guide",
-              "size_chart_page": "size-chart"
-            }
-          },
-          "buy-buttons": {
-            "type": "buy-buttons",
-            "settings": {
-              "show_quantity_selector": true,
-              "enable_payment_button": true,
-              "show_backorder_text": true,
-              "show_pickup_availability": false,
-              "show_gift_card_recipient": false
-            }
-          },
-          "link_LG6Kzk": {
-            "type": "link",
-            "settings": {
-              "url": "shopify://pages/subscription",
-              "open_in_new_tab": false,
-              "text": "Try Our Subscription Box — perfect for busy parents! Unlock exclusive perks and special pricing.",
-              "style": "primary",
-              "show_in_quickbuy": false
-            }
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": true
           }
         },
-        "block_order": [
-          "title",
-          "price",
-          "divider_U3EeGQ",
-          "richtext_Ydq9Pd",
-          "vendor",
-          "divider",
-          "description",
-          "accordion_JQabEB",
-          "accordion_gNeFic",
-          "accordion_9X8wHL",
-          "variant-picker",
-          "buy-buttons",
-          "link_LG6Kzk"
-        ],
-        "settings": {
-          "show_breadcrumbs": true,
-          "select_first_variant": true,
-          "show_location_underneath": false,
-          "inventory_transfers_enable": true,
-          "enable_sticky_columns": true,
-          "enable_sticky_atc": false,
-          "sticky_atc_position": "end",
-          "sticky_atc_mobile": true,
-          "sticky_atc_behavior": "add_to_cart",
-          "sticky_atc_button_style": "secondary",
-          "gallery_size": "medium",
-          "gallery_layout": "carousel-under",
-          "enable_zoom": true,
-          "show_alt_text": false,
-          "alt_text_icon": "",
-          "enable_video_autoplay": false,
-          "enable_video_looping": false,
-          "enable_media_grouping": true,
-          "media_grouping_option": "Color,Colour,Couleur,Farbe"
-        }
-      },
-      "multi_column_gn7X6L": {
-        "type": "multi-column",
-        "blocks": {
-          "text_block_HBTXRL": {
-            "type": "text_block",
-            "settings": {
-              "enable_media": true,
-              "image": "shopify://shop_images/IBS06141_721593d8-d3ed-4f32-aee4-75899b8d5049.jpg",
-              "title": "Grace for Impact",
-              "text": "<p>Featuring crisp overlays and a soft color tone, the Cygnus Deneb has a classic appeal that is timeless and loved. And with suede accents and a premium upper that look and feel good, the Cygnus redefines classic cool.</p>",
-              "button_label": "",
-              "link": ""
-            }
-          },
-          "text_block_ycMiPr": {
-            "type": "text_block",
-            "settings": {
-              "enable_media": true,
-              "image": "shopify://shop_images/IBS06227_8b892740-eb28-449c-b9d5-95c0a4760c23.jpg",
-              "title": "Eternally Cozy",
-              "text": "<p>Combining timeless design with modern comfort, the Cygnus features a bouncy midsole to introduce plushness to the good looks of a classic sneaker. Plus, padded interiors and a little 100% textile lining make this an all-day comfortable classic sneaker.</p>",
-              "button_label": "",
-              "link": ""
-            }
-          },
-          "text_block_4mmcdw": {
-            "type": "text_block",
-            "settings": {
-              "enable_media": true,
-              "image": "shopify://shop_images/IBS06261_6f713681-bc0e-4283-b4c2-85144f2fe870.jpg",
-              "title": "Wingman forever",
-              "text": "<p>With suede reinforcements at the front and a leather heelcap, this classic is meant to withstand the hardships of an all-day grind. Reinforced toe bump and rubber outsole add durability to the timeless appeal of this classic.</p>",
-              "button_label": "",
-              "link": ""
-            }
+        "divider_U3EeGQ": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
           }
         },
-        "block_order": [
-          "text_block_HBTXRL",
-          "text_block_ycMiPr",
-          "text_block_4mmcdw"
-        ],
-        "settings": {
-          "title": "Key Features",
-          "media_aspect_ratio": "s",
-          "media_width": 700,
-          "text_alignment": "center",
-          "button_style": "primary",
-          "color_scheme": "default"
-        }
-      },
-      "hotspots_VdPiWh": {
-        "type": "hotspots",
-        "blocks": {
-          "hotspot_nFEwaA": {
-            "type": "hotspot",
-            "settings": {
-              "hotspot_x": 49,
-              "hotspot_y": 44,
-              "hotspot_x_mobile": 50,
-              "hotspot_y_mobile": 50,
-              "heading": "Suede inserts",
-              "text": "<p>Suede inserts add a touch of sophistication while providing extra support.</p>",
-              "icon": "",
-              "icon_width": 32
-            }
-          },
-          "hotspot_HBcRAj": {
-            "type": "hotspot",
-            "settings": {
-              "hotspot_x": 32,
-              "hotspot_y": 56,
-              "hotspot_x_mobile": 50,
-              "hotspot_y_mobile": 50,
-              "heading": "Leather overlays",
-              "text": "<p>Leather overlays at the heel enhance stability.</p>",
-              "icon": "",
-              "icon_width": 32
-            }
-          },
-          "hotspot_iKcDYx": {
-            "type": "hotspot",
-            "settings": {
-              "hotspot_x": 72,
-              "hotspot_y": 59,
-              "hotspot_x_mobile": 50,
-              "hotspot_y_mobile": 50,
-              "heading": "Toe protection",
-              "text": "<p>Suede reinforcements enhance durability and protect those precious toes.</p>",
-              "icon": "",
-              "icon_width": 32
-            }
+        "richtext_Ydq9Pd": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "richtext": "<p>PREORDER item. Ships Feb 1st, 2025.</p>",
+            "icon": "eye",
+            "icon_size": "small",
+            "enable_box": false,
+            "box_color": "#e0f4d5",
+            "show_in_quickbuy": false
           }
         },
-        "block_order": [
-          "hotspot_nFEwaA",
-          "hotspot_HBcRAj",
-          "hotspot_iKcDYx"
-        ],
-        "settings": {
-          "image": "shopify://shop_images/4_2d2404c3-ba7c-450f-994f-d8ef1ad2cc05.png",
-          "hotspot_color": "#070707",
-          "button_content": "plus",
-          "outer_circle": "pulse",
-          "full_width": true,
-          "text_alignment": "top left",
-          "overlay_style": "shadow",
-          "subheading": "",
-          "title": "",
-          "use_h1": false,
-          "heading_max_width": 10,
-          "text": "",
-          "button_1_label": "",
-          "button_1_link": "",
-          "button_1_style": "secondary",
-          "button_2_label": "",
-          "button_2_link": "",
-          "button_2_style": "primary"
-        }
-      },
-      "hotspots_e79T4F": {
-        "type": "hotspots",
-        "blocks": {
-          "hotspot_Lki4Jx": {
-            "type": "hotspot",
-            "settings": {
-              "hotspot_x": 44,
-              "hotspot_y": 42,
-              "hotspot_x_mobile": 50,
-              "hotspot_y_mobile": 50,
-              "heading": "Classic closure",
-              "text": "<p>A classic lacing system to go with the timeless sneakers.</p>",
-              "icon": "",
-              "icon_width": 32
-            }
-          },
-          "hotspot_rPj67a": {
-            "type": "hotspot",
-            "settings": {
-              "hotspot_x": 50,
-              "hotspot_y": 15,
-              "hotspot_x_mobile": 50,
-              "hotspot_y_mobile": 50,
-              "heading": "Cushioned inners",
-              "text": "<p>Padded heel and tongue collars give that plush feel with a classic touch.</p>",
-              "icon": "",
-              "icon_width": 32
-            }
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "disabled": true,
+          "settings": {
+            "show_in_quickbuy": false
           }
         },
-        "block_order": [
-          "hotspot_Lki4Jx",
-          "hotspot_rPj67a"
-        ],
-        "settings": {
-          "image": "shopify://shop_images/7_922b9e14-4d63-43a6-90a4-51b1d04a7163.png",
-          "hotspot_color": "#070707",
-          "button_content": "plus",
-          "outer_circle": "pulse",
-          "full_width": true,
-          "text_alignment": "top left",
-          "overlay_style": "shadow",
-          "subheading": "",
-          "title": "",
-          "use_h1": false,
-          "heading_max_width": 10,
-          "text": "",
-          "button_1_label": "",
-          "button_1_link": "",
-          "button_1_style": "secondary",
-          "button_2_label": "",
-          "button_2_link": "",
-          "button_2_style": "primary"
-        }
-      },
-      "key_features_RrEy8b": {
-        "type": "key-features",
-        "blocks": {
-          "feature_aJCKAF": {
-            "type": "feature",
-            "settings": {
-              "image": "shopify://shop_images/IBS06141_3d11c274-0cd7-414f-8e44-589c7848c03f.jpg",
-              "bg_color": "#e3e3e3",
-              "bg_gradient": "",
-              "text_color": "#505050",
-              "heading": "The classic charm ",
-              "text": "<p>Crafted with premium materials and combining timeless design with modern comfort</p>",
-              "show_segments": true,
-              "segments": 4,
-              "active_segment": "1",
-              "fill_segments": true,
-              "show_labels": true,
-              "label_left": "",
-              "label_middle": "",
-              "label_right": "",
-              "show_icon": false,
-              "icon": "award"
-            }
-          },
-          "feature_iRChNC": {
-            "type": "feature",
-            "settings": {
-              "image": "shopify://shop_images/IBS06227_234e2fbe-5d41-4352-b894-16117b1fed8e.jpg",
-              "bg_color": "#c3c3c3",
-              "bg_gradient": "",
-              "text_color": "#505050",
-              "heading": "A touch of class",
-              "text": "<p>Suede overlays and leather inserts add looks and provide reinforcements to add durability.</p>",
-              "show_segments": true,
-              "segments": 4,
-              "active_segment": "2",
-              "fill_segments": true,
-              "show_labels": true,
-              "label_left": "",
-              "label_middle": "",
-              "label_right": "",
-              "show_icon": false,
-              "icon": "star"
-            }
-          },
-          "feature_WgCbDc": {
-            "type": "feature",
-            "settings": {
-              "image": "shopify://shop_images/IBS06261_6f713681-bc0e-4283-b4c2-85144f2fe870.jpg",
-              "bg_color": "#e3e3e3",
-              "bg_gradient": "",
-              "text_color": "#505050",
-              "heading": "A plush classic",
-              "text": "<p>A premium midsole and a gummy outsole introduces plushness to the good looks of a classic sneaker</p>",
-              "show_segments": true,
-              "segments": 4,
-              "active_segment": "3",
-              "fill_segments": true,
-              "show_labels": true,
-              "label_left": "",
-              "label_middle": "",
-              "label_right": "",
-              "show_icon": false,
-              "icon": "star"
-            }
-          },
-          "feature_ieWfzK": {
-            "type": "feature",
-            "settings": {
-              "image": "shopify://shop_images/Cygnus_Constellation.png",
-              "bg_color": "#e3e3e3",
-              "bg_gradient": "",
-              "text_color": "#505050",
-              "heading": "Name Origins",
-              "text": "<p>Cygnus, Latin for \"Swan\", is the graceful swan constellation on the plane of the Milky Way. Cygnus Deneb, is named after the brightest star in the Cygnus constellation.</p>",
-              "show_segments": true,
-              "segments": 4,
-              "active_segment": "4",
-              "fill_segments": true,
-              "show_labels": true,
-              "label_left": "",
-              "label_middle": "",
-              "label_right": "",
-              "show_icon": false,
-              "icon": "star"
-            }
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
           }
         },
-        "block_order": [
-          "feature_aJCKAF",
-          "feature_iRChNC",
-          "feature_WgCbDc",
-          "feature_ieWfzK"
-        ],
-        "settings": {
-          "heading": "Key Features",
-          "image_max_width": 700,
-          "media_aspect_ratio": "1",
-          "image_position": "left",
-          "segment_position": "under-text"
+        "accordion_JQabEB": {
+          "type": "accordion",
+          "disabled": true,
+          "settings": {
+            "title": "Materials",
+            "icon": "shoe",
+            "content": "<p>Free shipping on all orders.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "accordion_gNeFic": {
+          "type": "accordion",
+          "settings": {
+            "title": "Shipping & Returns",
+            "icon": "truck",
+            "content": "<p>Free shipping and returns. </p><p>Return period: 30 days.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "accordion_9X8wHL": {
+          "type": "accordion",
+          "settings": {
+            "title": "Size Guide",
+            "icon": "ruler",
+            "content": "<p>Regular fit. True to size.</p><p>Need help finding the perfect size? Check our <a href=\"/pages/sizing-guide\" title=\"Sizing Guide\">sizing guide</a>.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "variant-picker": {
+          "type": "variant-picker",
+          "settings": {
+            "show_single": false,
+            "selector_style": "listed",
+            "dynamic_availability": "show",
+            "enable_size_chart": true,
+            "size_chart_label": "Size guide",
+            "size_chart_variant": "Size Guide",
+            "size_chart_page": "size-chart"
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "link_LG6Kzk": {
+          "type": "link",
+          "disabled": true,
+          "settings": {
+            "url": "shopify://pages/subscription",
+            "open_in_new_tab": false,
+            "text": "Try Our Subscription Box — perfect for busy parents! Unlock exclusive perks and special pricing.",
+            "style": "primary",
+            "show_in_quickbuy": false
+          }
         }
       },
-      "related-products": {
-        "type": "related-products",
-        "disabled": true,
-        "settings": {
-          "title": "You may also like",
-          "show_vendor": false,
-          "grid": 4
-        }
-      },
-      "custom_liquid_pjALTW": {
-        "type": "custom-liquid",
-        "settings": {
-          "full_width": true,
-          "show_space": true,
-          "code": ""
-        }
+      "block_order": [
+        "title",
+        "price",
+        "divider_U3EeGQ",
+        "richtext_Ydq9Pd",
+        "vendor",
+        "divider",
+        "description",
+        "accordion_JQabEB",
+        "accordion_gNeFic",
+        "accordion_9X8wHL",
+        "variant-picker",
+        "buy-buttons",
+        "link_LG6Kzk"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "select_first_variant": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "enable_sticky_atc": false,
+        "sticky_atc_position": "end",
+        "sticky_atc_mobile": true,
+        "sticky_atc_behavior": "add_to_cart",
+        "sticky_atc_button_style": "secondary",
+        "gallery_size": "medium",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "show_alt_text": false,
+        "alt_text_icon": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "enable_media_grouping": true,
+        "media_grouping_option": "Color,Colour,Couleur,Farbe"
       }
     },
-    "order": [
-      "main",
-      "multi_column_gn7X6L",
-      "hotspots_VdPiWh",
-      "hotspots_e79T4F",
-      "key_features_RrEy8b",
-      "related-products",
-      "custom_liquid_pjALTW"
-    ]
-  }
-  
+    "multi_column_gn7X6L": {
+      "type": "multi-column",
+      "blocks": {
+        "text_block_HBTXRL": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/IBS06141_721593d8-d3ed-4f32-aee4-75899b8d5049.jpg",
+            "title": "Grace for Impact",
+            "text": "<p>Featuring crisp overlays and a soft color tone, the Cygnus Deneb has a classic appeal that is timeless and loved. And with suede accents and a premium upper that look and feel good, the Cygnus redefines classic cool.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_ycMiPr": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/IBS06227_8b892740-eb28-449c-b9d5-95c0a4760c23.jpg",
+            "title": "Eternally Cozy",
+            "text": "<p>Combining timeless design with modern comfort, the Cygnus features a bouncy midsole to introduce plushness to the good looks of a classic sneaker. Plus, padded interiors and a little 100% textile lining make this an all-day comfortable classic sneaker.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_4mmcdw": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/IBS06261_6f713681-bc0e-4283-b4c2-85144f2fe870.jpg",
+            "title": "Wingman forever",
+            "text": "<p>With suede reinforcements at the front and a leather heelcap, this classic is meant to withstand the hardships of an all-day grind. Reinforced toe bump and rubber outsole add durability to the timeless appeal of this classic.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_HBTXRL",
+        "text_block_ycMiPr",
+        "text_block_4mmcdw"
+      ],
+      "settings": {
+        "title": "Key Features",
+        "media_aspect_ratio": "s",
+        "media_width": 700,
+        "text_alignment": "center",
+        "button_style": "primary",
+        "color_scheme": "default"
+      }
+    },
+    "hotspots_VdPiWh": {
+      "type": "hotspots",
+      "blocks": {
+        "hotspot_nFEwaA": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 49,
+            "hotspot_y": 44,
+            "hotspot_x_mobile": 50,
+            "hotspot_y_mobile": 50,
+            "heading": "Suede inserts",
+            "text": "<p>Suede inserts add a touch of sophistication while providing extra support.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        },
+        "hotspot_HBcRAj": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 32,
+            "hotspot_y": 56,
+            "hotspot_x_mobile": 50,
+            "hotspot_y_mobile": 50,
+            "heading": "Leather overlays",
+            "text": "<p>Leather overlays at the heel enhance stability.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        },
+        "hotspot_iKcDYx": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 72,
+            "hotspot_y": 59,
+            "hotspot_x_mobile": 50,
+            "hotspot_y_mobile": 50,
+            "heading": "Toe protection",
+            "text": "<p>Suede reinforcements enhance durability and protect those precious toes.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "hotspot_nFEwaA",
+        "hotspot_HBcRAj",
+        "hotspot_iKcDYx"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/4_2d2404c3-ba7c-450f-994f-d8ef1ad2cc05.png",
+        "hotspot_color": "#070707",
+        "button_content": "plus",
+        "outer_circle": "pulse",
+        "full_width": true,
+        "text_alignment": "top left",
+        "overlay_style": "shadow",
+        "subheading": "",
+        "title": "",
+        "use_h1": false,
+        "heading_max_width": 10,
+        "text": "",
+        "button_1_label": "",
+        "button_1_link": "",
+        "button_1_style": "secondary",
+        "button_2_label": "",
+        "button_2_link": "",
+        "button_2_style": "primary"
+      }
+    },
+    "hotspots_e79T4F": {
+      "type": "hotspots",
+      "blocks": {
+        "hotspot_Lki4Jx": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 44,
+            "hotspot_y": 42,
+            "hotspot_x_mobile": 50,
+            "hotspot_y_mobile": 50,
+            "heading": "Classic closure",
+            "text": "<p>A classic lacing system to go with the timeless sneakers.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        },
+        "hotspot_rPj67a": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 50,
+            "hotspot_y": 15,
+            "hotspot_x_mobile": 50,
+            "hotspot_y_mobile": 50,
+            "heading": "Cushioned inners",
+            "text": "<p>Padded heel and tongue collars give that plush feel with a classic touch.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "hotspot_Lki4Jx",
+        "hotspot_rPj67a"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/7_922b9e14-4d63-43a6-90a4-51b1d04a7163.png",
+        "hotspot_color": "#070707",
+        "button_content": "plus",
+        "outer_circle": "pulse",
+        "full_width": true,
+        "text_alignment": "top left",
+        "overlay_style": "shadow",
+        "subheading": "",
+        "title": "",
+        "use_h1": false,
+        "heading_max_width": 10,
+        "text": "",
+        "button_1_label": "",
+        "button_1_link": "",
+        "button_1_style": "secondary",
+        "button_2_label": "",
+        "button_2_link": "",
+        "button_2_style": "primary"
+      }
+    },
+    "key_features_RrEy8b": {
+      "type": "key-features",
+      "blocks": {
+        "feature_aJCKAF": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/IBS06141_3d11c274-0cd7-414f-8e44-589c7848c03f.jpg",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "The classic charm ",
+            "text": "<p>Crafted with premium materials and combining timeless design with modern comfort</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "1",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "award"
+          }
+        },
+        "feature_iRChNC": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/IBS06227_234e2fbe-5d41-4352-b894-16117b1fed8e.jpg",
+            "bg_color": "#c3c3c3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "A touch of class",
+            "text": "<p>Suede overlays and leather inserts add looks and provide reinforcements to add durability.</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "2",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_WgCbDc": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/IBS06261_6f713681-bc0e-4283-b4c2-85144f2fe870.jpg",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "A plush classic",
+            "text": "<p>A premium midsole and a gummy outsole introduces plushness to the good looks of a classic sneaker</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "3",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_ieWfzK": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/Cygnus_Constellation.png",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Name Origins",
+            "text": "<p>Cygnus, Latin for \"Swan\", is the graceful swan constellation on the plane of the Milky Way. Cygnus Deneb, is named after the brightest star in the Cygnus constellation.</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "4",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        }
+      },
+      "block_order": [
+        "feature_aJCKAF",
+        "feature_iRChNC",
+        "feature_WgCbDc",
+        "feature_ieWfzK"
+      ],
+      "settings": {
+        "heading": "Key Features",
+        "image_max_width": 700,
+        "media_aspect_ratio": "1",
+        "image_position": "left",
+        "segment_position": "under-text"
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "custom_liquid_pjALTW": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "show_space": true,
+        "code": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multi_column_gn7X6L",
+    "hotspots_VdPiWh",
+    "hotspots_e79T4F",
+    "key_features_RrEy8b",
+    "related-products",
+    "custom_liquid_pjALTW"
+  ]
+}

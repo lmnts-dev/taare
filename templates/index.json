@@ -100,13 +100,24 @@
     "multi_column_Cme7hY": {
       "type": "multi-column",
       "blocks": {
+        "text_block_pNq3cz": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/IBS06065.jpg",
+            "title": "Pavo",
+            "text": "<p>A captivating blend of bold designs and vibrant hues brings a playful and unforgettable style.</p><p>$59.95</p>",
+            "button_label": "",
+            "link": "shopify://products/pavo-alpha"
+          }
+        },
         "text_block_Rq4hAq": {
           "type": "text_block",
           "settings": {
             "enable_media": true,
             "image": "shopify://shop_images/taare-aquilla-sneakers-for-kids-side-profile-2.jpg",
             "title": "Aquila",
-            "text": "<p>A striking monochrome sneaker that combines sleek design and bold accents with the ultimate comfort.</p>",
+            "text": "<p>A striking monochrome sneaker that combines sleek design and bold accents with the ultimate comfort.</p><p>$64.95</p>",
             "button_label": "",
             "link": "shopify://products/aquila-altair"
           }
@@ -117,27 +128,16 @@
             "enable_media": true,
             "image": "shopify://shop_images/taare-cygnus-sneakers-for-kids-side-profile-2.jpg",
             "title": "Cygnus",
-            "text": "<p>Crafted with premium materials.  Blends comfort and classic design to create a timeless feel.</p>",
+            "text": "<p>Crafted with premium materials.  Blends comfort and classic design to create a timeless feel.</p><p>$69.95</p>",
             "button_label": "",
             "link": "shopify://products/cygnus-deneb"
-          }
-        },
-        "text_block_pNq3cz": {
-          "type": "text_block",
-          "settings": {
-            "enable_media": true,
-            "image": "shopify://shop_images/IBS06065.jpg",
-            "title": "Pavo",
-            "text": "<p>A captivating blend of bold designs and vibrant hues brings a playful and unforgettable style.</p>",
-            "button_label": "",
-            "link": "shopify://products/pavo-alpha"
           }
         }
       },
       "block_order": [
+        "text_block_pNq3cz",
         "text_block_Rq4hAq",
-        "text_block_PxmTey",
-        "text_block_pNq3cz"
+        "text_block_PxmTey"
       ],
       "settings": {
         "title": "Shoes designed for Comfort",

@@ -7,521 +7,521 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- {
-    "sections": {
-      "main": {
-        "type": "main-product",
-        "blocks": {
-          "title": {
-            "type": "title",
-            "settings": {}
-          },
-          "price": {
-            "type": "price",
-            "settings": {
-              "show_tax_and_shipping": false,
-              "enable_product_reviews_by_price": true
-            }
-          },
-          "divider_hUtyzX": {
-            "type": "divider",
-            "settings": {
-              "show_in_quickbuy": false
-            }
-          },
-          "richtext_amVM6b": {
-            "type": "richtext",
-            "disabled": true,
-            "settings": {
-              "richtext": "<p>PREORDER item. Ships Feb 1st, 2025.</p>",
-              "icon": "eye",
-              "icon_size": "small",
-              "enable_box": false,
-              "box_color": "#e0f4d5",
-              "show_in_quickbuy": false
-            }
-          },
-          "vendor": {
-            "type": "vendor",
-            "disabled": true,
-            "settings": {}
-          },
-          "divider": {
-            "type": "divider",
-            "disabled": true,
-            "settings": {
-              "show_in_quickbuy": false
-            }
-          },
-          "description": {
-            "type": "description",
-            "settings": {
-              "show_in_tab": false,
-              "open_tab": false,
-              "icon": "",
-              "show_in_quickbuy": false
-            }
-          },
-          "accordion_kFhLMP": {
-            "type": "accordion",
-            "disabled": true,
-            "settings": {
-              "title": "Materials",
-              "icon": "shoe",
-              "content": "<p>TK</p>",
-              "page": "",
-              "custom_liquid": "",
-              "open": false,
-              "show_in_quickbuy": false
-            }
-          },
-          "accordion_PGpw9a": {
-            "type": "accordion",
-            "settings": {
-              "title": "Shipping & Returns",
-              "icon": "truck",
-              "content": "<p>Free shipping and returns. </p><p>Return period: 30 days for one-time purchases. 60 days for subscription purchases.</p>",
-              "page": "",
-              "custom_liquid": "",
-              "open": false,
-              "show_in_quickbuy": false
-            }
-          },
-          "accordion_9X8wHL": {
-            "type": "accordion",
-            "settings": {
-              "title": "Size Guide",
-              "icon": "ruler",
-              "content": "<p>Regular fit. True to size.</p><p>Need help finding the perfect size? Check our <a href=\"/pages/sizing-guide\" title=\"Sizing Guide\">sizing guide</a>.</p>",
-              "page": "",
-              "custom_liquid": "",
-              "open": false,
-              "show_in_quickbuy": false
-            }
-          },
-          "variant-picker": {
-            "type": "variant-picker",
-            "settings": {
-              "show_single": false,
-              "selector_style": "listed",
-              "dynamic_availability": "show",
-              "enable_size_chart": true,
-              "size_chart_label": "Size guide",
-              "size_chart_variant": "Size Guide",
-              "size_chart_page": "size-chart"
-            }
-          },
-          "buy-buttons": {
-            "type": "buy-buttons",
-            "settings": {
-              "show_quantity_selector": true,
-              "enable_payment_button": true,
-              "show_backorder_text": false,
-              "show_pickup_availability": false,
-              "show_gift_card_recipient": false
-            }
-          },
-          "link_GtVRKf": {
-            "type": "link",
-            "settings": {
-              "url": "shopify://pages/subscription",
-              "open_in_new_tab": false,
-              "text": "Try Our Subscription Box — perfect for busy parents! Unlock exclusive perks and special pricing.",
-              "style": "primary",
-              "show_in_quickbuy": false
-            }
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": true
           }
         },
-        "block_order": [
-          "title",
-          "price",
-          "divider_hUtyzX",
-          "richtext_amVM6b",
-          "vendor",
-          "divider",
-          "description",
-          "accordion_kFhLMP",
-          "accordion_PGpw9a",
-          "accordion_9X8wHL",
-          "variant-picker",
-          "buy-buttons",
-          "link_GtVRKf"
-        ],
-        "settings": {
-          "show_breadcrumbs": true,
-          "select_first_variant": true,
-          "show_location_underneath": false,
-          "inventory_transfers_enable": true,
-          "enable_sticky_columns": true,
-          "enable_sticky_atc": false,
-          "sticky_atc_position": "end",
-          "sticky_atc_mobile": true,
-          "sticky_atc_behavior": "add_to_cart",
-          "sticky_atc_button_style": "secondary",
-          "gallery_size": "medium",
-          "gallery_layout": "carousel-under",
-          "enable_zoom": true,
-          "show_alt_text": false,
-          "alt_text_icon": "",
-          "enable_video_autoplay": false,
-          "enable_video_looping": false,
-          "enable_media_grouping": true,
-          "media_grouping_option": "Color,Colour,Couleur,Farbe"
-        }
-      },
-      "multi_column_gn7X6L": {
-        "type": "multi-column",
-        "blocks": {
-          "text_block_HBTXRL": {
-            "type": "text_block",
-            "settings": {
-              "enable_media": true,
-              "image": "shopify://shop_images/IBS06339_new_71c99b93-879c-4b5c-9465-2303d57a51cf.jpg",
-              "title": "Fly High",
-              "text": "<p>Aquila Altair's striking design blends bold lines with a minimalist aesthetic for everyday style. Featuring a sleek monochrome design, the shoe combines a plush upper, an ultra-comfortable midsole, and cushioning all around to put a spring in every step.</p>",
-              "button_label": "",
-              "link": ""
-            }
-          },
-          "text_block_ycMiPr": {
-            "type": "text_block",
-            "settings": {
-              "enable_media": true,
-              "image": "shopify://shop_images/IBS06260_1521a939-6618-4c94-a3e8-012c88fd6b28.jpg",
-              "title": "In a Breeze",
-              "text": "<p>Featuring a no-tie closure system, this shoe is perfect for all-day active kids. Pull-tabs on the tongue and heel make slipping in and out effortless, while elastic laces and power straps ensure a snug, secure fit all day.</p>",
-              "button_label": "",
-              "link": ""
-            }
-          },
-          "text_block_4mmcdw": {
-            "type": "text_block",
-            "settings": {
-              "enable_media": true,
-              "image": "shopify://shop_images/IBS06229_209c2907-1f69-4315-a35a-47822bc8e682.jpg",
-              "title": "To Protect and Soar",
-              "text": "<p>Spanning from heel to toe, the outsole features a special traction pattern for exceptional grip and natural flexibility. Additionally, front bump protection and reinforced overlays provide safety zones for those precious little feet.</p>",
-              "button_label": "",
-              "link": ""
-            }
+        "divider_hUtyzX": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
           }
         },
-        "block_order": [
-          "text_block_HBTXRL",
-          "text_block_ycMiPr",
-          "text_block_4mmcdw"
-        ],
-        "settings": {
-          "title": "Highlights",
-          "media_aspect_ratio": "s",
-          "media_width": 700,
-          "text_alignment": "center",
-          "button_style": "primary",
-          "color_scheme": "default"
-        }
-      },
-      "hotspots_VdPiWh": {
-        "type": "hotspots",
-        "blocks": {
-          "hotspot_nFEwaA": {
-            "type": "hotspot",
-            "settings": {
-              "hotspot_x": 49,
-              "hotspot_y": 44,
-              "hotspot_x_mobile": 50,
-              "hotspot_y_mobile": 50,
-              "heading": "Easy Closure",
-              "text": "<p>A hook-and-loop strap creates a wide opening for easy-on and easy-off. With no laces to fuss with, they are quickly ready to go.</p>",
-              "icon": "",
-              "icon_width": 32
-            }
-          },
-          "hotspot_HBcRAj": {
-            "type": "hotspot",
-            "settings": {
-              "hotspot_x": 35,
-              "hotspot_y": 64,
-              "hotspot_x_mobile": 50,
-              "hotspot_y_mobile": 50,
-              "heading": "Plush Midsole",
-              "text": "<p>A super cushioned mid-sole paired with a rubber outsole keeps the spring in their step steady all day long.</p>",
-              "icon": "",
-              "icon_width": 32
-            }
-          },
-          "hotspot_JWKypL": {
-            "type": "hotspot",
-            "settings": {
-              "hotspot_x": 25,
-              "hotspot_y": 34,
-              "hotspot_x_mobile": 50,
-              "hotspot_y_mobile": 50,
-              "heading": "Heel Tab",
-              "text": "<p>Heel tab to help little ones easily slide their feet into the shoes.</p>",
-              "icon": "",
-              "icon_width": 32
-            }
-          },
-          "hotspot_q7Y3Hx": {
-            "type": "hotspot",
-            "settings": {
-              "hotspot_x": 64,
-              "hotspot_y": 53,
-              "hotspot_x_mobile": 50,
-              "hotspot_y_mobile": 50,
-              "heading": "Breathable Uppers",
-              "text": "<p>Breathable uppers made from 90% textile keep their feet fresh and comfortable all day long.</p>",
-              "icon": "",
-              "icon_width": 32
-            }
-          },
-          "hotspot_iKcDYx": {
-            "type": "hotspot",
-            "settings": {
-              "hotspot_x": 72,
-              "hotspot_y": 59,
-              "hotspot_x_mobile": 50,
-              "hotspot_y_mobile": 50,
-              "heading": "Added Reinforcements",
-              "text": "<p>Added reinforcements enhance the shoe's durability, and the toe cap protects their precious toes.</p>",
-              "icon": "",
-              "icon_width": 32
-            }
+        "richtext_amVM6b": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "richtext": "<p>PREORDER item. Ships Feb 1st, 2025.</p>",
+            "icon": "eye",
+            "icon_size": "small",
+            "enable_box": false,
+            "box_color": "#e0f4d5",
+            "show_in_quickbuy": false
           }
         },
-        "block_order": [
-          "hotspot_nFEwaA",
-          "hotspot_HBcRAj",
-          "hotspot_JWKypL",
-          "hotspot_q7Y3Hx",
-          "hotspot_iKcDYx"
-        ],
-        "settings": {
-          "image": "shopify://shop_images/Aquila_Altair_Highlights_clean.png",
-          "hotspot_color": "#070707",
-          "button_content": "plus",
-          "outer_circle": "pulse",
-          "full_width": true,
-          "text_alignment": "top left",
-          "overlay_style": "shadow",
-          "subheading": "",
-          "title": "Explore the tech",
-          "use_h1": false,
-          "heading_max_width": 10,
-          "text": "",
-          "button_1_label": "",
-          "button_1_link": "",
-          "button_1_style": "secondary",
-          "button_2_label": "",
-          "button_2_link": "",
-          "button_2_style": "primary"
-        }
-      },
-      "hotspots_e79T4F": {
-        "type": "hotspots",
-        "blocks": {
-          "hotspot_Lki4Jx": {
-            "type": "hotspot",
-            "settings": {
-              "hotspot_x": 50,
-              "hotspot_y": 32,
-              "hotspot_x_mobile": 50,
-              "hotspot_y_mobile": 50,
-              "heading": "Premium Insole and Lining",
-              "text": "<p>A 100% textile lining and a cushioned insole keep their feet fresh all-day long.</p>",
-              "icon": "",
-              "icon_width": 32
-            }
-          },
-          "hotspot_rPj67a": {
-            "type": "hotspot",
-            "settings": {
-              "hotspot_x": 50,
-              "hotspot_y": 15,
-              "hotspot_x_mobile": 50,
-              "hotspot_y_mobile": 50,
-              "heading": "Heel Tab",
-              "text": "<p>To help them easily slide their feet into the shoes.</p>",
-              "icon": "",
-              "icon_width": 32
-            }
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "disabled": true,
+          "settings": {
+            "show_in_quickbuy": false
           }
         },
-        "block_order": [
-          "hotspot_Lki4Jx",
-          "hotspot_rPj67a"
-        ],
-        "settings": {
-          "image": "shopify://shop_images/Aquila_Features_3.png",
-          "hotspot_color": "#070707",
-          "button_content": "plus",
-          "outer_circle": "pulse",
-          "full_width": true,
-          "text_alignment": "top left",
-          "overlay_style": "shadow",
-          "subheading": "",
-          "title": "",
-          "use_h1": false,
-          "heading_max_width": 10,
-          "text": "",
-          "button_1_label": "",
-          "button_1_link": "",
-          "button_1_style": "secondary",
-          "button_2_label": "",
-          "button_2_link": "",
-          "button_2_style": "primary"
-        }
-      },
-      "key_features_RrEy8b": {
-        "type": "key-features",
-        "blocks": {
-          "feature_aJCKAF": {
-            "type": "feature",
-            "settings": {
-              "image": "shopify://shop_images/IBS06339_new_71c99b93-879c-4b5c-9465-2303d57a51cf.jpg",
-              "bg_color": "#e3e3e3",
-              "bg_gradient": "",
-              "text_color": "#505050",
-              "heading": "Easy On. Easy Off.",
-              "text": "<p>The Aquila comes with a no-tie lacing system to keep the kids active and on the go. The hook-and-loop strap created a wide opening for easy-on and easy-off and the heel tab allows easy sliding of feet into the shoes.</p>",
-              "show_segments": true,
-              "segments": 5,
-              "active_segment": "1",
-              "fill_segments": true,
-              "show_labels": true,
-              "label_left": "",
-              "label_middle": "",
-              "label_right": "",
-              "show_icon": false,
-              "icon": "award"
-            }
-          },
-          "feature_iRChNC": {
-            "type": "feature",
-            "settings": {
-              "image": "shopify://shop_images/IBS06260_1521a939-6618-4c94-a3e8-012c88fd6b28.jpg",
-              "bg_color": "#c3c3c3",
-              "bg_gradient": "",
-              "text_color": "#505050",
-              "heading": "Super plush",
-              "text": "<p>The Aquila Altair features a super cushioned midsole with a rubber outsole to ensure that the spring in those feet stay consistent all day long. Our 100% textile lining and a cushioned insole adds to that walking on cloud feeling all-day for those all-day adventures.</p>",
-              "show_segments": true,
-              "segments": 5,
-              "active_segment": "2",
-              "fill_segments": true,
-              "show_labels": true,
-              "label_left": "",
-              "label_middle": "",
-              "label_right": "",
-              "show_icon": false,
-              "icon": "star"
-            }
-          },
-          "feature_WgCbDc": {
-            "type": "feature",
-            "settings": {
-              "image": "shopify://shop_images/IBS06142_new.jpg",
-              "bg_color": "#e3e3e3",
-              "bg_gradient": "",
-              "text_color": "#505050",
-              "heading": "Protect the play",
-              "text": "<p>For our kids range, we have paid special attention to protection. The Aquila Altair features a toe cap and added reinforcements to help with wear and tear and protect those precious toes.</p>",
-              "show_segments": true,
-              "segments": 5,
-              "active_segment": "3",
-              "fill_segments": true,
-              "show_labels": true,
-              "label_left": "",
-              "label_middle": "",
-              "label_right": "",
-              "show_icon": false,
-              "icon": "star"
-            }
-          },
-          "feature_NywqNH": {
-            "type": "feature",
-            "settings": {
-              "image": "shopify://shop_images/IBS06073_efbff056-eec0-4eab-9d5e-cb2074740239.jpg",
-              "bg_color": "#e3e3e3",
-              "bg_gradient": "",
-              "text_color": "#505050",
-              "heading": "A striking design",
-              "text": "<p>Combining sleek design with bold accents, the Aquila Altair offers a striking monochrome sneaker for kids. Aquila Altair is designed with bold lines and a minimalist aesthetic, combining urban edge with timeless style and the ultimate comfort.</p>",
-              "show_segments": true,
-              "segments": 5,
-              "active_segment": "4",
-              "fill_segments": true,
-              "show_labels": true,
-              "label_left": "",
-              "label_middle": "",
-              "label_right": "",
-              "show_icon": false,
-              "icon": "star"
-            }
-          },
-          "feature_ieWfzK": {
-            "type": "feature",
-            "settings": {
-              "image": "shopify://shop_images/Aquila_constellation.png",
-              "bg_color": "#e3e3e3",
-              "bg_gradient": "",
-              "text_color": "#505050",
-              "heading": "Name Origins",
-              "text": "<p>Aquila, Latin for \"eagle,\" is a prominent constellation in the northern sky symbolizing power and majesty. Aquila Altair is named after Altair, the brightest star in the Aquila constellation.</p>",
-              "show_segments": true,
-              "segments": 5,
-              "active_segment": "5",
-              "fill_segments": true,
-              "show_labels": true,
-              "label_left": "",
-              "label_middle": "",
-              "label_right": "",
-              "show_icon": false,
-              "icon": "star"
-            }
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
           }
         },
-        "block_order": [
-          "feature_aJCKAF",
-          "feature_iRChNC",
-          "feature_WgCbDc",
-          "feature_NywqNH",
-          "feature_ieWfzK"
-        ],
-        "settings": {
-          "heading": "Key Features",
-          "image_max_width": 700,
-          "media_aspect_ratio": "1",
-          "image_position": "left",
-          "segment_position": "over-text"
+        "accordion_kFhLMP": {
+          "type": "accordion",
+          "disabled": true,
+          "settings": {
+            "title": "Materials",
+            "icon": "shoe",
+            "content": "<p>TK</p>",
+            "page": "",
+            "custom_liquid": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "accordion_PGpw9a": {
+          "type": "accordion",
+          "settings": {
+            "title": "Shipping & Returns",
+            "icon": "truck",
+            "content": "<p>Free shipping and returns. </p><p>Return period: 30 days.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "accordion_9X8wHL": {
+          "type": "accordion",
+          "settings": {
+            "title": "Size Guide",
+            "icon": "ruler",
+            "content": "<p>Regular fit. True to size.</p><p>Need help finding the perfect size? Check our <a href=\"/pages/sizing-guide\" title=\"Sizing Guide\">sizing guide</a>.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "variant-picker": {
+          "type": "variant-picker",
+          "settings": {
+            "show_single": false,
+            "selector_style": "listed",
+            "dynamic_availability": "show",
+            "enable_size_chart": true,
+            "size_chart_label": "Size guide",
+            "size_chart_variant": "Size Guide",
+            "size_chart_page": "size-chart"
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": false,
+            "show_pickup_availability": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "link_GtVRKf": {
+          "type": "link",
+          "disabled": true,
+          "settings": {
+            "url": "shopify://pages/subscription",
+            "open_in_new_tab": false,
+            "text": "Try Our Subscription Box — perfect for busy parents! Unlock exclusive perks and special pricing.",
+            "style": "primary",
+            "show_in_quickbuy": false
+          }
         }
       },
-      "related-products": {
-        "type": "related-products",
-        "disabled": true,
-        "settings": {
-          "title": "You may also like",
-          "show_vendor": false,
-          "grid": 4
-        }
-      },
-      "custom_liquid_pjALTW": {
-        "type": "custom-liquid",
-        "settings": {
-          "full_width": true,
-          "show_space": true,
-          "code": ""
-        }
+      "block_order": [
+        "title",
+        "price",
+        "divider_hUtyzX",
+        "richtext_amVM6b",
+        "vendor",
+        "divider",
+        "description",
+        "accordion_kFhLMP",
+        "accordion_PGpw9a",
+        "accordion_9X8wHL",
+        "variant-picker",
+        "buy-buttons",
+        "link_GtVRKf"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "select_first_variant": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "enable_sticky_atc": false,
+        "sticky_atc_position": "end",
+        "sticky_atc_mobile": true,
+        "sticky_atc_behavior": "add_to_cart",
+        "sticky_atc_button_style": "secondary",
+        "gallery_size": "medium",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "show_alt_text": false,
+        "alt_text_icon": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "enable_media_grouping": true,
+        "media_grouping_option": "Color,Colour,Couleur,Farbe"
       }
     },
-    "order": [
-      "main",
-      "multi_column_gn7X6L",
-      "hotspots_VdPiWh",
-      "hotspots_e79T4F",
-      "key_features_RrEy8b",
-      "related-products",
-      "custom_liquid_pjALTW"
-    ]
-  }
-  
+    "multi_column_gn7X6L": {
+      "type": "multi-column",
+      "blocks": {
+        "text_block_HBTXRL": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/IBS06339_new_71c99b93-879c-4b5c-9465-2303d57a51cf.jpg",
+            "title": "Fly High",
+            "text": "<p>Aquila Altair's striking design blends bold lines with a minimalist aesthetic for everyday style. Featuring a sleek monochrome design, the shoe combines a plush upper, an ultra-comfortable midsole, and cushioning all around to put a spring in every step.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_ycMiPr": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/IBS06260_1521a939-6618-4c94-a3e8-012c88fd6b28.jpg",
+            "title": "In a Breeze",
+            "text": "<p>Featuring a no-tie closure system, this shoe is perfect for all-day active kids. Pull-tabs on the tongue and heel make slipping in and out effortless, while elastic laces and power straps ensure a snug, secure fit all day.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_4mmcdw": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/IBS06229_209c2907-1f69-4315-a35a-47822bc8e682.jpg",
+            "title": "To Protect and Soar",
+            "text": "<p>Spanning from heel to toe, the outsole features a special traction pattern for exceptional grip and natural flexibility. Additionally, front bump protection and reinforced overlays provide safety zones for those precious little feet.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_HBTXRL",
+        "text_block_ycMiPr",
+        "text_block_4mmcdw"
+      ],
+      "settings": {
+        "title": "Highlights",
+        "media_aspect_ratio": "s",
+        "media_width": 700,
+        "text_alignment": "center",
+        "button_style": "primary",
+        "color_scheme": "default"
+      }
+    },
+    "hotspots_VdPiWh": {
+      "type": "hotspots",
+      "blocks": {
+        "hotspot_nFEwaA": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 49,
+            "hotspot_y": 44,
+            "hotspot_x_mobile": 50,
+            "hotspot_y_mobile": 50,
+            "heading": "Easy Closure",
+            "text": "<p>A hook-and-loop strap creates a wide opening for easy-on and easy-off. With no laces to fuss with, they are quickly ready to go.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        },
+        "hotspot_HBcRAj": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 35,
+            "hotspot_y": 64,
+            "hotspot_x_mobile": 50,
+            "hotspot_y_mobile": 50,
+            "heading": "Plush Midsole",
+            "text": "<p>A super cushioned mid-sole paired with a rubber outsole keeps the spring in their step steady all day long.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        },
+        "hotspot_JWKypL": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 25,
+            "hotspot_y": 34,
+            "hotspot_x_mobile": 50,
+            "hotspot_y_mobile": 50,
+            "heading": "Heel Tab",
+            "text": "<p>Heel tab to help little ones easily slide their feet into the shoes.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        },
+        "hotspot_q7Y3Hx": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 64,
+            "hotspot_y": 53,
+            "hotspot_x_mobile": 50,
+            "hotspot_y_mobile": 50,
+            "heading": "Breathable Uppers",
+            "text": "<p>Breathable uppers made from 90% textile keep their feet fresh and comfortable all day long.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        },
+        "hotspot_iKcDYx": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 72,
+            "hotspot_y": 59,
+            "hotspot_x_mobile": 50,
+            "hotspot_y_mobile": 50,
+            "heading": "Added Reinforcements",
+            "text": "<p>Added reinforcements enhance the shoe's durability, and the toe cap protects their precious toes.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "hotspot_nFEwaA",
+        "hotspot_HBcRAj",
+        "hotspot_JWKypL",
+        "hotspot_q7Y3Hx",
+        "hotspot_iKcDYx"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Aquila_Altair_Highlights_clean.png",
+        "hotspot_color": "#070707",
+        "button_content": "plus",
+        "outer_circle": "pulse",
+        "full_width": true,
+        "text_alignment": "top left",
+        "overlay_style": "shadow",
+        "subheading": "",
+        "title": "Explore the tech",
+        "use_h1": false,
+        "heading_max_width": 10,
+        "text": "",
+        "button_1_label": "",
+        "button_1_link": "",
+        "button_1_style": "secondary",
+        "button_2_label": "",
+        "button_2_link": "",
+        "button_2_style": "primary"
+      }
+    },
+    "hotspots_e79T4F": {
+      "type": "hotspots",
+      "blocks": {
+        "hotspot_Lki4Jx": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 50,
+            "hotspot_y": 32,
+            "hotspot_x_mobile": 50,
+            "hotspot_y_mobile": 50,
+            "heading": "Premium Insole and Lining",
+            "text": "<p>A 100% textile lining and a cushioned insole keep their feet fresh all-day long.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        },
+        "hotspot_rPj67a": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 50,
+            "hotspot_y": 15,
+            "hotspot_x_mobile": 50,
+            "hotspot_y_mobile": 50,
+            "heading": "Heel Tab",
+            "text": "<p>To help them easily slide their feet into the shoes.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "hotspot_Lki4Jx",
+        "hotspot_rPj67a"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Aquila_Features_3.png",
+        "hotspot_color": "#070707",
+        "button_content": "plus",
+        "outer_circle": "pulse",
+        "full_width": true,
+        "text_alignment": "top left",
+        "overlay_style": "shadow",
+        "subheading": "",
+        "title": "",
+        "use_h1": false,
+        "heading_max_width": 10,
+        "text": "",
+        "button_1_label": "",
+        "button_1_link": "",
+        "button_1_style": "secondary",
+        "button_2_label": "",
+        "button_2_link": "",
+        "button_2_style": "primary"
+      }
+    },
+    "key_features_RrEy8b": {
+      "type": "key-features",
+      "blocks": {
+        "feature_aJCKAF": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/IBS06339_new_71c99b93-879c-4b5c-9465-2303d57a51cf.jpg",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Easy On. Easy Off.",
+            "text": "<p>The Aquila comes with a no-tie lacing system to keep the kids active and on the go. The hook-and-loop strap created a wide opening for easy-on and easy-off and the heel tab allows easy sliding of feet into the shoes.</p>",
+            "show_segments": true,
+            "segments": 5,
+            "active_segment": "1",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "award"
+          }
+        },
+        "feature_iRChNC": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/IBS06260_1521a939-6618-4c94-a3e8-012c88fd6b28.jpg",
+            "bg_color": "#c3c3c3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Super plush",
+            "text": "<p>The Aquila Altair features a super cushioned midsole with a rubber outsole to ensure that the spring in those feet stay consistent all day long. Our 100% textile lining and a cushioned insole adds to that walking on cloud feeling all-day for those all-day adventures.</p>",
+            "show_segments": true,
+            "segments": 5,
+            "active_segment": "2",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_WgCbDc": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/IBS06142_new.jpg",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Protect the play",
+            "text": "<p>For our kids range, we have paid special attention to protection. The Aquila Altair features a toe cap and added reinforcements to help with wear and tear and protect those precious toes.</p>",
+            "show_segments": true,
+            "segments": 5,
+            "active_segment": "3",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_NywqNH": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/IBS06073_efbff056-eec0-4eab-9d5e-cb2074740239.jpg",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "A striking design",
+            "text": "<p>Combining sleek design with bold accents, the Aquila Altair offers a striking monochrome sneaker for kids. Aquila Altair is designed with bold lines and a minimalist aesthetic, combining urban edge with timeless style and the ultimate comfort.</p>",
+            "show_segments": true,
+            "segments": 5,
+            "active_segment": "4",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_ieWfzK": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/Aquila_constellation.png",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Name Origins",
+            "text": "<p>Aquila, Latin for \"eagle,\" is a prominent constellation in the northern sky symbolizing power and majesty. Aquila Altair is named after Altair, the brightest star in the Aquila constellation.</p>",
+            "show_segments": true,
+            "segments": 5,
+            "active_segment": "5",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        }
+      },
+      "block_order": [
+        "feature_aJCKAF",
+        "feature_iRChNC",
+        "feature_WgCbDc",
+        "feature_NywqNH",
+        "feature_ieWfzK"
+      ],
+      "settings": {
+        "heading": "Key Features",
+        "image_max_width": 700,
+        "media_aspect_ratio": "1",
+        "image_position": "left",
+        "segment_position": "over-text"
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "custom_liquid_pjALTW": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "show_space": true,
+        "code": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multi_column_gn7X6L",
+    "hotspots_VdPiWh",
+    "hotspots_e79T4F",
+    "key_features_RrEy8b",
+    "related-products",
+    "custom_liquid_pjALTW"
+  ]
+}

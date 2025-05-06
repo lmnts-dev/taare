@@ -7,386 +7,387 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- {
-    "sections": {
-      "image_with_text_overlay_egrJjb": {
-        "type": "image-with-text-overlay",
-        "blocks": {
-          "subheading_jpCqMN": {
-            "type": "subheading",
-            "settings": {
-              "subheading": "Taare Sneakers"
-            }
-          },
-          "heading_CPbEDA": {
-            "type": "heading",
-            "settings": {
-              "title": "Explore our growing collection",
-              "heading_max_width": 15,
-              "title_size": 84,
-              "title_size_mobile": 32,
-              "use_h1": false
-            }
-          },
-          "text_TrEjD3": {
-            "type": "text",
-            "settings": {
-              "text": "<p>More styles coming soon.</p>",
-              "enlarge_text": true
-            }
+{
+  "sections": {
+    "image_with_text_overlay_egrJjb": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_jpCqMN": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Taare Sneakers"
           }
         },
-        "block_order": [
-          "subheading_jpCqMN",
-          "heading_CPbEDA",
-          "text_TrEjD3"
-        ],
-        "settings": {
-          "image": "shopify://shop_images/Taare_cover.png",
-          "height": "adapt",
-          "height_desktop": 600,
-          "height_mobile": 460,
-          "image_link": "",
-          "full_width": true,
-          "text_alignment": "center center",
-          "mobile_overlay_under": false,
-          "overlay_style": "shadow"
-        }
-      },
-      "rich_text_DFn7EV": {
-        "type": "rich-text",
-        "blocks": {
-          "heading_G4inFP": {
-            "type": "heading",
-            "settings": {
-              "title": "Your kid's all-day shoes.",
-              "use_h1": true
-            }
-          },
-          "text_8EUpN7": {
-            "type": "text",
-            "disabled": true,
-            "settings": {
-              "text": "<p>Possibly the most comfortable shoes you'll find for your child.</p>",
-              "enlarge_text": false
-            }
+        "heading_CPbEDA": {
+          "type": "heading",
+          "settings": {
+            "title": "Explore our growing collection",
+            "heading_max_width": 15,
+            "title_size": 84,
+            "title_size_mobile": 32,
+            "use_h1": false
           }
         },
-        "block_order": [
-          "heading_G4inFP",
-          "text_8EUpN7"
-        ],
-        "settings": {
-          "height": "small",
-          "text_alignment": "center",
-          "full_width": false,
-          "color_scheme": "default"
-        }
-      },
-      "gallery_MDeCy4": {
-        "type": "gallery",
-        "blocks": {
-          "media_JWdRdW": {
-            "type": "media",
-            "settings": {
-              "image": "shopify://shop_images/taare-pavo-track.png",
-              "enlarge_media": true,
-              "subheading": "On the track",
-              "title": "Run",
-              "button_label": "",
-              "link": "",
-              "text_alignment": "bottom left"
-            }
-          },
-          "media_hUJzfL": {
-            "type": "media",
-            "settings": {
-              "image": "shopify://shop_images/taare-cygnus-playground.png",
-              "enlarge_media": false,
-              "subheading": "At the park",
-              "title": "Play",
-              "button_label": "",
-              "link": "",
-              "text_alignment": "bottom left"
-            }
-          },
-          "media_mk8fgW": {
-            "type": "media",
-            "settings": {
-              "image": "shopify://shop_images/Taare_Subscribe_2.png",
-              "enlarge_media": false,
-              "subheading": "On the court",
-              "title": "Practice",
-              "button_label": "",
-              "link": "",
-              "text_alignment": "bottom left"
-            }
-          },
-          "media_6XHxwK": {
-            "type": "media",
-            "settings": {
-              "image": "shopify://shop_images/taare-pavo-playroom.png",
-              "enlarge_media": true,
-              "subheading": "At home",
-              "title": "Relax",
-              "button_label": "",
-              "link": "shopify://collections/all",
-              "text_alignment": "bottom left"
-            }
+        "text_TrEjD3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>More styles coming soon.</p>",
+            "enlarge_text": true
           }
-        },
-        "block_order": [
-          "media_JWdRdW",
-          "media_hUJzfL",
-          "media_mk8fgW",
-          "media_6XHxwK"
-        ],
-        "settings": {
-          "grid_desktop": 2,
-          "grid_mobile": "1",
-          "height": "fixed",
-          "desktop_image_height": 400,
-          "mobile_image_height": 400,
-          "title_size": 48,
-          "title_size_mobile": 22,
-          "enable_margin": true,
-          "enable_row_spacing": false,
-          "full_width": false,
-          "color_scheme": "default",
-          "enable_carousel": true,
-          "overlay_style": "full",
-          "button_style": "secondary"
         }
       },
-      "main": {
-        "type": "main-collection",
-        "disabled": true,
-        "settings": {
-          "show_title": false,
-          "show_image_behind_heading": false,
-          "heading_image_height": "huge",
-          "overlay_style": "no_background",
-          "coll_desc_pos": "above",
-          "coll_num_per_page_int": 24,
-          "grid": 3,
-          "show_vendor": false,
-          "show_total": true,
-          "enable_filtering": true,
-          "collapse_tag_sidebar_by_default": true,
-          "collapse_filters_method": "none",
-          "show_filter_counts": true,
-          "filter_two_columns": true,
-          "button_grid_filter_name": "Size,Taille,Größe",
-          "auto_apply_hide_unavailable": false,
-          "enable_sticky_filter": true,
-          "show_sort": true,
-          "sort_show_featured": false,
-          "sort_show_best": true,
-          "sort_show_alpha": true,
-          "sort_show_price": true,
-          "sort_show_date": true,
-          "related_collections": [],
-          "related_collections_style": "gallery",
-          "rel_coll_gall_aspect_ratio": "2",
-          "image_position": "center center",
-          "rel_coll_gall_enable_margin": true,
-          "rel_coll_gall_full_width": true,
-          "rel_coll_gall_overlay_style": "full image-overlay--bg-shadow",
-          "rel_coll_gall_text_alignment": "bottom left",
-          "rel_coll_grid_mobile": "2"
-        }
-      },
-      "multi_column_9DhMrE": {
-        "type": "multi-column",
-        "blocks": {
-          "text_block_C9kYkG": {
-            "type": "text_block",
-            "settings": {
-              "enable_media": true,
-              "image": "shopify://shop_images/online-shopping-credit-cards.jpg",
-              "title": "One-time purchase",
-              "text": "<p>The usual way. You know.</p>",
-              "button_label": "",
-              "link": ""
-            }
-          },
-          "text_block_LRDAiX": {
-            "type": "text_block",
-            "settings": {
-              "enable_media": true,
-              "image": "shopify://shop_images/rows-of-beach-chairs-with-blue-and-white-fabric.jpg",
-              "title": "Subscribe",
-              "text": "<p>The new way. New pairs automatically delivered every few months. Choose different styles and sizes across deliveries.</p>",
-              "button_label": "",
-              "link": ""
-            }
-          }
-        },
-        "block_order": [
-          "text_block_C9kYkG",
-          "text_block_LRDAiX"
-        ],
-        "settings": {
-          "title": "Two ways to buy",
-          "media_aspect_ratio": "s",
-          "media_width": 700,
-          "text_alignment": "center",
-          "button_style": "primary",
-          "color_scheme": "1"
-        }
-      },
-      "product_list_xG4TdA": {
-        "type": "product-list",
-        "settings": {
-          "title": "Designed for Comfort",
-          "product_list": [
-            "aquila-altair",
-            "cygnus-deneb",
-            "pavo-alpha"
-          ],
-          "show_vendor": false,
-          "enable_carousel": true,
-          "grid": 3,
-          "color_scheme": "default",
-          "full_width": true
-        }
-      },
-      "custom_content_LLnmxT": {
-        "type": "custom-content",
-        "blocks": {
-          "text_7Up6W6": {
-            "type": "text",
-            "settings": {
-              "width": "half",
-              "subheading": "More comfort and savings",
-              "title": "Try Our Subscription Box",
-              "text": "<p>Best for busy parents! </p><p>New shoes delivered every 4 or 6 months. More savings, more rewards. </p><p>No commitments. Cancel anytime.</p>",
-              "button_label": "See Subscription Plans",
-              "button_link": "shopify://pages/subscription",
-              "button_style": "primary",
-              "text_alignment": "center"
-            }
-          }
-        },
-        "block_order": [
-          "text_7Up6W6"
-        ],
-        "settings": {
-          "alignment": "middle"
-        }
-      },
-      "key_features_mhGTmU": {
-        "type": "key-features",
-        "blocks": {
-          "feature_pARceB": {
-            "type": "feature",
-            "settings": {
-              "image": "shopify://shop_images/IBS06260_1521a939-6618-4c94-a3e8-012c88fd6b28.jpg",
-              "bg_color": "#e3e3e3",
-              "bg_gradient": "",
-              "text_color": "#505050",
-              "heading": "Super plush",
-              "text": "<p>All our shoes feature a super cushioned midsole with a rubber outsole to ensure that the spring in those feet stay consistent all day long. Our 100% textile lining and a cushioned insole adds to that walking on cloud feeling all-day for those all-day adventures.</p>",
-              "show_segments": true,
-              "segments": 4,
-              "active_segment": "1",
-              "fill_segments": true,
-              "show_labels": true,
-              "label_left": "",
-              "label_middle": "",
-              "label_right": "",
-              "show_icon": false,
-              "icon": "star"
-            }
-          },
-          "feature_mX6n4M": {
-            "type": "feature",
-            "settings": {
-              "image": "shopify://shop_images/IBS06142new.jpg",
-              "bg_color": "#c3c3c3",
-              "bg_gradient": "",
-              "text_color": "#505050",
-              "heading": "Protects the play",
-              "text": "<p>For our kids range, we have paid special attention to protection. Our shoes feature a toe cap and added reinforcements to help with wear and tear and protect those precious toes.</p>",
-              "show_segments": true,
-              "segments": 4,
-              "active_segment": "2",
-              "fill_segments": true,
-              "show_labels": true,
-              "label_left": "",
-              "label_middle": "",
-              "label_right": "",
-              "show_icon": false,
-              "icon": "star"
-            }
-          },
-          "feature_PCf7Lg": {
-            "type": "feature",
-            "settings": {
-              "image": "shopify://shop_images/IBS06222_b7e38e22-b2a0-423a-9e32-3c47e6d12cb9.jpg",
-              "bg_color": "#e3e3e3",
-              "bg_gradient": "",
-              "text_color": "#505050",
-              "heading": "Easy closure",
-              "text": "<p>Our Aquila and Pavo styles come with a no-tie lacing system to keep the kids active and on the go. The hook-and-loop strap created a wide opening for easy-on and easy-off and the heel tab allows easy sliding of feet into the shoes.</p>",
-              "show_segments": true,
-              "segments": 4,
-              "active_segment": "3",
-              "fill_segments": true,
-              "show_labels": true,
-              "label_left": "",
-              "label_middle": "",
-              "label_right": "",
-              "show_icon": false,
-              "icon": "star"
-            }
-          },
-          "feature_TtnhA4": {
-            "type": "feature",
-            "settings": {
-              "image": "shopify://shop_images/IBS06069_57aba164-93fb-45cd-baf4-319a0a1ac6c8.jpg",
-              "bg_color": "#e3e3e3",
-              "bg_gradient": "",
-              "text_color": "#505050",
-              "heading": "A striking design",
-              "text": "<p>If you prefer classics and laces, check out Cygnus. Designed with both functionality and style in mind, the Cygnus series provide a secure fit and extra support. Perfect for active little ones on the go.</p>",
-              "show_segments": true,
-              "segments": 4,
-              "active_segment": "4",
-              "fill_segments": true,
-              "show_labels": true,
-              "label_left": "",
-              "label_middle": "",
-              "label_right": "",
-              "show_icon": false,
-              "icon": "star"
-            }
-          }
-        },
-        "block_order": [
-          "feature_pARceB",
-          "feature_mX6n4M",
-          "feature_PCf7Lg",
-          "feature_TtnhA4"
-        ],
-        "settings": {
-          "heading": "Key features",
-          "image_max_width": 700,
-          "media_aspect_ratio": "1",
-          "image_position": "left",
-          "segment_position": "over-text"
-        }
+      "block_order": [
+        "subheading_jpCqMN",
+        "heading_CPbEDA",
+        "text_TrEjD3"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Taare_cover.png",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "full_width": true,
+        "text_alignment": "center center",
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
       }
     },
-    "order": [
-      "image_with_text_overlay_egrJjb",
-      "rich_text_DFn7EV",
-      "gallery_MDeCy4",
-      "main",
-      "multi_column_9DhMrE",
-      "product_list_xG4TdA",
-      "custom_content_LLnmxT",
-      "key_features_mhGTmU"
-    ]
-  }
-  
+    "rich_text_DFn7EV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_G4inFP": {
+          "type": "heading",
+          "settings": {
+            "title": "Your kid's all-day shoes.",
+            "use_h1": true
+          }
+        },
+        "text_8EUpN7": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Possibly the most comfortable shoes you'll find for your child.</p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_G4inFP",
+        "text_8EUpN7"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "default"
+      }
+    },
+    "gallery_MDeCy4": {
+      "type": "gallery",
+      "blocks": {
+        "media_JWdRdW": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/taare-pavo-track.png",
+            "enlarge_media": true,
+            "subheading": "On the track",
+            "title": "Run",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "media_hUJzfL": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/taare-cygnus-playground.png",
+            "enlarge_media": false,
+            "subheading": "At the park",
+            "title": "Play",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "media_mk8fgW": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/Taare_Subscribe_2.png",
+            "enlarge_media": false,
+            "subheading": "On the court",
+            "title": "Practice",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "media_6XHxwK": {
+          "type": "media",
+          "settings": {
+            "image": "shopify://shop_images/taare-pavo-playroom.png",
+            "enlarge_media": true,
+            "subheading": "At home",
+            "title": "Relax",
+            "button_label": "",
+            "link": "shopify://collections/all",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "media_JWdRdW",
+        "media_hUJzfL",
+        "media_mk8fgW",
+        "media_6XHxwK"
+      ],
+      "settings": {
+        "grid_desktop": 2,
+        "grid_mobile": "1",
+        "height": "fixed",
+        "desktop_image_height": 400,
+        "mobile_image_height": 400,
+        "title_size": 48,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": false,
+        "full_width": false,
+        "color_scheme": "default",
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "secondary"
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "show_image_behind_heading": false,
+        "heading_image_height": "huge",
+        "overlay_style": "no_background",
+        "coll_desc_pos": "above",
+        "coll_num_per_page_int": 24,
+        "grid": 3,
+        "show_vendor": false,
+        "show_total": true,
+        "enable_filtering": true,
+        "collapse_tag_sidebar_by_default": true,
+        "collapse_filters_method": "none",
+        "show_filter_counts": true,
+        "filter_two_columns": true,
+        "button_grid_filter_name": "Size,Taille,Größe",
+        "auto_apply_hide_unavailable": false,
+        "enable_sticky_filter": true,
+        "show_sort": true,
+        "sort_show_featured": false,
+        "sort_show_best": true,
+        "sort_show_alpha": true,
+        "sort_show_price": true,
+        "sort_show_date": true,
+        "related_collections": [],
+        "related_collections_style": "gallery",
+        "rel_coll_gall_aspect_ratio": "2",
+        "image_position": "center center",
+        "rel_coll_gall_enable_margin": true,
+        "rel_coll_gall_full_width": true,
+        "rel_coll_gall_overlay_style": "full image-overlay--bg-shadow",
+        "rel_coll_gall_text_alignment": "bottom left",
+        "rel_coll_grid_mobile": "2"
+      }
+    },
+    "multi_column_9DhMrE": {
+      "type": "multi-column",
+      "blocks": {
+        "text_block_C9kYkG": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/online-shopping-credit-cards.jpg",
+            "title": "One-time purchase",
+            "text": "<p>The usual way. You know.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_LRDAiX": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/rows-of-beach-chairs-with-blue-and-white-fabric.jpg",
+            "title": "Subscribe",
+            "text": "<p>The new way. New pairs automatically delivered every few months. Choose different styles and sizes across deliveries.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_C9kYkG",
+        "text_block_LRDAiX"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Two ways to buy",
+        "media_aspect_ratio": "s",
+        "media_width": 700,
+        "text_alignment": "center",
+        "button_style": "primary",
+        "color_scheme": "1"
+      }
+    },
+    "product_list_xG4TdA": {
+      "type": "product-list",
+      "settings": {
+        "title": "Designed for Comfort",
+        "product_list": [
+          "pavo-alpha",
+          "aquila-altair",
+          "cygnus-deneb"
+        ],
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 3,
+        "color_scheme": "default",
+        "full_width": true
+      }
+    },
+    "custom_content_LLnmxT": {
+      "type": "custom-content",
+      "blocks": {
+        "text_7Up6W6": {
+          "type": "text",
+          "settings": {
+            "width": "half",
+            "subheading": "More comfort and savings",
+            "title": "Try Our Subscription Box",
+            "text": "<p>Best for busy parents! </p><p>New shoes delivered every 4 or 6 months. More savings, more rewards. </p><p>No commitments. Cancel anytime.</p>",
+            "button_label": "See Subscription Plans",
+            "button_link": "shopify://pages/subscription",
+            "button_style": "primary",
+            "text_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "text_7Up6W6"
+      ],
+      "disabled": true,
+      "settings": {
+        "alignment": "middle"
+      }
+    },
+    "key_features_mhGTmU": {
+      "type": "key-features",
+      "blocks": {
+        "feature_pARceB": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/IBS06260_1521a939-6618-4c94-a3e8-012c88fd6b28.jpg",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Super plush",
+            "text": "<p>All our shoes feature a super cushioned midsole with a rubber outsole to ensure that the spring in those feet stay consistent all day long. Our 100% textile lining and a cushioned insole adds to that walking on cloud feeling all-day for those all-day adventures.</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "1",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_mX6n4M": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/IBS06142new.jpg",
+            "bg_color": "#c3c3c3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Protects the play",
+            "text": "<p>For our kids range, we have paid special attention to protection. Our shoes feature a toe cap and added reinforcements to help with wear and tear and protect those precious toes.</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "2",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_PCf7Lg": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/IBS06222_b7e38e22-b2a0-423a-9e32-3c47e6d12cb9.jpg",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Easy closure",
+            "text": "<p>Our Aquila and Pavo styles come with a no-tie lacing system to keep the kids active and on the go. The hook-and-loop strap created a wide opening for easy-on and easy-off and the heel tab allows easy sliding of feet into the shoes.</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "3",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_TtnhA4": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/IBS06069_57aba164-93fb-45cd-baf4-319a0a1ac6c8.jpg",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "A striking design",
+            "text": "<p>If you prefer classics and laces, check out Cygnus. Designed with both functionality and style in mind, the Cygnus series provide a secure fit and extra support. Perfect for active little ones on the go.</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "4",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        }
+      },
+      "block_order": [
+        "feature_pARceB",
+        "feature_mX6n4M",
+        "feature_PCf7Lg",
+        "feature_TtnhA4"
+      ],
+      "settings": {
+        "heading": "Key features",
+        "image_max_width": 700,
+        "media_aspect_ratio": "1",
+        "image_position": "left",
+        "segment_position": "over-text"
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_egrJjb",
+    "rich_text_DFn7EV",
+    "gallery_MDeCy4",
+    "main",
+    "multi_column_9DhMrE",
+    "product_list_xG4TdA",
+    "custom_content_LLnmxT",
+    "key_features_mhGTmU"
+  ]
+}

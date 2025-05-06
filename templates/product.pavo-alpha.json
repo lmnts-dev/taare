@@ -7,484 +7,484 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- {
-    "sections": {
-      "main": {
-        "type": "main-product",
-        "blocks": {
-          "title": {
-            "type": "title",
-            "settings": {}
-          },
-          "price": {
-            "type": "price",
-            "settings": {
-              "show_tax_and_shipping": false,
-              "enable_product_reviews_by_price": true
-            }
-          },
-          "divider_JgdW4L": {
-            "type": "divider",
-            "settings": {
-              "show_in_quickbuy": false
-            }
-          },
-          "richtext_fCNGqr": {
-            "type": "richtext",
-            "disabled": true,
-            "settings": {
-              "richtext": "<p>PREORDER item. Ships Feb 1st, 2025.</p>",
-              "icon": "eye",
-              "icon_size": "small",
-              "enable_box": false,
-              "box_color": "#e0f4d5",
-              "show_in_quickbuy": false
-            }
-          },
-          "divider": {
-            "type": "divider",
-            "disabled": true,
-            "settings": {
-              "show_in_quickbuy": false
-            }
-          },
-          "description": {
-            "type": "description",
-            "settings": {
-              "show_in_tab": false,
-              "open_tab": false,
-              "icon": "",
-              "show_in_quickbuy": false
-            }
-          },
-          "accordion_fwgEt9": {
-            "type": "accordion",
-            "disabled": true,
-            "settings": {
-              "title": "Materials",
-              "icon": "shoe",
-              "content": "<p>TK</p>",
-              "page": "",
-              "custom_liquid": "",
-              "open": false,
-              "show_in_quickbuy": false
-            }
-          },
-          "accordion_gX3W77": {
-            "type": "accordion",
-            "settings": {
-              "title": "Shipping & Returns",
-              "icon": "truck",
-              "content": "<p>Free shipping on all orders</p>",
-              "page": "",
-              "custom_liquid": "",
-              "open": false,
-              "show_in_quickbuy": false
-            }
-          },
-          "accordion_irz4pt": {
-            "type": "accordion",
-            "settings": {
-              "title": "Size Guide",
-              "icon": "ruler",
-              "content": "<p>Regular fit. True to size.</p><p>Need help finding the perfect size? Check our <a href=\"/pages/sizing-guide\" title=\"Sizing Guide\">sizing guide</a>.</p>",
-              "page": "",
-              "custom_liquid": "",
-              "open": false,
-              "show_in_quickbuy": false
-            }
-          },
-          "variant-picker": {
-            "type": "variant-picker",
-            "settings": {
-              "show_single": false,
-              "selector_style": "listed",
-              "dynamic_availability": "show",
-              "enable_size_chart": false,
-              "size_chart_label": "Size guide",
-              "size_chart_variant": "Size",
-              "size_chart_page": ""
-            }
-          },
-          "buy-buttons": {
-            "type": "buy-buttons",
-            "settings": {
-              "show_quantity_selector": true,
-              "enable_payment_button": true,
-              "show_backorder_text": false,
-              "show_pickup_availability": true,
-              "show_gift_card_recipient": false
-            }
-          },
-          "link_LTUi3V": {
-            "type": "link",
-            "settings": {
-              "url": "shopify://pages/subscription",
-              "open_in_new_tab": false,
-              "text": "Try Our Subscription Box — perfect for busy parents! Unlock exclusive perks and special pricing.",
-              "style": "primary",
-              "show_in_quickbuy": false
-            }
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": true
           }
         },
-        "block_order": [
-          "title",
-          "price",
-          "divider_JgdW4L",
-          "richtext_fCNGqr",
-          "divider",
-          "description",
-          "accordion_fwgEt9",
-          "accordion_gX3W77",
-          "accordion_irz4pt",
-          "variant-picker",
-          "buy-buttons",
-          "link_LTUi3V"
-        ],
-        "settings": {
-          "show_breadcrumbs": true,
-          "select_first_variant": true,
-          "show_location_underneath": false,
-          "inventory_transfers_enable": true,
-          "enable_sticky_columns": false,
-          "enable_sticky_atc": true,
-          "sticky_atc_position": "end",
-          "sticky_atc_mobile": true,
-          "sticky_atc_behavior": "add_to_cart",
-          "sticky_atc_button_style": "secondary",
-          "gallery_size": "medium",
-          "gallery_layout": "carousel-under",
-          "enable_zoom": true,
-          "show_alt_text": false,
-          "alt_text_icon": "",
-          "enable_video_autoplay": false,
-          "enable_video_looping": false,
-          "enable_media_grouping": false,
-          "media_grouping_option": "Color,Colour,Couleur,Farbe"
-        }
-      },
-      "multi_column_3fw4mX": {
-        "type": "multi-column",
-        "blocks": {
-          "text_block_3nWgaz": {
-            "type": "text_block",
-            "settings": {
-              "enable_media": true,
-              "image": "shopify://shop_images/IBS06140_fe423564-c910-42b7-9e4c-32fb47a08976.jpg",
-              "title": "Burst of Splendor",
-              "text": "<p>The Pavo Alpha features a striking display of vibrant hues and playful patterns. Pavo, inspired by the vibrant peacock, brings a burst of color to kids' footwear. The sneaker is meant to symbolize beauty and confidence, helping your child step out in style and embrace their unique flair.</p>",
-              "button_label": "",
-              "link": ""
-            }
-          },
-          "text_block_694Nk9": {
-            "type": "text_block",
-            "settings": {
-              "enable_media": true,
-              "image": "shopify://shop_images/IBS06222_d27d69ed-3413-4069-9508-1548aac01e77.jpg",
-              "title": "Easy as a Tie",
-              "text": "<p>With shoes this beautiful, why should getting into them be a chore? Pull tabs on the heel and tongue provide a solid hold, while a no-tie system featuring elastic laces and a hook-and-loop<br/>closure, the Pavo guarantees an easy on-off.</p>",
-              "button_label": "",
-              "link": ""
-            }
-          },
-          "text_block_Xq4hqT": {
-            "type": "text_block",
-            "settings": {
-              "enable_media": true,
-              "image": "shopify://shop_images/IBS06265_871a68a2-7bf1-447e-a7bc-d8668ce6839c.jpg",
-              "title": "Flight Deck",
-              "text": "<p>Our most vibrant shoes are also amongst our plushest, delivering soft landings and powerful take-offs. A thick midsole combined with a plush sockliner and padded inners, the Pavo is loaded with stability and comfort for growing feet. </p><p></p>",
-              "button_label": "",
-              "link": ""
-            }
+        "divider_JgdW4L": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
           }
         },
-        "block_order": [
-          "text_block_3nWgaz",
-          "text_block_694Nk9",
-          "text_block_Xq4hqT"
-        ],
-        "settings": {
-          "title": "Key Features",
-          "media_aspect_ratio": "s",
-          "media_width": 700,
-          "text_alignment": "center",
-          "button_style": "primary",
-          "color_scheme": "default"
-        }
-      },
-      "hotspots_ncmr6V": {
-        "type": "hotspots",
-        "blocks": {
-          "hotspot_HTdqwE": {
-            "type": "hotspot",
-            "settings": {
-              "hotspot_x": 29,
-              "hotspot_y": 32,
-              "hotspot_x_mobile": 28,
-              "hotspot_y_mobile": 38,
-              "heading": "Pull tabs",
-              "text": "<p>Pull-tabs on the tongue and heel for easy slipping in and out.</p>",
-              "icon": "",
-              "icon_width": 32
-            }
-          },
-          "hotspot_BRC9CX": {
-            "type": "hotspot",
-            "settings": {
-              "hotspot_x": 41,
-              "hotspot_y": 65,
-              "hotspot_x_mobile": 60,
-              "hotspot_y_mobile": 23,
-              "heading": "Plush Midsole",
-              "text": "<p>Plush midsole for extra comfort for their little feet.</p>",
-              "icon": "",
-              "icon_width": 32
-            }
-          },
-          "hotspot_RqrfRN": {
-            "type": "hotspot",
-            "settings": {
-              "hotspot_x": 66,
-              "hotspot_y": 54,
-              "hotspot_x_mobile": 73,
-              "hotspot_y_mobile": 54,
-              "heading": "Breathable Upper",
-              "text": "<p>A breathable upper keeps their feet fresh all day long.</p>",
-              "icon": "",
-              "icon_width": 32
-            }
+        "richtext_fCNGqr": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "richtext": "<p>PREORDER item. Ships Feb 1st, 2025.</p>",
+            "icon": "eye",
+            "icon_size": "small",
+            "enable_box": false,
+            "box_color": "#e0f4d5",
+            "show_in_quickbuy": false
           }
         },
-        "block_order": [
-          "hotspot_HTdqwE",
-          "hotspot_BRC9CX",
-          "hotspot_RqrfRN"
-        ],
-        "settings": {
-          "image": "shopify://shop_images/3_02e96a4a-6e61-4f2a-b3d0-be39f3627c13.png",
-          "hotspot_color": "#070707",
-          "button_content": "plus",
-          "outer_circle": "pulse",
-          "full_width": true,
-          "text_alignment": "top left",
-          "overlay_style": "shadow",
-          "subheading": "Find out what makes the Pavo Alpha special",
-          "title": "Explore the tech",
-          "use_h1": false,
-          "heading_max_width": 10,
-          "text": "",
-          "button_1_label": "",
-          "button_1_link": "",
-          "button_1_style": "secondary",
-          "button_2_label": "",
-          "button_2_link": "",
-          "button_2_style": "primary"
-        }
-      },
-      "hotspots_tftLzQ": {
-        "type": "hotspots",
-        "blocks": {
-          "hotspot_BkUtW9": {
-            "type": "hotspot",
-            "settings": {
-              "hotspot_x": 49,
-              "hotspot_y": 85,
-              "hotspot_x_mobile": 28,
-              "hotspot_y_mobile": 38,
-              "heading": "Toe-cap",
-              "text": "<p>Toe-cap and overlays to protect from bumps.</p>",
-              "icon": "",
-              "icon_width": 32
-            }
-          },
-          "hotspot_7jgVHp": {
-            "type": "hotspot",
-            "settings": {
-              "hotspot_x": 48,
-              "hotspot_y": 47,
-              "hotspot_x_mobile": 50,
-              "hotspot_y_mobile": 50,
-              "heading": "Hook and Loop",
-              "text": "<p>No-fuss fastening system that's<br/>easy for little ones to use.</p>",
-              "icon": "",
-              "icon_width": 32
-            }
-          },
-          "hotspot_FwXyLP": {
-            "type": "hotspot",
-            "settings": {
-              "hotspot_x": 53,
-              "hotspot_y": 23,
-              "hotspot_x_mobile": 60,
-              "hotspot_y_mobile": 23,
-              "heading": "Padded Inners",
-              "text": "<p>Padded tongue and heel collars for stability and comfort.</p>",
-              "icon": "",
-              "icon_width": 32
-            }
-          },
-          "hotspot_T489RT": {
-            "type": "hotspot",
-            "settings": {
-              "hotspot_x": 52,
-              "hotspot_y": 61,
-              "hotspot_x_mobile": 64,
-              "hotspot_y_mobile": 54,
-              "heading": "Elastic Laces",
-              "text": "<p>Elastic laces for added secure fit</p>",
-              "icon": "",
-              "icon_width": 32
-            }
+        "divider": {
+          "type": "divider",
+          "disabled": true,
+          "settings": {
+            "show_in_quickbuy": false
           }
         },
-        "block_order": [
-          "hotspot_BkUtW9",
-          "hotspot_7jgVHp",
-          "hotspot_FwXyLP",
-          "hotspot_T489RT"
-        ],
-        "settings": {
-          "image": "shopify://shop_images/6_cc02dc8b-a7b6-4a18-a16f-527c793dbf8b.png",
-          "hotspot_color": "#070707",
-          "button_content": "plus",
-          "outer_circle": "pulse",
-          "full_width": true,
-          "text_alignment": "top left",
-          "overlay_style": "shadow",
-          "subheading": "Find out what makes the Pavo Alpha special",
-          "title": "Explore the tech",
-          "use_h1": false,
-          "heading_max_width": 10,
-          "text": "",
-          "button_1_label": "",
-          "button_1_link": "",
-          "button_1_style": "secondary",
-          "button_2_label": "",
-          "button_2_link": "",
-          "button_2_style": "primary"
-        }
-      },
-      "key_features_HNnzN4": {
-        "type": "key-features",
-        "blocks": {
-          "feature_dc7NKG": {
-            "type": "feature",
-            "settings": {
-              "image": "shopify://shop_images/IBS06265_871a68a2-7bf1-447e-a7bc-d8668ce6839c.jpg",
-              "bg_color": "#e3e3e3",
-              "bg_gradient": "",
-              "text_color": "#505050",
-              "heading": "Lightweight",
-              "text": "<p>Lightweight but bouncy midsole for impact protection.</p>",
-              "show_segments": true,
-              "segments": 4,
-              "active_segment": "1",
-              "fill_segments": true,
-              "show_labels": true,
-              "label_left": "",
-              "label_middle": "",
-              "label_right": "",
-              "show_icon": false,
-              "icon": "star"
-            }
-          },
-          "feature_qTh7r9": {
-            "type": "feature",
-            "settings": {
-              "image": "shopify://shop_images/IBS06087_f1b21941-aaef-4d3b-a260-c169c07da095.jpg",
-              "bg_color": "#c3c3c3",
-              "bg_gradient": "",
-              "text_color": "#505050",
-              "heading": "Grippy Outsole",
-              "text": "<p>Full length rubber composite outsole with inserts for added grips</p>",
-              "show_segments": true,
-              "segments": 4,
-              "active_segment": "2",
-              "fill_segments": true,
-              "show_labels": true,
-              "label_left": "",
-              "label_middle": "",
-              "label_right": "",
-              "show_icon": false,
-              "icon": "star"
-            }
-          },
-          "feature_xAJXJB": {
-            "type": "feature",
-            "settings": {
-              "image": "shopify://shop_images/IBS06222_d27d69ed-3413-4069-9508-1548aac01e77.jpg",
-              "bg_color": "#e3e3e3",
-              "bg_gradient": "",
-              "text_color": "#505050",
-              "heading": "No-fuss fastening",
-              "text": "<p>Easy to put on and take off with<br/>pull tabs and speed laces</p>",
-              "show_segments": true,
-              "segments": 4,
-              "active_segment": "3",
-              "fill_segments": true,
-              "show_labels": true,
-              "label_left": "",
-              "label_middle": "",
-              "label_right": "",
-              "show_icon": false,
-              "icon": "star"
-            }
-          },
-          "feature_mJAbqX": {
-            "type": "feature",
-            "settings": {
-              "image": "shopify://shop_images/Pavo_Constellation.png",
-              "bg_color": "#e3e3e3",
-              "bg_gradient": "",
-              "text_color": "#505050",
-              "heading": "Name origins",
-              "text": "<p>Pavo, Latin for \"peacock,\" is a constellation in the southern sky that symbolizes beauty and grandeur. Pavo Alpha is named after the brightest star in the<br/>Pavo constellation</p>",
-              "show_segments": true,
-              "segments": 4,
-              "active_segment": "4",
-              "fill_segments": true,
-              "show_labels": true,
-              "label_left": "",
-              "label_middle": "",
-              "label_right": "",
-              "show_icon": false,
-              "icon": "star"
-            }
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
           }
         },
-        "block_order": [
-          "feature_dc7NKG",
-          "feature_qTh7r9",
-          "feature_xAJXJB",
-          "feature_mJAbqX"
-        ],
-        "settings": {
-          "heading": "Key features",
-          "image_max_width": 700,
-          "media_aspect_ratio": "1",
-          "image_position": "right",
-          "segment_position": "under-text"
+        "accordion_fwgEt9": {
+          "type": "accordion",
+          "disabled": true,
+          "settings": {
+            "title": "Materials",
+            "icon": "shoe",
+            "content": "<p>TK</p>",
+            "page": "",
+            "custom_liquid": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "accordion_gX3W77": {
+          "type": "accordion",
+          "settings": {
+            "title": "Shipping & Returns",
+            "icon": "truck",
+            "content": "<p>Free shipping and returns. </p><p>Return period: 30 days.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "accordion_irz4pt": {
+          "type": "accordion",
+          "settings": {
+            "title": "Size Guide",
+            "icon": "ruler",
+            "content": "<p>Regular fit. True to size.</p><p>Need help finding the perfect size? Check our <a href=\"/pages/sizing-guide\" title=\"Sizing Guide\">sizing guide</a>.</p>",
+            "page": "",
+            "custom_liquid": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "variant-picker": {
+          "type": "variant-picker",
+          "settings": {
+            "show_single": false,
+            "selector_style": "listed",
+            "dynamic_availability": "show",
+            "enable_size_chart": false,
+            "size_chart_label": "Size guide",
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": false,
+            "show_pickup_availability": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "link_LTUi3V": {
+          "type": "link",
+          "disabled": true,
+          "settings": {
+            "url": "shopify://pages/subscription",
+            "open_in_new_tab": false,
+            "text": "Try Our Subscription Box — perfect for busy parents! Unlock exclusive perks and special pricing.",
+            "style": "primary",
+            "show_in_quickbuy": false
+          }
         }
       },
-      "related-products": {
-        "type": "related-products",
-        "disabled": true,
-        "settings": {
-          "title": "You may also like",
-          "show_vendor": false,
-          "grid": 2
-        }
+      "block_order": [
+        "title",
+        "price",
+        "divider_JgdW4L",
+        "richtext_fCNGqr",
+        "divider",
+        "description",
+        "accordion_fwgEt9",
+        "accordion_gX3W77",
+        "accordion_irz4pt",
+        "variant-picker",
+        "buy-buttons",
+        "link_LTUi3V"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "select_first_variant": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": false,
+        "enable_sticky_atc": true,
+        "sticky_atc_position": "end",
+        "sticky_atc_mobile": true,
+        "sticky_atc_behavior": "add_to_cart",
+        "sticky_atc_button_style": "secondary",
+        "gallery_size": "medium",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "show_alt_text": false,
+        "alt_text_icon": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "enable_media_grouping": false,
+        "media_grouping_option": "Color,Colour,Couleur,Farbe"
       }
     },
-    "order": [
-      "main",
-      "multi_column_3fw4mX",
-      "hotspots_ncmr6V",
-      "hotspots_tftLzQ",
-      "key_features_HNnzN4",
-      "related-products"
-    ]
-  }
-  
+    "multi_column_3fw4mX": {
+      "type": "multi-column",
+      "blocks": {
+        "text_block_3nWgaz": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/IBS06140_fe423564-c910-42b7-9e4c-32fb47a08976.jpg",
+            "title": "Burst of Splendor",
+            "text": "<p>The Pavo Alpha features a striking display of vibrant hues and playful patterns. Pavo, inspired by the vibrant peacock, brings a burst of color to kids' footwear. The sneaker is meant to symbolize beauty and confidence, helping your child step out in style and embrace their unique flair.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_694Nk9": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/IBS06222_d27d69ed-3413-4069-9508-1548aac01e77.jpg",
+            "title": "Easy as a Tie",
+            "text": "<p>With shoes this beautiful, why should getting into them be a chore? Pull tabs on the heel and tongue provide a solid hold, while a no-tie system featuring elastic laces and a hook-and-loop<br/>closure, the Pavo guarantees an easy on-off.</p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_Xq4hqT": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/IBS06265_871a68a2-7bf1-447e-a7bc-d8668ce6839c.jpg",
+            "title": "Flight Deck",
+            "text": "<p>Our most vibrant shoes are also amongst our plushest, delivering soft landings and powerful take-offs. A thick midsole combined with a plush sockliner and padded inners, the Pavo is loaded with stability and comfort for growing feet. </p><p></p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_3nWgaz",
+        "text_block_694Nk9",
+        "text_block_Xq4hqT"
+      ],
+      "settings": {
+        "title": "Key Features",
+        "media_aspect_ratio": "s",
+        "media_width": 700,
+        "text_alignment": "center",
+        "button_style": "primary",
+        "color_scheme": "default"
+      }
+    },
+    "hotspots_ncmr6V": {
+      "type": "hotspots",
+      "blocks": {
+        "hotspot_HTdqwE": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 29,
+            "hotspot_y": 32,
+            "hotspot_x_mobile": 28,
+            "hotspot_y_mobile": 38,
+            "heading": "Pull tabs",
+            "text": "<p>Pull-tabs on the tongue and heel for easy slipping in and out.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        },
+        "hotspot_BRC9CX": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 41,
+            "hotspot_y": 65,
+            "hotspot_x_mobile": 60,
+            "hotspot_y_mobile": 23,
+            "heading": "Plush Midsole",
+            "text": "<p>Plush midsole for extra comfort for their little feet.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        },
+        "hotspot_RqrfRN": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 66,
+            "hotspot_y": 54,
+            "hotspot_x_mobile": 73,
+            "hotspot_y_mobile": 54,
+            "heading": "Breathable Upper",
+            "text": "<p>A breathable upper keeps their feet fresh all day long.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "hotspot_HTdqwE",
+        "hotspot_BRC9CX",
+        "hotspot_RqrfRN"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/3_02e96a4a-6e61-4f2a-b3d0-be39f3627c13.png",
+        "hotspot_color": "#070707",
+        "button_content": "plus",
+        "outer_circle": "pulse",
+        "full_width": true,
+        "text_alignment": "top left",
+        "overlay_style": "shadow",
+        "subheading": "Find out what makes the Pavo Alpha special",
+        "title": "Explore the tech",
+        "use_h1": false,
+        "heading_max_width": 10,
+        "text": "",
+        "button_1_label": "",
+        "button_1_link": "",
+        "button_1_style": "secondary",
+        "button_2_label": "",
+        "button_2_link": "",
+        "button_2_style": "primary"
+      }
+    },
+    "hotspots_tftLzQ": {
+      "type": "hotspots",
+      "blocks": {
+        "hotspot_BkUtW9": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 49,
+            "hotspot_y": 85,
+            "hotspot_x_mobile": 28,
+            "hotspot_y_mobile": 38,
+            "heading": "Toe-cap",
+            "text": "<p>Toe-cap and overlays to protect from bumps.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        },
+        "hotspot_7jgVHp": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 48,
+            "hotspot_y": 47,
+            "hotspot_x_mobile": 50,
+            "hotspot_y_mobile": 50,
+            "heading": "Hook and Loop",
+            "text": "<p>No-fuss fastening system that's<br/>easy for little ones to use.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        },
+        "hotspot_FwXyLP": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 53,
+            "hotspot_y": 23,
+            "hotspot_x_mobile": 60,
+            "hotspot_y_mobile": 23,
+            "heading": "Padded Inners",
+            "text": "<p>Padded tongue and heel collars for stability and comfort.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        },
+        "hotspot_T489RT": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 52,
+            "hotspot_y": 61,
+            "hotspot_x_mobile": 64,
+            "hotspot_y_mobile": 54,
+            "heading": "Elastic Laces",
+            "text": "<p>Elastic laces for added secure fit</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        }
+      },
+      "block_order": [
+        "hotspot_BkUtW9",
+        "hotspot_7jgVHp",
+        "hotspot_FwXyLP",
+        "hotspot_T489RT"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/6_cc02dc8b-a7b6-4a18-a16f-527c793dbf8b.png",
+        "hotspot_color": "#070707",
+        "button_content": "plus",
+        "outer_circle": "pulse",
+        "full_width": true,
+        "text_alignment": "top left",
+        "overlay_style": "shadow",
+        "subheading": "Find out what makes the Pavo Alpha special",
+        "title": "Explore the tech",
+        "use_h1": false,
+        "heading_max_width": 10,
+        "text": "",
+        "button_1_label": "",
+        "button_1_link": "",
+        "button_1_style": "secondary",
+        "button_2_label": "",
+        "button_2_link": "",
+        "button_2_style": "primary"
+      }
+    },
+    "key_features_HNnzN4": {
+      "type": "key-features",
+      "blocks": {
+        "feature_dc7NKG": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/IBS06265_871a68a2-7bf1-447e-a7bc-d8668ce6839c.jpg",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Lightweight",
+            "text": "<p>Lightweight but bouncy midsole for impact protection.</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "1",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_qTh7r9": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/IBS06087_f1b21941-aaef-4d3b-a260-c169c07da095.jpg",
+            "bg_color": "#c3c3c3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Grippy Outsole",
+            "text": "<p>Full length rubber composite outsole with inserts for added grips</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "2",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_xAJXJB": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/IBS06222_d27d69ed-3413-4069-9508-1548aac01e77.jpg",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "No-fuss fastening",
+            "text": "<p>Easy to put on and take off with<br/>pull tabs and speed laces</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "3",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        },
+        "feature_mJAbqX": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify://shop_images/Pavo_Constellation.png",
+            "bg_color": "#e3e3e3",
+            "bg_gradient": "",
+            "text_color": "#505050",
+            "heading": "Name origins",
+            "text": "<p>Pavo, Latin for \"peacock,\" is a constellation in the southern sky that symbolizes beauty and grandeur. Pavo Alpha is named after the brightest star in the<br/>Pavo constellation</p>",
+            "show_segments": true,
+            "segments": 4,
+            "active_segment": "4",
+            "fill_segments": true,
+            "show_labels": true,
+            "label_left": "",
+            "label_middle": "",
+            "label_right": "",
+            "show_icon": false,
+            "icon": "star"
+          }
+        }
+      },
+      "block_order": [
+        "feature_dc7NKG",
+        "feature_qTh7r9",
+        "feature_xAJXJB",
+        "feature_mJAbqX"
+      ],
+      "settings": {
+        "heading": "Key features",
+        "image_max_width": 700,
+        "media_aspect_ratio": "1",
+        "image_position": "right",
+        "segment_position": "under-text"
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 2
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multi_column_3fw4mX",
+    "hotspots_ncmr6V",
+    "hotspots_tftLzQ",
+    "key_features_HNnzN4",
+    "related-products"
+  ]
+}

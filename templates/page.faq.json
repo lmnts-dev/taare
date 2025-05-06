@@ -107,7 +107,7 @@
           "type": "question",
           "settings": {
             "title": "Can I change or cancel my order?",
-            "answer": "<p>Yes, absolutely. </p><p>We will soon update our website to let you cancel or change your active order through the order history page.  </p><p>Until then, please reach out to us at info@taare.com with your  order number and we will cancel the order. </p><p>By the way, we offer free returns: 30 days for non-subscription members and 60 days for subscription members</p>"
+            "answer": "<p>Yes, absolutely. </p><p>We will soon update our website to let you cancel or change your active order through the order history page.  </p><p>Until then, please reach out to us at info@taare.com with your  order number and we will cancel the order. </p>"
           }
         },
         "question_XdzWXi": {
@@ -227,6 +227,7 @@
         "question_dqmept",
         "question_UPKEKj"
       ],
+      "disabled": true,
       "settings": {
         "title": "Subscription Management"
       }
@@ -379,6 +380,7 @@
         },
         "question_rirr8H": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "How is Taare making a difference?",
             "answer": "<p>Our 'Step Forward' initiative embodies our commitment to a better future for our kids, featuring:</p><ul><li>A 'Buy One, Give One' program, where every purchase helps provide a new pair of shoes to a child in need.</li><li>A shoe recycling program, collecting gently used shoes to distribute to kids worldwide, promoting mobility and equality.</li></ul>"
@@ -393,6 +395,7 @@
         },
         "question_h9PDth": {
           "type": "question",
+          "disabled": true,
           "settings": {
             "title": "What shoes can I donate using your prepaid labels?",
             "answer": "<p>You can donate any new or gently used Taare shoes. Gently used means no obvious or significant wear and tear, no holes, no mud or excessive staining, or items with broken/missing parts. </p><p>Taare sponsors the prepaid label and we have partnered with our friends at Soles4Souls to help distribute your donated around the world. To learn more about Soles4Souls, please visit their website: <a href=\"https://www.soles4souls.org\" target=\"_blank\" title=\"https://www.soles4souls.org\">www.soles4souls.org</a> </p>"
