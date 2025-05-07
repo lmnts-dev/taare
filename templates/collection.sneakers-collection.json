@@ -15,13 +15,13 @@
         "subheading_jpCqMN": {
           "type": "subheading",
           "settings": {
-            "subheading": "Taare Sneakers"
+            "subheading": "Offer Ends May 15"
           }
         },
         "heading_CPbEDA": {
           "type": "heading",
           "settings": {
-            "title": "Explore our growing collection",
+            "title": "Mother's Day Gift Alert",
             "heading_max_width": 15,
             "title_size": 84,
             "title_size_mobile": 32,
@@ -31,7 +31,7 @@
         "text_TrEjD3": {
           "type": "text",
           "settings": {
-            "text": "<p>More styles coming soon.</p>",
+            "text": "<p>Buy any pair of shoes and we’ll email you a special gift — just for moms!</p>",
             "enlarge_text": true
           }
         }
@@ -42,8 +42,8 @@
         "text_TrEjD3"
       ],
       "settings": {
-        "image": "shopify://shop_images/Taare_cover.png",
-        "height": "adapt",
+        "image": "shopify://shop_images/blue-yellow-gift-wrap.jpg",
+        "height": "fixed",
         "height_desktop": 600,
         "height_mobile": 460,
         "image_link": "",
