@@ -46,7 +46,7 @@
         "heading_UPAtHe": {
           "type": "heading",
           "settings": {
-            "title": "Moms, This One's On Us",
+            "title": "All-day shoes for growing kids",
             "heading_max_width": 29,
             "title_size": 64,
             "title_size_mobile": 32,
@@ -56,14 +56,14 @@
         "text_CpKChi": {
           "type": "text",
           "settings": {
-            "text": "<p>Get a free gift with every kids’ shoe purchase — ends May 15.</p>",
+            "text": "<p>Shop our extremely comfortable collection for little kids (ages 4-8 years). </p>",
             "enlarge_text": true
           }
         },
         "button_HN3gPM": {
           "type": "button",
           "settings": {
-            "button_label": "Shop & Claim Your Gift",
+            "button_label": "Explore our collection",
             "button_link": "shopify://collections/sneakers",
             "button_style": "secondary"
           }
@@ -85,12 +85,8 @@
         "button_HN3gPM",
         "button_YywMjL"
       ],
-      "custom_css": [
-        ".theme-img {object-fit: cover; object-position: top center;}"
-      ],
       "settings": {
-        "image": "shopify://shop_images/mothers-day-2025-hero-banner-taare-desktop.png",
-        "mobile_image": "shopify://shop_images/mothers-day-2025-hero-banner-taare_jpg.png",
+        "image": "shopify://shop_images/and-i-was-a-boy-from-school.jpg",
         "height": "fixed",
         "height_desktop": 600,
         "height_mobile": 460,
