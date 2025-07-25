@@ -89,10 +89,10 @@
         "media_JWdRdW": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/taare-pavo-track.png",
+            "image": "shopify://shop_images/sneakers-pavo-alpha-coast-trail-running-v1.jpg",
             "enlarge_media": true,
-            "subheading": "On the track",
-            "title": "Run",
+            "subheading": "On the trail",
+            "title": "Walk",
             "button_label": "",
             "link": "",
             "text_alignment": "bottom left"
@@ -101,7 +101,7 @@
         "media_hUJzfL": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/taare-cygnus-playground.png",
+            "image": "shopify://shop_images/sneakers-aquila-altair-play-at-the-park-v1.jpg",
             "enlarge_media": false,
             "subheading": "At the park",
             "title": "Play",
@@ -113,10 +113,10 @@
         "media_mk8fgW": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/Taare_Subscribe_2.png",
+            "image": "shopify://shop_images/sneakers-aquila-altair-vacation-fun-v1.jpg",
             "enlarge_media": false,
-            "subheading": "On the court",
-            "title": "Practice",
+            "subheading": "On the road",
+            "title": "Comfort",
             "button_label": "",
             "link": "",
             "text_alignment": "bottom left"
@@ -304,7 +304,7 @@
         "feature_mX6n4M": {
           "type": "feature",
           "settings": {
-            "image": "shopify://shop_images/IBS06142new.jpg",
+            "image": "shopify://shop_images/taare-aquila-altair-kids-sneakers-left-side-profile-grey.jpg",
             "bg_color": "#c3c3c3",
             "bg_gradient": "",
             "text_color": "#505050",
@@ -325,7 +325,7 @@
         "feature_PCf7Lg": {
           "type": "feature",
           "settings": {
-            "image": "shopify://shop_images/IBS06222_b7e38e22-b2a0-423a-9e32-3c47e6d12cb9.jpg",
+            "image": "shopify://shop_images/taare-pavo-alpha-kids-sneakers-toe-closeup-grey.jpg",
             "bg_color": "#e3e3e3",
             "bg_gradient": "",
             "text_color": "#505050",
@@ -346,7 +346,7 @@
         "feature_TtnhA4": {
           "type": "feature",
           "settings": {
-            "image": "shopify://shop_images/IBS06069_57aba164-93fb-45cd-baf4-319a0a1ac6c8.jpg",
+            "image": "shopify://shop_images/taare-cygnus-deneb-kids-sneakers-right-side-profile-grey.jpg",
             "bg_color": "#e3e3e3",
             "bg_gradient": "",
             "text_color": "#505050",

@@ -171,7 +171,7 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/IBS06140_fe423564-c910-42b7-9e4c-32fb47a08976.jpg",
+            "image": "shopify://shop_images/taare-pavo-alpha-kids-sneakers-front-angle-view-white.jpg",
             "title": "Burst of Splendor",
             "text": "<p>The Pavo Alpha features a striking display of vibrant hues and playful patterns. Pavo, inspired by the vibrant peacock, brings a burst of color to kids' footwear. The sneaker is meant to symbolize beauty and confidence, helping your child step out in style and embrace their unique flair.</p>",
             "button_label": "",
@@ -182,7 +182,7 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/IBS06222_d27d69ed-3413-4069-9508-1548aac01e77.jpg",
+            "image": "shopify://shop_images/taare-pavo-alpha-kids-sneakers-toe-closeup-white.jpg",
             "title": "Easy as a Tie",
             "text": "<p>With shoes this beautiful, why should getting into them be a chore? Pull tabs on the heel and tongue provide a solid hold, while a no-tie system featuring elastic laces and a hook-and-loop<br/>closure, the Pavo guarantees an easy on-off.</p>",
             "button_label": "",
@@ -193,7 +193,7 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/IBS06265_871a68a2-7bf1-447e-a7bc-d8668ce6839c.jpg",
+            "image": "shopify://shop_images/taare-pavo-alpha-kids-sneakers-heel-closeup-white.jpg",
             "title": "Flight Deck",
             "text": "<p>Our most vibrant shoes are also amongst our plushest, delivering soft landings and powerful take-offs. A thick midsole combined with a plush sockliner and padded inners, the Pavo is loaded with stability and comfort for growing feet. </p><p></p>",
             "button_label": "",
@@ -221,7 +221,7 @@
         "hotspot_HTdqwE": {
           "type": "hotspot",
           "settings": {
-            "hotspot_x": 29,
+            "hotspot_x": 15,
             "hotspot_y": 32,
             "hotspot_x_mobile": 28,
             "hotspot_y_mobile": 38,
@@ -264,7 +264,7 @@
         "hotspot_RqrfRN"
       ],
       "settings": {
-        "image": "shopify://shop_images/3_02e96a4a-6e61-4f2a-b3d0-be39f3627c13.png",
+        "image": "shopify://shop_images/taare-pavo-alpha-kids-sneakers-right-side-profile-grey.jpg",
         "hotspot_color": "#070707",
         "button_content": "plus",
         "outer_circle": "pulse",
@@ -290,8 +290,8 @@
         "hotspot_BkUtW9": {
           "type": "hotspot",
           "settings": {
-            "hotspot_x": 49,
-            "hotspot_y": 85,
+            "hotspot_x": 65,
+            "hotspot_y": 82,
             "hotspot_x_mobile": 28,
             "hotspot_y_mobile": 38,
             "heading": "Toe-cap",
@@ -303,7 +303,7 @@
         "hotspot_7jgVHp": {
           "type": "hotspot",
           "settings": {
-            "hotspot_x": 48,
+            "hotspot_x": 46,
             "hotspot_y": 47,
             "hotspot_x_mobile": 50,
             "hotspot_y_mobile": 50,
@@ -316,8 +316,8 @@
         "hotspot_FwXyLP": {
           "type": "hotspot",
           "settings": {
-            "hotspot_x": 53,
-            "hotspot_y": 23,
+            "hotspot_x": 37,
+            "hotspot_y": 24,
             "hotspot_x_mobile": 60,
             "hotspot_y_mobile": 23,
             "heading": "Padded Inners",
@@ -329,7 +329,7 @@
         "hotspot_T489RT": {
           "type": "hotspot",
           "settings": {
-            "hotspot_x": 52,
+            "hotspot_x": 58,
             "hotspot_y": 61,
             "hotspot_x_mobile": 64,
             "hotspot_y_mobile": 54,
@@ -347,7 +347,7 @@
         "hotspot_T489RT"
       ],
       "settings": {
-        "image": "shopify://shop_images/6_cc02dc8b-a7b6-4a18-a16f-527c793dbf8b.png",
+        "image": "shopify://shop_images/taare-pavo-alpha-kids-sneakers-top-view-grey.jpg",
         "hotspot_color": "#070707",
         "button_content": "plus",
         "outer_circle": "pulse",
@@ -373,7 +373,7 @@
         "feature_dc7NKG": {
           "type": "feature",
           "settings": {
-            "image": "shopify://shop_images/IBS06265_871a68a2-7bf1-447e-a7bc-d8668ce6839c.jpg",
+            "image": "shopify://shop_images/taare-pavo-alpha-kids-sneakers-left-side-profile-white.jpg",
             "bg_color": "#e3e3e3",
             "bg_gradient": "",
             "text_color": "#505050",
@@ -394,7 +394,7 @@
         "feature_qTh7r9": {
           "type": "feature",
           "settings": {
-            "image": "shopify://shop_images/IBS06087_f1b21941-aaef-4d3b-a260-c169c07da095.jpg",
+            "image": "shopify://shop_images/taare-pavo-alpha-kids-sneakers-sole-view-white.jpg",
             "bg_color": "#c3c3c3",
             "bg_gradient": "",
             "text_color": "#505050",
@@ -415,7 +415,7 @@
         "feature_xAJXJB": {
           "type": "feature",
           "settings": {
-            "image": "shopify://shop_images/IBS06222_d27d69ed-3413-4069-9508-1548aac01e77.jpg",
+            "image": "shopify://shop_images/taare-pavo-alpha-kids-sneakers-toe-closeup-white.jpg",
             "bg_color": "#e3e3e3",
             "bg_gradient": "",
             "text_color": "#505050",

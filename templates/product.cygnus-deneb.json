@@ -177,7 +177,7 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/IBS06141_721593d8-d3ed-4f32-aee4-75899b8d5049.jpg",
+            "image": "shopify://shop_images/taare-cygnus-deneb-kids-sneakers-front-angle-view-white.jpg",
             "title": "Grace for Impact",
             "text": "<p>Featuring crisp overlays and a soft color tone, the Cygnus Deneb has a classic appeal that is timeless and loved. And with suede accents and a premium upper that look and feel good, the Cygnus redefines classic cool.</p>",
             "button_label": "",
@@ -188,7 +188,7 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/IBS06227_8b892740-eb28-449c-b9d5-95c0a4760c23.jpg",
+            "image": "shopify://shop_images/taare-cygnus-deneb-kids-sneakers-toe-closeup-white.jpg",
             "title": "Eternally Cozy",
             "text": "<p>Combining timeless design with modern comfort, the Cygnus features a bouncy midsole to introduce plushness to the good looks of a classic sneaker. Plus, padded interiors and a little 100% textile lining make this an all-day comfortable classic sneaker.</p>",
             "button_label": "",
@@ -199,7 +199,7 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/IBS06261_6f713681-bc0e-4283-b4c2-85144f2fe870.jpg",
+            "image": "shopify://shop_images/taare-cygnus-deneb-kids-sneakers-heel-closeup-white.jpg",
             "title": "Wingman forever",
             "text": "<p>With suede reinforcements at the front and a leather heelcap, this classic is meant to withstand the hardships of an all-day grind. Reinforced toe bump and rubber outsole add durability to the timeless appeal of this classic.</p>",
             "button_label": "",
@@ -240,7 +240,7 @@
         "hotspot_HBcRAj": {
           "type": "hotspot",
           "settings": {
-            "hotspot_x": 32,
+            "hotspot_x": 15,
             "hotspot_y": 56,
             "hotspot_x_mobile": 50,
             "hotspot_y_mobile": 50,
@@ -253,8 +253,8 @@
         "hotspot_iKcDYx": {
           "type": "hotspot",
           "settings": {
-            "hotspot_x": 72,
-            "hotspot_y": 59,
+            "hotspot_x": 85,
+            "hotspot_y": 61,
             "hotspot_x_mobile": 50,
             "hotspot_y_mobile": 50,
             "heading": "Toe protection",
@@ -270,7 +270,7 @@
         "hotspot_iKcDYx"
       ],
       "settings": {
-        "image": "shopify://shop_images/4_2d2404c3-ba7c-450f-994f-d8ef1ad2cc05.png",
+        "image": "shopify://shop_images/taare-cygnus-deneb-kids-sneakers-right-side-profile-white.jpg",
         "hotspot_color": "#070707",
         "button_content": "plus",
         "outer_circle": "pulse",
@@ -296,8 +296,8 @@
         "hotspot_Lki4Jx": {
           "type": "hotspot",
           "settings": {
-            "hotspot_x": 44,
-            "hotspot_y": 42,
+            "hotspot_x": 64,
+            "hotspot_y": 52,
             "hotspot_x_mobile": 50,
             "hotspot_y_mobile": 50,
             "heading": "Classic closure",
@@ -309,8 +309,8 @@
         "hotspot_rPj67a": {
           "type": "hotspot",
           "settings": {
-            "hotspot_x": 50,
-            "hotspot_y": 15,
+            "hotspot_x": 26,
+            "hotspot_y": 28,
             "hotspot_x_mobile": 50,
             "hotspot_y_mobile": 50,
             "heading": "Cushioned inners",
@@ -325,7 +325,7 @@
         "hotspot_rPj67a"
       ],
       "settings": {
-        "image": "shopify://shop_images/7_922b9e14-4d63-43a6-90a4-51b1d04a7163.png",
+        "image": "shopify://shop_images/taare-cygnus-deneb-kids-sneakers-top-view-white.jpg",
         "hotspot_color": "#070707",
         "button_content": "plus",
         "outer_circle": "pulse",
@@ -351,7 +351,7 @@
         "feature_aJCKAF": {
           "type": "feature",
           "settings": {
-            "image": "shopify://shop_images/IBS06141_3d11c274-0cd7-414f-8e44-589c7848c03f.jpg",
+            "image": "shopify://shop_images/taare-cygnus-deneb-kids-sneakers-front-angle-view-white.jpg",
             "bg_color": "#e3e3e3",
             "bg_gradient": "",
             "text_color": "#505050",
@@ -372,7 +372,7 @@
         "feature_iRChNC": {
           "type": "feature",
           "settings": {
-            "image": "shopify://shop_images/IBS06227_234e2fbe-5d41-4352-b894-16117b1fed8e.jpg",
+            "image": "shopify://shop_images/taare-cygnus-deneb-kids-sneakers-toe-closeup-white.jpg",
             "bg_color": "#c3c3c3",
             "bg_gradient": "",
             "text_color": "#505050",
@@ -393,7 +393,7 @@
         "feature_WgCbDc": {
           "type": "feature",
           "settings": {
-            "image": "shopify://shop_images/IBS06261_6f713681-bc0e-4283-b4c2-85144f2fe870.jpg",
+            "image": "shopify://shop_images/taare-cygnus-deneb-kids-sneakers-heel-closeup-white.jpg",
             "bg_color": "#e3e3e3",
             "bg_gradient": "",
             "text_color": "#505050",

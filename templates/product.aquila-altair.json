@@ -177,7 +177,7 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/IBS06339_new_71c99b93-879c-4b5c-9465-2303d57a51cf.jpg",
+            "image": "shopify://shop_images/taare-aquila-altair-kids-sneakers-top-view-white.jpg",
             "title": "Fly High",
             "text": "<p>Aquila Altair's striking design blends bold lines with a minimalist aesthetic for everyday style. Featuring a sleek monochrome design, the shoe combines a plush upper, an ultra-comfortable midsole, and cushioning all around to put a spring in every step.</p>",
             "button_label": "",
@@ -188,7 +188,7 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/IBS06260_1521a939-6618-4c94-a3e8-012c88fd6b28.jpg",
+            "image": "shopify://shop_images/taare-aquila-altair-kids-sneakers-toe-closeup-white.jpg",
             "title": "In a Breeze",
             "text": "<p>Featuring a no-tie closure system, this shoe is perfect for all-day active kids. Pull-tabs on the tongue and heel make slipping in and out effortless, while elastic laces and power straps ensure a snug, secure fit all day.</p>",
             "button_label": "",
@@ -199,7 +199,7 @@
           "type": "text_block",
           "settings": {
             "enable_media": true,
-            "image": "shopify://shop_images/IBS06229_209c2907-1f69-4315-a35a-47822bc8e682.jpg",
+            "image": "shopify://shop_images/taare-aquila-altair-kids-sneakers-lateral-rear-view-white.jpg",
             "title": "To Protect and Soar",
             "text": "<p>Spanning from heel to toe, the outsole features a special traction pattern for exceptional grip and natural flexibility. Additionally, front bump protection and reinforced overlays provide safety zones for those precious little feet.</p>",
             "button_label": "",
@@ -253,7 +253,7 @@
         "hotspot_JWKypL": {
           "type": "hotspot",
           "settings": {
-            "hotspot_x": 25,
+            "hotspot_x": 15,
             "hotspot_y": 34,
             "hotspot_x_mobile": 50,
             "hotspot_y_mobile": 50,
@@ -265,8 +265,9 @@
         },
         "hotspot_q7Y3Hx": {
           "type": "hotspot",
+          "disabled": true,
           "settings": {
-            "hotspot_x": 64,
+            "hotspot_x": 75,
             "hotspot_y": 53,
             "hotspot_x_mobile": 50,
             "hotspot_y_mobile": 50,
@@ -278,8 +279,9 @@
         },
         "hotspot_iKcDYx": {
           "type": "hotspot",
+          "disabled": true,
           "settings": {
-            "hotspot_x": 72,
+            "hotspot_x": 85,
             "hotspot_y": 59,
             "hotspot_x_mobile": 50,
             "hotspot_y_mobile": 50,
@@ -298,7 +300,7 @@
         "hotspot_iKcDYx"
       ],
       "settings": {
-        "image": "shopify://shop_images/Aquila_Altair_Highlights_clean.png",
+        "image": "shopify://shop_images/taare-aquila-altair-kids-sneakers-right-side-profile-grey.jpg",
         "hotspot_color": "#070707",
         "button_content": "plus",
         "outer_circle": "pulse",
@@ -324,7 +326,7 @@
         "hotspot_Lki4Jx": {
           "type": "hotspot",
           "settings": {
-            "hotspot_x": 50,
+            "hotspot_x": 24,
             "hotspot_y": 32,
             "hotspot_x_mobile": 50,
             "hotspot_y_mobile": 50,
@@ -334,15 +336,28 @@
             "icon_width": 32
           }
         },
+        "hotspot_MRXkkL": {
+          "type": "hotspot",
+          "settings": {
+            "hotspot_x": 65,
+            "hotspot_y": 74,
+            "hotspot_x_mobile": 50,
+            "hotspot_y_mobile": 50,
+            "heading": "Breathable Uppers",
+            "text": "<p>Breathable uppers made from 90% textile keep their feet fresh and comfortable all day long.</p>",
+            "icon": "",
+            "icon_width": 32
+          }
+        },
         "hotspot_rPj67a": {
           "type": "hotspot",
           "settings": {
-            "hotspot_x": 50,
-            "hotspot_y": 15,
+            "hotspot_x": 32,
+            "hotspot_y": 85,
             "hotspot_x_mobile": 50,
             "hotspot_y_mobile": 50,
-            "heading": "Heel Tab",
-            "text": "<p>To help them easily slide their feet into the shoes.</p>",
+            "heading": "Added Reinforcements",
+            "text": "<p>Added reinforcements enhance the shoe's durability, and the toe cap protects their precious toes.</p>",
             "icon": "",
             "icon_width": 32
           }
@@ -350,10 +365,11 @@
       },
       "block_order": [
         "hotspot_Lki4Jx",
+        "hotspot_MRXkkL",
         "hotspot_rPj67a"
       ],
       "settings": {
-        "image": "shopify://shop_images/Aquila_Features_3.png",
+        "image": "shopify://shop_images/taare-aquila-altair-kids-sneakers-top-view-white.jpg",
         "hotspot_color": "#070707",
         "button_content": "plus",
         "outer_circle": "pulse",
@@ -379,7 +395,7 @@
         "feature_aJCKAF": {
           "type": "feature",
           "settings": {
-            "image": "shopify://shop_images/IBS06339_new_71c99b93-879c-4b5c-9465-2303d57a51cf.jpg",
+            "image": "shopify://shop_images/taare-aquila-altair-kids-sneakers-left-side-profile-white.jpg",
             "bg_color": "#e3e3e3",
             "bg_gradient": "",
             "text_color": "#505050",
@@ -400,7 +416,7 @@
         "feature_iRChNC": {
           "type": "feature",
           "settings": {
-            "image": "shopify://shop_images/IBS06260_1521a939-6618-4c94-a3e8-012c88fd6b28.jpg",
+            "image": "shopify://shop_images/taare-aquila-altair-kids-sneakers-lateral-rear-view-white.jpg",
             "bg_color": "#c3c3c3",
             "bg_gradient": "",
             "text_color": "#505050",
@@ -421,7 +437,7 @@
         "feature_WgCbDc": {
           "type": "feature",
           "settings": {
-            "image": "shopify://shop_images/IBS06142_new.jpg",
+            "image": "shopify://shop_images/taare-aquila-altair-kids-sneakers-front-angle-view-white.jpg",
             "bg_color": "#e3e3e3",
             "bg_gradient": "",
             "text_color": "#505050",
@@ -442,7 +458,7 @@
         "feature_NywqNH": {
           "type": "feature",
           "settings": {
-            "image": "shopify://shop_images/IBS06073_efbff056-eec0-4eab-9d5e-cb2074740239.jpg",
+            "image": "shopify://shop_images/taare-aquila-altair-kids-sneakers-rear-angle-view-white.jpg",
             "bg_color": "#e3e3e3",
             "bg_gradient": "",
             "text_color": "#505050",
