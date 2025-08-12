@@ -1,1 +1,230 @@
-{"sections":{"rich_text_ELMG6m":{"type":"rich-text","blocks":{"heading_DKCcgh":{"type":"heading","settings":{"title":"Kids' Footwear Sizing Guide","use_h1":false}},"text_4FnY83":{"type":"text","disabled":true,"settings":{"text":"<h6>Understanding the correct shoe size is crucial for ensuring comfort and support, especially for active children.<\/h6><h6><\/h6><h6>Follow our guide to get the right size for your kid.<\/h6>","enlarge_text":false}}},"block_order":["heading_DKCcgh","text_4FnY83"],"settings":{"height":"medium","text_alignment":"center","full_width":false,"color_scheme":"default"}},"multi_column_WPVzMK":{"type":"multi-column","blocks":{"text_block_xqDwjc":{"type":"text_block","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/taare-sizing-step1.png","title":"","text":"<h6><strong> Step 1<\/strong><\/h6><h6>Ask them to step on a piece of paper with their heel touching a wall behind.<\/h6>","button_label":"","link":""}},"text_block_qaC9TU":{"type":"text_block","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/taare-sizing-step2.png","title":"","text":"<h6><strong>Step 2<\/strong><\/h6><h6>Mark the end of their longest toe on the paper and measure from the wall to the marking.<\/h6>","button_label":"","link":""}},"text_block_EMUKtw":{"type":"text_block","settings":{"enable_media":true,"image":"shopify:\/\/shop_images\/taare-sizing-step3.png","title":"","text":"<h6><strong>Step 3<\/strong><\/h6><h6>Do the same for the other foot and compare measurements with our size chart below to get the right size.<\/h6>","button_label":"","link":""}}},"block_order":["text_block_xqDwjc","text_block_qaC9TU","text_block_EMUKtw"],"settings":{"title":"Find the right size for your child in 3 steps.","media_aspect_ratio":"s","media_width":700,"text_alignment":"center","button_style":"primary","color_scheme":"default"}},"custom_content_NLP48b":{"type":"custom-content","blocks":{"text_hgRkgQ":{"type":"text","settings":{"width":"half","subheading":"","title":"","text":"<p><strong>Important notes:<\/strong><\/p><ul><li>To ensure the right size, have your child wear their regular socks during the fitting.<\/li><li>Children's feet are often slightly different in size. Use the measurement of the bigger foot.<\/li><li>If the measurement is between sizes, we recommend going up a size for the best fit.<\/li><\/ul><p><\/p>","button_label":"","button_link":"","button_style":"primary","text_alignment":"left"}}},"block_order":["text_hgRkgQ"],"settings":{"alignment":"top"}},"main":{"type":"main-page","settings":{"show_page_title":false,"full_width":false}},"collection_list_pgx8P7":{"type":"collection-list","disabled":true,"settings":{"title":"","enable_carousel":false,"grid":4,"color_scheme":"default","full_width":true,"coll_grid_image_shape":"square","coll_grid_image_position":"center center","coll_thumb_mob_per_row":"2","coll_grid_show_count":true,"coll_text_position":"below","coll_text_position_under_mobile":false,"coll_thumb_text_align_x":"center","coll_thumb_text_align_y":"center","coll_button_style":"primary"}},"rich_text_yAe9G8":{"type":"rich-text","blocks":{"heading_iNafTT":{"type":"heading","settings":{"title":"Still worried about wrong sizing?","use_h1":false}},"text_R3NARd":{"type":"text","settings":{"text":"<p>Don't worry!   <\/p><p>Enjoy free size exchanges and returns within 30 days (60 days for subscription customers).<\/p>","enlarge_text":true}}},"block_order":["heading_iNafTT","text_R3NARd"],"settings":{"height":"medium","text_alignment":"center","full_width":false,"color_scheme":"1"}},"compact_messages_JC3HEp":{"type":"compact-messages","blocks":{"message_BbprNA":{"type":"message","settings":{"heading":"Message","subheading":"Add important information here","link_url":""}}},"block_order":["message_BbprNA"],"disabled":true,"settings":{"head_not_col_bg":"#f4f6f8","head_not_col_txt1":"#171717","head_not_col_txt2":"#4c4c4b","head_not_mob_show":true,"head_not_mob_text":"Sizing message","head_not_mob_url":""}},"rich_text_3g3Jkc":{"type":"rich-text","blocks":{"heading_aHa4jD":{"type":"heading","settings":{"title":"","use_h1":false}}},"block_order":["heading_aHa4jD"],"settings":{"height":"medium","text_alignment":"center","full_width":false,"color_scheme":"default"}}},"order":["rich_text_ELMG6m","multi_column_WPVzMK","custom_content_NLP48b","main","collection_list_pgx8P7","rich_text_yAe9G8","compact_messages_JC3HEp","rich_text_3g3Jkc"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rich_text_ELMG6m": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_DKCcgh": {
+          "type": "heading",
+          "settings": {
+            "title": "Kids' Footwear Sizing Guide",
+            "use_h1": false
+          }
+        },
+        "text_4FnY83": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<h6>Understanding the correct shoe size is crucial for ensuring comfort and support, especially for active children.</h6><h6></h6><h6>Follow our guide to get the right size for your kid.</h6>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_DKCcgh",
+        "text_4FnY83"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "default"
+      }
+    },
+    "multi_column_WPVzMK": {
+      "type": "multi-column",
+      "blocks": {
+        "text_block_xqDwjc": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/taare-sizing-step1.png",
+            "title": "",
+            "text": "<h6><strong> Step 1</strong></h6><h6>Ask them to step on a piece of paper with their heel touching a wall behind.</h6>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_qaC9TU": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/taare-sizing-step2.png",
+            "title": "",
+            "text": "<h6><strong>Step 2</strong></h6><h6>Mark the end of their longest toe on the paper and measure from the wall to the marking.</h6>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_EMUKtw": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "image": "shopify://shop_images/taare-sizing-step3.png",
+            "title": "",
+            "text": "<h6><strong>Step 3</strong></h6><h6>Do the same for the other foot and compare measurements with our size chart below to get the right size.</h6>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_xqDwjc",
+        "text_block_qaC9TU",
+        "text_block_EMUKtw"
+      ],
+      "settings": {
+        "title": "Find the right size for your child in 3 steps.",
+        "media_aspect_ratio": "s",
+        "media_width": 700,
+        "text_alignment": "center",
+        "button_style": "primary",
+        "color_scheme": "default"
+      }
+    },
+    "custom_content_NLP48b": {
+      "type": "custom-content",
+      "blocks": {
+        "text_hgRkgQ": {
+          "type": "text",
+          "settings": {
+            "width": "half",
+            "subheading": "",
+            "title": "",
+            "text": "<p><strong>Important notes:</strong></p><ul><li>To ensure the right size, have your child wear their regular socks during the fitting.</li><li>Children's feet are often slightly different in size. Use the measurement of the bigger foot.</li><li>If the measurement is between sizes, we recommend going up a size for the best fit.</li></ul><p></p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "primary",
+            "text_alignment": "left"
+          }
+        }
+      },
+      "block_order": [
+        "text_hgRkgQ"
+      ],
+      "settings": {
+        "alignment": "top"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_page_title": false,
+        "full_width": false
+      }
+    },
+    "collection_list_pgx8P7": {
+      "type": "collection-list",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "enable_carousel": false,
+        "grid": 4,
+        "color_scheme": "default",
+        "full_width": true,
+        "coll_grid_image_shape": "square",
+        "coll_grid_image_position": "center center",
+        "coll_thumb_mob_per_row": "2",
+        "coll_grid_show_count": true,
+        "coll_text_position": "below",
+        "coll_text_position_under_mobile": false,
+        "coll_thumb_text_align_x": "center",
+        "coll_thumb_text_align_y": "center",
+        "coll_button_style": "primary"
+      }
+    },
+    "rich_text_yAe9G8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_iNafTT": {
+          "type": "heading",
+          "settings": {
+            "title": "Still worried about wrong sizing?",
+            "use_h1": false
+          }
+        },
+        "text_R3NARd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Don't worry!   </p><p>Enjoy free size exchanges and returns within 30 days.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_iNafTT",
+        "text_R3NARd"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "1"
+      }
+    },
+    "compact_messages_JC3HEp": {
+      "type": "compact-messages",
+      "blocks": {
+        "message_BbprNA": {
+          "type": "message",
+          "settings": {
+            "heading": "Message",
+            "subheading": "Add important information here",
+            "link_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "message_BbprNA"
+      ],
+      "disabled": true,
+      "settings": {
+        "head_not_col_bg": "#f4f6f8",
+        "head_not_col_txt1": "#171717",
+        "head_not_col_txt2": "#4c4c4b",
+        "head_not_mob_show": true,
+        "head_not_mob_text": "Sizing message",
+        "head_not_mob_url": ""
+      }
+    },
+    "rich_text_3g3Jkc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aHa4jD": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_aHa4jD"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "default"
+      }
+    }
+  },
+  "order": [
+    "rich_text_ELMG6m",
+    "multi_column_WPVzMK",
+    "custom_content_NLP48b",
+    "main",
+    "collection_list_pgx8P7",
+    "rich_text_yAe9G8",
+    "compact_messages_JC3HEp",
+    "rich_text_3g3Jkc"
+  ]
+}
