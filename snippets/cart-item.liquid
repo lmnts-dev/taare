@@ -16,84 +16,6 @@
     assign image_loading = 'lazy'
   endif
 -%}
-
-{% comment %} Commence Addition {% endcomment %}
-{% assign bundle_variant = undefined %}
-
-<script>console.log("Commence Debug:", {{item.properties['_smartrr_info']}})</script>
-
-{% if item.properties['_smartrr_info'] != undefined %}
-  {% assign items = item.properties['_smartrr_info'] | handle | split: '-quot-id-quot-' %}
-
-  {% for item in items %}
-    {% if forloop.index0 != 0 %}
-      {% assign string = item | split: "quantity" %}
-      {% assign id = string[0] | remove: 'quot' | remove: '-' | plus: 0 %}
-      {% assign string = string[1] | split: "selling_plan" %}
-      {% assign quantity = string[0] | remove: 'quot' | remove: '-' %}
-
-      {% paginate collections.all.products by 1000 %}
-        {% for product in collections.all.products %}
-            {% for variant in product.variants %}
-              {% if variant.id == id %}
-                {% assign bundle_variant = variant %}
-              {% endif %}
-            {% endfor %}
-        {% endfor %}
-      {% endpaginate %}
-
-      {% if bundle_variant != undefined and id != "" and id != undefined and quantity != "" and quantity != undefined %}
-
-        <div class="cart-item variant-{{ id }}" {% if animate %}{%- render 'animation-attrs', attrs: 'data-cc-animate', always: true -%}{% endif %}>
-          <div class="cart-item__column cart-item__image">
-            {% if bundle_variant.image %}
-              <a href="{{ bundle_variant.url }}">
-                {%- render 'image', image: bundle_variant.image, sizes: '100px', widths: '100, 200', loading: image_loading -%}
-              </a>
-            {% else %}
-              <a href="{{ bundle_variant.url }}">
-                {%- render 'image', image: bundle_variant.product.featured_image, sizes: '100px', widths: '100, 200', loading: image_loading -%}
-              </a>
-            {% endif %}
-          </div>
-
-          <div class="cart-item__not-image">
-            <div class="cart-item__column cart-item__description">
-              <div class="lightly-spaced-row">
-                <div class="cart-item__title">
-                  <a class="text-current" href="{{ bundle_variant.url }}">{{ bundle_variant.product.title}}</a>
-                </div>
-                <div class="small-text">
-                    {% for option in bundle_variant.options -%}
-                      <div class="line-item-property">
-                        {{ bundle_variant.product.options[forloop.index0] }}: {{ option }}
-                      </div>
-                    {%- endfor %}
-                  <div class="line-item-property">
-                    Quantity: {{quantity}}
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="cart-item__column cart-item__price">
-              <span class="theme-money cart-item__selling-price">
-              {{ 0 | money }}
-              </span>
-            </div>
-
-          </div>
-        </div>
-      {% endif %}
-
-      {% comment %} To do if variant image exists, use it, if not product image {% endcomment %}
-    {% endif %}
-
-    {% assign bundle_variant = undefined %}
-  {% endfor %}
-{% endif %}
-{% comment %} End Commence Addition {% endcomment %}
-
 <div class="cart-item product-{{ item.product.handle }}"{% if animate %}{%- render 'animation-attrs', attrs: 'data-cc-animate', always: true -%}{% endif %}>
   <div class="cart-item__column cart-item__image">
     <a href="{{ item.url }}">
@@ -117,7 +39,6 @@
             {%- endfor -%}
           {%- endif -%}
 
-          {% if item.properties['_smartrr_info'] == undefined %} {% comment %} Commence Addition {% endcomment %}
             {%- for property in item.properties -%}
               {%- assign property_first_char = property.first | slice: 0 -%}
               {% if property.last != blank and property_first_char != '_' %}
@@ -129,17 +50,10 @@
                     {%- else -%}
                       {{- property.last | escape_once -}}
                     {%- endif -%}
-
                   </span>
                 </div>
               {% endif %}
             {%- endfor -%}
-
-          {% comment %} Commence Addition {% endcomment %}
-            {% else %} 
-              <div class="line-item-property"><span>Bundle: {{item.product.title }}</span></div>
-            {% endif %} 
-          {% comment %} End Commence Addition {% endcomment %}
 
           {% if item.selling_plan_allocation %}
             <div class="subscription-description">{{ item.selling_plan_allocation.selling_plan.name | escape_once }}</div>
