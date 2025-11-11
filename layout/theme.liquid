@@ -164,6 +164,15 @@
 
   {{ content_for_header }}
 
+{% comment %}
+Added by Sid to correctly render the embeded Klaviyo form for collecting reviews. 
+That Klaviyo form is embedded in /pages/share-your-review 
+{% endcomment %}
+
+  {%- if request.page_type == 'page' and page.handle == 'share-your-review' -%} 
+    {{ 'share-your-review.css' | asset_url | stylesheet_tag }}
+  {%- endif -%}
+
   {%- if settings.custom_html_head -%}
     <!-- CC Custom Head Start -->
     {{- settings.custom_html_head -}}
