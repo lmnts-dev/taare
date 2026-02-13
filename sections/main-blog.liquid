@@ -113,12 +113,9 @@
           {% if section.settings.show_author %}
             {% if section.settings.show_date %}&mdash;{% endif %}
             <span class="author">
-  {% if article.metafields.custom.author_name %}
-    {{ article.metafields.custom.author_name }}
-  {% else %}
-    {{ article.author }}
-  {% endif %}
+  {{ article.metafields.custom.taare_collective | default: article.author }}
 </span>
+
           {% endif %}
         </span>
 
